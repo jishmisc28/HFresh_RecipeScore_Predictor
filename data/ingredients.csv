@@ -1,0 +1,2333 @@
+Recipe_code,Recipe_name,Ingredient,Unit_weight_amount
+R60502A,Saag Paneer Flatbread,Garam Masala,1
+R60502A,Saag Paneer Flatbread,"Curry, Powder",1
+R60502A,Saag Paneer Flatbread,Cilantro,0.25
+R60502A,Saag Paneer Flatbread,"Onion, Yellow",1
+R60502A,Saag Paneer Flatbread,"Cheese, Cream",1
+R60502A,Saag Paneer Flatbread,"Bread, Flatbread",2
+R60502A,Saag Paneer Flatbread,"Pepper, Thai Bird's Eye Chili",1
+R60502A,Saag Paneer Flatbread,"Cheese, Fresh Mozzarella - 4 Ounce (oz)",4
+R45085,Thai Pork Larb,"Pork, Ground",10
+R45085,Thai Pork Larb,"Rice, Jade ",0.75
+R45085,Thai Pork Larb,Green Beans,6
+R45085,Thai Pork Larb,"Garlic, Peeled",2
+R45085,Thai Pork Larb,Shallot,2
+R45085,Thai Pork Larb,"Pepper, Thai Bird's Eye Chili",1
+R45085,Thai Pork Larb,Soy Sauce,1
+R45085,Thai Pork Larb,Sesame Oil,1
+R45085,Thai Pork Larb,Lime,1
+R45085,Thai Pork Larb,"Peanuts, Unsalted",1
+R45085,Thai Pork Larb,"Herb, Basil",0.5
+R15170A,,,
+R66671A,,,
+R66675A,,,
+R15153A,Teriyaki Chicken and Snow Pea Stirfry,"Chicken, Stir Fry",10
+R15153A,Teriyaki Chicken and Snow Pea Stirfry,"Onion, Yellow",1
+R15153A,Teriyaki Chicken and Snow Pea Stirfry,Snow Peas 8oz,8
+R15153A,Teriyaki Chicken and Snow Pea Stirfry,"Sesame Seeds, White",1
+R15153A,Teriyaki Chicken and Snow Pea Stirfry,"Rice, Precooked Long Grain White",8.5
+R15153A,Teriyaki Chicken and Snow Pea Stirfry,Teriyaki Sauce HF Private Label,4
+R35111B,One-Pan Crispy Tilapia,Tilapia,11
+R35111B,One-Pan Crispy Tilapia,"Breadcrumbs, Panko",0.25
+R35111B,One-Pan Crispy Tilapia,Chives,0.25
+R35111B,One-Pan Crispy Tilapia,Lemon,1
+R35111B,One-Pan Crispy Tilapia,Asparagus,6
+R10213A,Maple glazed chicken,"Chicken, Breasts",12
+R10213A,Maple glazed chicken,Maple Syrup,1
+R10213A,Maple glazed chicken,"Garlic, Peeled",2
+R10213A,Maple glazed chicken,"Vinegar, Balsamic",25
+R10213A,Maple glazed chicken,Green Beans,6
+R10213A,Maple glazed chicken,"Cinnamon, Ground",1
+R10213A,Maple glazed chicken,Pecans,1
+R10082,Rosemary-Walnut Crusted Chicken,"Chicken, Breasts",12
+R10082,Rosemary-Walnut Crusted Chicken,"Potato, Russet",12
+R10082,Rosemary-Walnut Crusted Chicken,"Lettuce, Spring Mix",2
+R10082,Rosemary-Walnut Crusted Chicken,"Breadcrumbs, Panko",0.25
+R10082,Rosemary-Walnut Crusted Chicken,Rosemary,0.25
+R10082,Rosemary-Walnut Crusted Chicken,Walnuts,1
+R10082,Rosemary-Walnut Crusted Chicken,"Vinegar, Balsamic",25
+R10082,Rosemary-Walnut Crusted Chicken,Dijon Mustard Packet,10
+R90027A,Breakfast Sausage Flatbread with Eggs,Eggs,2
+R90027A,Breakfast Sausage Flatbread with Eggs,"Sausage, Raw Breakfast Pork",4
+R90027A,Breakfast Sausage Flatbread with Eggs,"Bread, Flatbread",2
+R90027A,Breakfast Sausage Flatbread with Eggs,"Tomato, Roma",1
+R90027A,Breakfast Sausage Flatbread with Eggs,"Herb, Basil",0.5
+R90027A,Breakfast Sausage Flatbread with Eggs,"Spice, Italian Seasoning - ""So Delizioso""",1
+R90027A,Breakfast Sausage Flatbread with Eggs,Shallot,2
+R90027A,Breakfast Sausage Flatbread with Eggs,"Cheese, Shredded Parmesan",1
+R40084A,lemongrass pork tenderloin,"Pork, Tenderloin",12
+R40084A,lemongrass pork tenderloin,"Lemongrass Stalk, 7in",1
+R40084A,lemongrass pork tenderloin,"Garlic, Peeled",2
+R40084A,lemongrass pork tenderloin,Lime,1
+R40084A,lemongrass pork tenderloin,Soy Sauce,1
+R40084A,lemongrass pork tenderloin,"Stock Concentrate, Veggie",9.6
+R40084A,lemongrass pork tenderloin,"Rice, Jasmine",0.75
+R40084A,lemongrass pork tenderloin,Snow Peas,4
+R40084A,lemongrass pork tenderloin,"Sesame Seeds, White",1
+R66668A,,,
+R25097A,,,
+R30903A,Pasta with Spicy Shrimp and Garlic Herb Butter,Shrimp,10
+R30903A,Pasta with Spicy Shrimp and Garlic Herb Butter,"Pasta, Penne",6
+R30903A,Pasta with Spicy Shrimp and Garlic Herb Butter,"Cheese, Shredded Parmesan",1
+R30903A,Pasta with Spicy Shrimp and Garlic Herb Butter,"Butter, Roasted Garlic Herb",1
+R30903A,Pasta with Spicy Shrimp and Garlic Herb Butter,"Squash, Zucchini",8
+R30903A,Pasta with Spicy Shrimp and Garlic Herb Butter,"Pepper, Thai Bird's Eye Chili",1
+R20167A,Ranch Steak With Creamy Peppercorn Sauce,"Garlic, Peeled",2
+R20167A,Ranch Steak With Creamy Peppercorn Sauce,Scallions,2
+R20167A,Ranch Steak With Creamy Peppercorn Sauce,"Bread, Ciabatta",1
+R20167A,Ranch Steak With Creamy Peppercorn Sauce,"Peppercorns, Black",1
+R20167A,Ranch Steak With Creamy Peppercorn Sauce,"Steak, Ranch",10
+R20167A,Ranch Steak With Creamy Peppercorn Sauce,"Stock Concentrate, Beef",12
+R20167A,Ranch Steak With Creamy Peppercorn Sauce,Dijon Mustard Packet,10
+R20167A,Ranch Steak With Creamy Peppercorn Sauce,Sour Cream,1
+R20167A,Ranch Steak With Creamy Peppercorn Sauce,"Broccoli, Florets",8
+R45078,"Oven-Baked Corn & Tomato Risotto with Pancetta, Thyme, and Parmesan NOT FOR FAM","Rice, Arborio",0.75
+R45078,"Oven-Baked Corn & Tomato Risotto with Pancetta, Thyme, and Parmesan NOT FOR FAM","Thyme, Fresh",0.25
+R45078,"Oven-Baked Corn & Tomato Risotto with Pancetta, Thyme, and Parmesan NOT FOR FAM","Pork, Pancetta",4
+R45078,"Oven-Baked Corn & Tomato Risotto with Pancetta, Thyme, and Parmesan NOT FOR FAM","Cheese, Shredded Parmesan",1
+R45078,"Oven-Baked Corn & Tomato Risotto with Pancetta, Thyme, and Parmesan NOT FOR FAM","Tomato, Grape",4
+R45078,"Oven-Baked Corn & Tomato Risotto with Pancetta, Thyme, and Parmesan NOT FOR FAM",Corn Kernels,13.4
+R45078,"Oven-Baked Corn & Tomato Risotto with Pancetta, Thyme, and Parmesan NOT FOR FAM","Onion, Yellow",1
+R45078,"Oven-Baked Corn & Tomato Risotto with Pancetta, Thyme, and Parmesan NOT FOR FAM","Garlic, Peeled",2
+R45078,"Oven-Baked Corn & Tomato Risotto with Pancetta, Thyme, and Parmesan NOT FOR FAM",Lemon,1
+R45078,"Oven-Baked Corn & Tomato Risotto with Pancetta, Thyme, and Parmesan NOT FOR FAM","Paprika, Smoked",1
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,"Sugar, Brown",1
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,"Paprika, Smoked",1
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,"Salmon, Skin-On",10
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,Sunflower Seeds,1
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,Lemon,1
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,Dijon Mustard Packet,5
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,"Lettuce, Spring Mix",2
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Bread, Flatbread",2
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Cheese, Fresh Mozzarella - 4 Ounce (oz)",4
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Sausage, Raw Lean Sweet Italian Pork",9
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Tomato, Crushed",13.76
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Lettuce, Spring Mix",2
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Vinegar, White Wine",25
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Pepper, Jalapeno",1
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad",Shallot,2
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Spice, Italian Seasoning - ""So Delizioso""",1
+R60166B,Bell Pepper and Black Bean Quesadillas,"Tortillas, 10-inch Flour",2
+R60166B,Bell Pepper and Black Bean Quesadillas,"Onion, Yellow",1
+R60166B,Bell Pepper and Black Bean Quesadillas,"Garlic, Peeled",2
+R60166B,Bell Pepper and Black Bean Quesadillas,"Beans, Black",13.4
+R60166B,Bell Pepper and Black Bean Quesadillas,"Lettuce, Arugula",2
+R60166B,Bell Pepper and Black Bean Quesadillas,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R60166B,Bell Pepper and Black Bean Quesadillas,"Tomato, Heirloom Grape",4
+R60166B,Bell Pepper and Black Bean Quesadillas,Lime,1
+R60166B,Bell Pepper and Black Bean Quesadillas,Sour Cream,1
+R60166B,Bell Pepper and Black Bean Quesadillas,Honey .5oz,0.5
+R60166B,Bell Pepper and Black Bean Quesadillas,Mexican Spice Blend,1
+R45057,"Tuscan Ribollita with Kale, Italian Sausage, and Parmesan Croutons CLASSIC ONLY","Sausage, Raw Ground Lean Sweet Italian Pork",9
+R45057,"Tuscan Ribollita with Kale, Italian Sausage, and Parmesan Croutons CLASSIC ONLY","Bread, Ciabatta",1
+R45057,"Tuscan Ribollita with Kale, Italian Sausage, and Parmesan Croutons CLASSIC ONLY","Onion, Red",1
+R45057,"Tuscan Ribollita with Kale, Italian Sausage, and Parmesan Croutons CLASSIC ONLY","Garlic, Peeled",2
+R45057,"Tuscan Ribollita with Kale, Italian Sausage, and Parmesan Croutons CLASSIC ONLY","Kale, Chopped",8
+R45057,"Tuscan Ribollita with Kale, Italian Sausage, and Parmesan Croutons CLASSIC ONLY","Tomato, Diced",14
+R45057,"Tuscan Ribollita with Kale, Italian Sausage, and Parmesan Croutons CLASSIC ONLY","Beans, Cannellini",13.4
+R45057,"Tuscan Ribollita with Kale, Italian Sausage, and Parmesan Croutons CLASSIC ONLY","Cheese, Shredded Parmesan",1
+R45057,"Tuscan Ribollita with Kale, Italian Sausage, and Parmesan Croutons CLASSIC ONLY",Chili Flakes,1
+R45057,"Tuscan Ribollita with Kale, Italian Sausage, and Parmesan Croutons CLASSIC ONLY","Stock Concentrate, Chicken",9.6
+R10258A,,,
+R20154A,"Steak Sheet Bake - Potatoes, Mini Bell Peppers, Orange Parsley Butter","Potato, Yukon B",16
+R20154A,"Steak Sheet Bake - Potatoes, Mini Bell Peppers, Orange Parsley Butter","Potato, Sweet 6oz",1
+R20154A,"Steak Sheet Bake - Potatoes, Mini Bell Peppers, Orange Parsley Butter",Shallot,2
+R20154A,"Steak Sheet Bake - Potatoes, Mini Bell Peppers, Orange Parsley Butter",Parsley,0.25
+R20154A,"Steak Sheet Bake - Potatoes, Mini Bell Peppers, Orange Parsley Butter","Tomato, Heirloom Grape",4
+R20154A,"Steak Sheet Bake - Potatoes, Mini Bell Peppers, Orange Parsley Butter","Bell Pepper, Mini",6
+R20154A,"Steak Sheet Bake - Potatoes, Mini Bell Peppers, Orange Parsley Butter","Steak, Sirloin",12
+R20154A,"Steak Sheet Bake - Potatoes, Mini Bell Peppers, Orange Parsley Butter","Demi Glace, Beef",1
+R20154A,"Steak Sheet Bake - Potatoes, Mini Bell Peppers, Orange Parsley Butter","Butter, Roasted Garlic Herb",1
+R60088,Roasted Eggplant Linguine with Sun-Dried Tomato and Chili,"Pasta, Linguine",6
+R60088,Roasted Eggplant Linguine with Sun-Dried Tomato and Chili,"Eggplant, Italian - 24-30 ct",1
+R60088,Roasted Eggplant Linguine with Sun-Dried Tomato and Chili,"Garlic, Peeled",2
+R60088,Roasted Eggplant Linguine with Sun-Dried Tomato and Chili,"Onion, Yellow",1
+R60088,Roasted Eggplant Linguine with Sun-Dried Tomato and Chili,"Tomato, Sun-Dried",1.5
+R60088,Roasted Eggplant Linguine with Sun-Dried Tomato and Chili,Chili Flakes,1
+R60088,Roasted Eggplant Linguine with Sun-Dried Tomato and Chili,Parsley,0.25
+R60088,Roasted Eggplant Linguine with Sun-Dried Tomato and Chili,"Cheese, Fresh Mozzarella - 4 Ounce (oz)",4
+R60088,Roasted Eggplant Linguine with Sun-Dried Tomato and Chili,"Tomato, Diced",14
+R60456B,Squash Flatbread with Fresh Mozzarella,"Squash, Yellow",8
+R60456B,Squash Flatbread with Fresh Mozzarella,Pine Nuts,1
+R60456B,Squash Flatbread with Fresh Mozzarella,"Cheese, Fresh Mozzarella - 4 Ounce (oz)",4
+R60456B,Squash Flatbread with Fresh Mozzarella,Scallions,2
+R60456B,Squash Flatbread with Fresh Mozzarella,"Bread, Flatbread",2
+R60456B,Squash Flatbread with Fresh Mozzarella,"Herb, Basil",0.5
+R60456B,Squash Flatbread with Fresh Mozzarella,"Lettuce, Spring Mix",2
+R60456B,Squash Flatbread with Fresh Mozzarella,Lemon,1
+R60456B,Squash Flatbread with Fresh Mozzarella,"Tomato, Grape",4
+R60456B,Squash Flatbread with Fresh Mozzarella,Honey .5oz,0.5
+R60456B,Squash Flatbread with Fresh Mozzarella,Chili Flakes,1
+R15110A,1 Pan Chicken Sausage Orzotto,"Squash, Zucchini",8
+R15110A,1 Pan Chicken Sausage Orzotto,Scallions,2
+R15110A,1 Pan Chicken Sausage Orzotto,"Sausage Mix, Raw Sweet Italian Chicken",9
+R15110A,1 Pan Chicken Sausage Orzotto,"Spice, Italian Seasoning - ""So Delizioso""",1
+R15110A,1 Pan Chicken Sausage Orzotto,"Pasta, Orzo",6
+R15110A,1 Pan Chicken Sausage Orzotto,"Stock Concentrate, Chicken",9.6
+R15110A,1 Pan Chicken Sausage Orzotto,"Tomato, Crushed",13.76
+R15110A,1 Pan Chicken Sausage Orzotto,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R15148B,Bulgogi Tacos,"Cucumber, Persian",1
+R15148B,Bulgogi Tacos,Scallions,2
+R15148B,Bulgogi Tacos,"Vinegar, White Wine",25
+R15148B,Bulgogi Tacos,"Chicken, Stir Fry",10
+R15148B,Bulgogi Tacos,"Cabbage, Shredded Red",4
+R15148B,Bulgogi Tacos,"Sauce, Bulgogi Sauce - Private Label",4
+R15148B,Bulgogi Tacos,Sour Cream,1
+R15148B,Bulgogi Tacos,Sriracha Sauce,1
+R15148B,Bulgogi Tacos,"Tortillas, 6-inch Flour",6
+R80007A,Lobster Ravioli with Shrimp and Heirloom Tomatoes,"Pasta, Lobster Ravioli",9
+R80007A,Lobster Ravioli with Shrimp and Heirloom Tomatoes,"Tomato, Heirloom Grape 10oz",10
+R80007A,Lobster Ravioli with Shrimp and Heirloom Tomatoes,Shrimp,10
+R80007A,Lobster Ravioli with Shrimp and Heirloom Tomatoes,Tarragon,0.25
+R80007A,Lobster Ravioli with Shrimp and Heirloom Tomatoes,"Garlic, Peeled",2
+R40078B,Seared Pork Tenderloin with Homemade Applesauce and green beans,"Pork, Tenderloin",12
+R40078B,Seared Pork Tenderloin with Homemade Applesauce and green beans,Green Beans,6
+R40078B,Seared Pork Tenderloin with Homemade Applesauce and green beans,Lemon,1
+R40078B,Seared Pork Tenderloin with Homemade Applesauce and green beans,Parsley,0.25
+R40078B,Seared Pork Tenderloin with Homemade Applesauce and green beans,Applesauce Spice Blend,1
+R40078B,Seared Pork Tenderloin with Homemade Applesauce and green beans,"Potato, White C",12
+R40078B,Seared Pork Tenderloin with Homemade Applesauce and green beans,"Rosemary, Dried",1
+R60288,Roasted Vegetable Quesadillas,"Tortillas, 6-inch Flour",6
+R60288,Roasted Vegetable Quesadillas,"Squash, Zucchini",8
+R60288,Roasted Vegetable Quesadillas,Lime,1
+R60288,Roasted Vegetable Quesadillas,"Lettuce, Arugula",2
+R60288,Roasted Vegetable Quesadillas,Mayonnaise,1
+R60288,Roasted Vegetable Quesadillas,"Oregano, Dried",1
+R60288,Roasted Vegetable Quesadillas,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R60288,Roasted Vegetable Quesadillas,"Tomato, Roma",1
+R60288,Roasted Vegetable Quesadillas,Cilantro,0.25
+R60288,Roasted Vegetable Quesadillas,"Onion, Red",1
+R60288,Roasted Vegetable Quesadillas,Chipotle Powder,1
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Tortillas, 10-inch Flour",2
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Chicken, Stir Fry",10
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream",Tomato Paste,6
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Cheese, Shredded Mexican Cheese Blend",2
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Pepper, Poblano",1
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream",Enchilada Spice Blend,1
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream",Scallions,2
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Spice, Southwest Spice - ""Warm n' Smoky""",1
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Onion, Yellow",1
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Mint, Fresh",0.25
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Garlic, Peeled",2
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Pasta, Penne",6
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Stock Concentrate, Veggie",9.6
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,Pine Nuts,1
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Pork, Pancetta",4
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Peas, Fresh and Frozen - 4 Ounce (oz)",4
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Cheese, Shredded Parmesan",1
+R45178A,Pineapple BBQ Pizza,"Pork, Ground",10
+R45178A,Pineapple BBQ Pizza,Sweet and Smoky BBQ Seasoning,1
+R45178A,Pineapple BBQ Pizza,"Pineapple, In-Juice",4
+R45178A,Pineapple BBQ Pizza,"Tomato, Roma",1
+R45178A,Pineapple BBQ Pizza,"Pepper, Jalapeno",1
+R45178A,Pineapple BBQ Pizza,Shallot,2
+R45178A,Pineapple BBQ Pizza,"Vinegar, White Wine",25
+R45178A,Pineapple BBQ Pizza,"Bread, Flatbread",2
+R45178A,Pineapple BBQ Pizza,"Cheese, Shredded Italian Blend",2
+R45178A,Pineapple BBQ Pizza,Classic BBQ Sauce,2
+R10139,UK Pesto Roulades with Roasted Potatoes,"Potato, Yukon B",12
+R10139,UK Pesto Roulades with Roasted Potatoes,"Breadcrumbs, Panko",0.5
+R10139,UK Pesto Roulades with Roasted Potatoes,"Chicken, Breasts",12
+R10139,UK Pesto Roulades with Roasted Potatoes,"Pesto, Fresh 2oz",2
+R10139,UK Pesto Roulades with Roasted Potatoes,"Lettuce, Spring Mix",2
+R10139,UK Pesto Roulades with Roasted Potatoes,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R10139,UK Pesto Roulades with Roasted Potatoes,Lemon,1
+R20164A,Mediterranean Gyro bowl,Bulgur Wheat,0.5
+R20164A,Mediterranean Gyro bowl,"Squash, Zucchini",8
+R20164A,Mediterranean Gyro bowl,"Tomato, Roma",1
+R20164A,Mediterranean Gyro bowl,Lemon,1
+R20164A,Mediterranean Gyro bowl,"Garlic, Peeled",2
+R20164A,Mediterranean Gyro bowl,"Steak, Minute",10
+R20164A,Mediterranean Gyro bowl,Mediterranean Spice Blend,1
+R60080,Creamy Linguine with Wild Mushrooms and Tarragon,"Pasta, Linguine",6
+R60080,Creamy Linguine with Wild Mushrooms and Tarragon,"Mushrooms, Button",4
+R60080,Creamy Linguine with Wild Mushrooms and Tarragon,Lemon,1
+R60080,Creamy Linguine with Wild Mushrooms and Tarragon,"Garlic, Peeled",2
+R60080,Creamy Linguine with Wild Mushrooms and Tarragon,"Onion, Red",1
+R60080,Creamy Linguine with Wild Mushrooms and Tarragon,Tarragon,0.25
+R60080,Creamy Linguine with Wild Mushrooms and Tarragon,Sour Cream,1
+R60080,Creamy Linguine with Wild Mushrooms and Tarragon,"Cheese, Shredded Parmesan",1
+R35101,UK Herby Sea Bass with Salsa Verde,Sole,12
+R35101,UK Herby Sea Bass with Salsa Verde,"Potato, Yukon B",12
+R35101,UK Herby Sea Bass with Salsa Verde,"Garlic, Peeled",2
+R35101,UK Herby Sea Bass with Salsa Verde,"Olives, Green",1
+R35101,UK Herby Sea Bass with Salsa Verde,Parsley,0.25
+R35101,UK Herby Sea Bass with Salsa Verde,Lemon,1
+R35101,UK Herby Sea Bass with Salsa Verde,Green Beans,6
+R35101,UK Herby Sea Bass with Salsa Verde,"Paprika, Smoked",1
+R25089,Cheddar Frico Burger,"Beef, Ground",10
+R25089,Cheddar Frico Burger,"Cheese, Shredded Cheddar",2
+R25089,Cheddar Frico Burger,"Onion, Red",1
+R25089,Cheddar Frico Burger,"Tomato, Roma",1
+R25089,Cheddar Frico Burger,"Vinegar, Sherry",25
+R25089,Cheddar Frico Burger,"Bread, Brioche Buns",2
+R25089,Cheddar Frico Burger,"Broccoli, Florets",8
+R25089,Cheddar Frico Burger,Ketchup,1
+R20019,Seared Steak with Dijon Tomato Salad and Marble Potatoes,"Steak, Tri-Tip",12
+R20019,Seared Steak with Dijon Tomato Salad and Marble Potatoes,"Tomato, Heirloom Grape",4
+R20019,Seared Steak with Dijon Tomato Salad and Marble Potatoes,Cucumber Select,1
+R20019,Seared Steak with Dijon Tomato Salad and Marble Potatoes,"Onion, Red",1
+R20019,Seared Steak with Dijon Tomato Salad and Marble Potatoes,"Potato, Yukon B",12
+R20019,Seared Steak with Dijon Tomato Salad and Marble Potatoes,Chives,0.25
+R20019,Seared Steak with Dijon Tomato Salad and Marble Potatoes,"Vinegar, White Wine",25
+R20019,Seared Steak with Dijon Tomato Salad and Marble Potatoes,"Mustard, Dijon, Mini Glass Bottles",1.4
+R40116A,,,
+R80019A,NY Strip with Cauli Mash and Heirloom Tomatoes,"Potato, Yukon B",12
+R80019A,NY Strip with Cauli Mash and Heirloom Tomatoes,Parsley,0.25
+R80019A,NY Strip with Cauli Mash and Heirloom Tomatoes,"Garlic, Peeled",2
+R80019A,NY Strip with Cauli Mash and Heirloom Tomatoes,"Tomato, Heirloom Grape 10oz",10
+R80019A,NY Strip with Cauli Mash and Heirloom Tomatoes,Lemon,1
+R80019A,NY Strip with Cauli Mash and Heirloom Tomatoes,"Cauliflower, Florets 10oz",10
+R80019A,NY Strip with Cauli Mash and Heirloom Tomatoes,Pine Nuts,1
+R80019A,NY Strip with Cauli Mash and Heirloom Tomatoes,"Steak, NY Strip - Upper 2/3 Choice",12
+R25114A,Cheesy meatball bake,"Beef, Ground",10
+R25114A,Cheesy meatball bake,"Cheese, Ricotta",4
+R25114A,Cheesy meatball bake,"Breadcrumbs, Panko",0.5
+R25114A,Cheesy meatball bake,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R25114A,Cheesy meatball bake,Meatloaf Mix Blend,1
+R25114A,Cheesy meatball bake,"Pasta, Spaghetti",6
+R25114A,Cheesy meatball bake,"Onion, Yellow",1
+R25114A,Cheesy meatball bake,"Tomato, Crushed",13.76
+R25114A,Cheesy meatball bake,Lemon,1
+R25114A,Cheesy meatball bake,"Lettuce, Spring Mix",4
+R25114A,Cheesy meatball bake,"Spice, Italian Seasoning - ""So Delizioso""",1
+R10255A,,,
+R10133,AU Zucchini and Parmesan Topped Chicken,"Squash, Zucchini",8
+R10133,AU Zucchini and Parmesan Topped Chicken,"Chicken, Breasts",12
+R10133,AU Zucchini and Parmesan Topped Chicken,"Cheese, Shredded Parmesan",1
+R10133,AU Zucchini and Parmesan Topped Chicken,"Potato, Yukon B",12
+R10133,AU Zucchini and Parmesan Topped Chicken,Green Beans,6
+R10133,AU Zucchini and Parmesan Topped Chicken,Lemon,1
+R10133,AU Zucchini and Parmesan Topped Chicken,Milk - Private Label,6.75
+R15165A,,,
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Tortillas, 10-inch Flour",2
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Chicken, Stir Fry",10
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream",Tomato Paste,6
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Cheese, Shredded Mexican Cheese Blend",2
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Pepper, Poblano",1
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream",Enchilada Spice Blend,1
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream",Scallions,2
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Spice, Southwest Spice - ""Warm n' Smoky""",1
+R15174A,"Smothered Chicken Enchiladas With Poblano Pepper, Onion, And Sour Cream","Onion, Yellow",1
+R20068,"Italian Ciabatta Burgers with Caramelized Onion, Mozzarella, and Sweet-and-Tangy Arugula Salad (f)","Beef, Ground",10
+R20068,"Italian Ciabatta Burgers with Caramelized Onion, Mozzarella, and Sweet-and-Tangy Arugula Salad (f)","Lettuce, Spring Mix",2
+R20068,"Italian Ciabatta Burgers with Caramelized Onion, Mozzarella, and Sweet-and-Tangy Arugula Salad (f)",Tomato Paste,6
+R20068,"Italian Ciabatta Burgers with Caramelized Onion, Mozzarella, and Sweet-and-Tangy Arugula Salad (f)","Vinegar, Balsamic",25
+R20068,"Italian Ciabatta Burgers with Caramelized Onion, Mozzarella, and Sweet-and-Tangy Arugula Salad (f)","Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R20068,"Italian Ciabatta Burgers with Caramelized Onion, Mozzarella, and Sweet-and-Tangy Arugula Salad (f)","Onion, Red",1
+R20068,"Italian Ciabatta Burgers with Caramelized Onion, Mozzarella, and Sweet-and-Tangy Arugula Salad (f)","Garlic, Peeled",2
+R20068,"Italian Ciabatta Burgers with Caramelized Onion, Mozzarella, and Sweet-and-Tangy Arugula Salad (f)","Cranberries, Dried",1
+R20068,"Italian Ciabatta Burgers with Caramelized Onion, Mozzarella, and Sweet-and-Tangy Arugula Salad (f)","Tomato, Heirloom Grape",4
+R25099A,Meatloaf with Chive Mashed Potato,"Bread, Sliced White",1
+R25099A,Meatloaf with Chive Mashed Potato,Milk - Private Label,6.75
+R25099A,Meatloaf with Chive Mashed Potato,"Beef, Ground",10
+R25099A,Meatloaf with Chive Mashed Potato,Meatloaf Mix Blend,1
+R25099A,Meatloaf with Chive Mashed Potato,Ketchup,1
+R25099A,Meatloaf with Chive Mashed Potato,"Potato, Yukon B",16
+R25099A,Meatloaf with Chive Mashed Potato,Green Beans,6
+R25099A,Meatloaf with Chive Mashed Potato,Shallot,2
+R25099A,Meatloaf with Chive Mashed Potato,Chives,0.25
+R25099A,Meatloaf with Chive Mashed Potato,"Stock Concentrate, Chicken",9.6
+R20080,UK Black Sesame Teriyaki Beef,"Rice, Jasmine",0.5
+R20080,UK Black Sesame Teriyaki Beef,"Garlic, Peeled",2
+R20080,UK Black Sesame Teriyaki Beef,Ginger,1
+R20080,UK Black Sesame Teriyaki Beef,Scallions,2
+R20080,UK Black Sesame Teriyaki Beef,"Sauce, Hoisin",1
+R20080,UK Black Sesame Teriyaki Beef,Soy Sauce,1
+R20080,UK Black Sesame Teriyaki Beef,"Sesame Seeds, White",1
+R20080,UK Black Sesame Teriyaki Beef,Beef Stir Fry,10
+R60266,Spring Tortellini Gratin,"Cheese, Shredded Parmesan",1
+R60266,Spring Tortellini Gratin,"Pesto, Fresh 2oz",2
+R60266,Spring Tortellini Gratin,Asparagus - 8 Ounce (oz),8
+R60266,Spring Tortellini Gratin,"Garlic, Peeled",2
+R60266,Spring Tortellini Gratin,"Breadcrumbs, Panko",0.5
+R60266,Spring Tortellini Gratin,"Stock Concentrate, Veggie",9.6
+R60266,Spring Tortellini Gratin,"Pasta, Tortelloni - Fresh",9
+R60430,Edamame and Soba Noodle Bowl,"Noodles, Soba",4
+R60430,Edamame and Soba Noodle Bowl,"Peas, Fresh and Frozen - 4 Ounce (oz)",4
+R60430,Edamame and Soba Noodle Bowl,Snow Peas,4
+R60430,Edamame and Soba Noodle Bowl,"Cabbage, Shredded Red",4
+R60430,Edamame and Soba Noodle Bowl,Scallions,2
+R60430,Edamame and Soba Noodle Bowl,Soy Sauce,1
+R60430,Edamame and Soba Noodle Bowl,Peanut Butter,1.15
+R60430,Edamame and Soba Noodle Bowl,Ginger,1
+R60430,Edamame and Soba Noodle Bowl,"Vinegar, White Wine",25
+R60430,Edamame and Soba Noodle Bowl,"Sugar, Brown",1
+R25071,Caramelized Pineapple Burgers with Slaw,"Bread, Brioche Buns",2
+R25071,Caramelized Pineapple Burgers with Slaw,"Beef, Ground",10
+R25071,Caramelized Pineapple Burgers with Slaw,"Pineapple, In-Juice",4
+R25071,Caramelized Pineapple Burgers with Slaw,"Cheese, Shredded Monterey Jack",1
+R25071,Caramelized Pineapple Burgers with Slaw,"Onion, Red",1
+R25071,Caramelized Pineapple Burgers with Slaw,"Cabbage, Shredded Red",4
+R25071,Caramelized Pineapple Burgers with Slaw,Mayonnaise,1
+R25071,Caramelized Pineapple Burgers with Slaw,"Vinegar, White Wine",25
+R25071,Caramelized Pineapple Burgers with Slaw,Chives,0.25
+R66666A,,,
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,"Salmon, Skin-On",10
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,Ginger,1
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,Scallions,2
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,"Rice, Jasmine",0.75
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,"Sesame Seeds, White",1
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,Lime,1
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,Sugar Snap Peas,6
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,Teriyaki Sauce HF Private Label,4
+R45024,Pork and Chinese Eggplant Stir-Fry,"Pork, Ground",10
+R45024,Pork and Chinese Eggplant Stir-Fry,"Eggplant, Italian - 24-30 ct",1
+R45024,Pork and Chinese Eggplant Stir-Fry,"Squash, Yellow",8
+R45024,Pork and Chinese Eggplant Stir-Fry,Scallions,2
+R45024,Pork and Chinese Eggplant Stir-Fry,"Garlic, Peeled",2
+R45024,Pork and Chinese Eggplant Stir-Fry,Lime,1
+R45024,Pork and Chinese Eggplant Stir-Fry,"Rice, Brown",0.75
+R45024,Pork and Chinese Eggplant Stir-Fry,Sesame Oil,1
+R45024,Pork and Chinese Eggplant Stir-Fry,Soy Sauce,1
+R45024,Pork and Chinese Eggplant Stir-Fry,Ginger,1
+R25114A,Cheesy meatball bake,"Beef, Ground",10
+R25114A,Cheesy meatball bake,"Cheese, Ricotta",4
+R25114A,Cheesy meatball bake,"Breadcrumbs, Panko",0.5
+R25114A,Cheesy meatball bake,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R25114A,Cheesy meatball bake,Meatloaf Mix Blend,1
+R25114A,Cheesy meatball bake,"Pasta, Spaghetti",6
+R25114A,Cheesy meatball bake,"Onion, Yellow",1
+R25114A,Cheesy meatball bake,"Tomato, Crushed",13.76
+R25114A,Cheesy meatball bake,Lemon,1
+R25114A,Cheesy meatball bake,"Lettuce, Spring Mix",4
+R25114A,Cheesy meatball bake,"Spice, Italian Seasoning - ""So Delizioso""",1
+R60447,Spicy Shakshuka with Chickpeas,Eggs,2
+R60447,Spicy Shakshuka with Chickpeas,"Beans, Chickpeas",13.4
+R60447,Spicy Shakshuka with Chickpeas,"Tomato, Crushed",13.76
+R60447,Spicy Shakshuka with Chickpeas,Shakshuka Spice Blend 1Tbsp,1
+R60447,Spicy Shakshuka with Chickpeas,Chili Flakes,1
+R60447,Spicy Shakshuka with Chickpeas,Parsley,0.25
+R60447,Spicy Shakshuka with Chickpeas,"Garlic, Peeled",2
+R60447,Spicy Shakshuka with Chickpeas,"Cheese, Feta",2
+R60447,Spicy Shakshuka with Chickpeas,"Bread, Demi Baguette",1
+R60447,Spicy Shakshuka with Chickpeas,"Onion, Yellow",1
+R60461,Aritchoke Risotto ONLY VEGGIE,"Rice, Arborio",0.75
+R60461,Aritchoke Risotto ONLY VEGGIE,"Onion, Yellow",1
+R60461,Aritchoke Risotto ONLY VEGGIE,"Artichokes, Jar",6.5
+R60461,Aritchoke Risotto ONLY VEGGIE,"Mushrooms, Button",4
+R60461,Aritchoke Risotto ONLY VEGGIE,"Garlic, Peeled",2
+R60461,Aritchoke Risotto ONLY VEGGIE,Parsley,0.25
+R60461,Aritchoke Risotto ONLY VEGGIE,"Cheese, Shredded Parmesan",1
+R60461,Aritchoke Risotto ONLY VEGGIE,"Stock Concentrate, Veggie",9.6
+R60461,Aritchoke Risotto ONLY VEGGIE,Pine Nuts,1
+R66681A,,,
+R15168A,,,
+R10030,Teriyaki Chicken with Coconut Rice and Bok Choy,"Chicken, Breasts",12
+R10030,Teriyaki Chicken with Coconut Rice and Bok Choy,"Rice, Basmati",0.75
+R10030,Teriyaki Chicken with Coconut Rice and Bok Choy,"Garlic, Peeled",2
+R10030,Teriyaki Chicken with Coconut Rice and Bok Choy,Ginger,1
+R10030,Teriyaki Chicken with Coconut Rice and Bok Choy,"Coconut Milk, Light",14
+R10030,Teriyaki Chicken with Coconut Rice and Bok Choy,Honey .5oz,0.5
+R10030,Teriyaki Chicken with Coconut Rice and Bok Choy,Soy Sauce,1
+R60411,NL Couscous and Grilled Asparagus Salad,"Garlic, Peeled",2
+R60411,NL Couscous and Grilled Asparagus Salad,Asparagus - 8 Ounce (oz),8
+R60411,NL Couscous and Grilled Asparagus Salad,"Thyme, Fresh",0.25
+R60411,NL Couscous and Grilled Asparagus Salad,"Tomato, Grape",4
+R60411,NL Couscous and Grilled Asparagus Salad,"Couscous, Israeli",0.75
+R60411,NL Couscous and Grilled Asparagus Salad,Scallions,2
+R60411,NL Couscous and Grilled Asparagus Salad,"Almonds, Sliced",1
+R60411,NL Couscous and Grilled Asparagus Salad,"Cheese, Feta",2
+R45060B,UK Super Quick Creamy Pasta with Peas and Pancetta with Truffle,"Mint, Fresh",0.25
+R45060B,UK Super Quick Creamy Pasta with Peas and Pancetta with Truffle,"Garlic, Peeled",2
+R45060B,UK Super Quick Creamy Pasta with Peas and Pancetta with Truffle,"Pasta, Penne",6
+R45060B,UK Super Quick Creamy Pasta with Peas and Pancetta with Truffle,"Stock Concentrate, Veggie",9.6
+R45060B,UK Super Quick Creamy Pasta with Peas and Pancetta with Truffle,Pine Nuts,1
+R45060B,UK Super Quick Creamy Pasta with Peas and Pancetta with Truffle,"Pork, Pancetta",4
+R45060B,UK Super Quick Creamy Pasta with Peas and Pancetta with Truffle,"Peas, Fresh and Frozen - 4 Ounce (oz)",4
+R45060B,UK Super Quick Creamy Pasta with Peas and Pancetta with Truffle,"Cheese, Shredded Parmesan",1
+R45060B,UK Super Quick Creamy Pasta with Peas and Pancetta with Truffle,Truffle Zest,2
+R35101,UK Herby Sea Bass with Salsa Verde,Sole,12
+R35101,UK Herby Sea Bass with Salsa Verde,"Potato, Yukon B",12
+R35101,UK Herby Sea Bass with Salsa Verde,"Garlic, Peeled",2
+R35101,UK Herby Sea Bass with Salsa Verde,"Olives, Green",1
+R35101,UK Herby Sea Bass with Salsa Verde,Parsley,0.25
+R35101,UK Herby Sea Bass with Salsa Verde,Lemon,1
+R35101,UK Herby Sea Bass with Salsa Verde,Green Beans,6
+R35101,UK Herby Sea Bass with Salsa Verde,"Paprika, Smoked",1
+R25077,Chimichurri Burger,"Cabbage, Coleslaw Mix",5
+R25077,Chimichurri Burger,"Avocado, Hass - 60ct - 1 Piece (pc)",1
+R25077,Chimichurri Burger,"Tomato, Roma",1
+R25077,Chimichurri Burger,"Cheese, Shredded Monterey Jack",1
+R25077,Chimichurri Burger,"Beef, Ground",10
+R25077,Chimichurri Burger,Parsley,0.25
+R25077,Chimichurri Burger,"Bread, Brioche Buns",2
+R25077,Chimichurri Burger,Mayonnaise,1
+R25077,Chimichurri Burger,Lemon,1
+R25077,Chimichurri Burger,"Garlic, Peeled",2
+R10181C,Balsamic Fig Chicken - Summer,"Squash, Zucchini",8
+R10181C,Balsamic Fig Chicken - Summer,Shallot,2
+R10181C,Balsamic Fig Chicken - Summer,Rosemary,0.25
+R10181C,Balsamic Fig Chicken - Summer,"Chicken, Breasts",12
+R10181C,Balsamic Fig Chicken - Summer,"Vinegar, Balsamic",25
+R10181C,Balsamic Fig Chicken - Summer,"Jam, Fig",1
+R10181C,Balsamic Fig Chicken - Summer,"Stock Concentrate, Chicken",9.6
+R10175,Quickest Chicken Parmesan,"Chicken, Breasts",12
+R10175,Quickest Chicken Parmesan,"Tomato, Crushed",13.76
+R10175,Quickest Chicken Parmesan,"Garlic, Peeled",2
+R10175,Quickest Chicken Parmesan,"Pasta, Rigatoni",6
+R10175,Quickest Chicken Parmesan,"Cheese, Fresh Mozzarella - 4 Ounce (oz)",4
+R10175,Quickest Chicken Parmesan,"Spice, Italian Seasoning - ""So Delizioso""",1
+R10175,Quickest Chicken Parmesan,Onion Powder,1
+R10175,Quickest Chicken Parmesan,"Breadcrumbs, Panko",0.5
+R10175,Quickest Chicken Parmesan,"Cheese, Shredded Parmesan",1
+R10175,Quickest Chicken Parmesan,"Tomato, Grape",4
+R30023,Shrimp and Farro Bowl,Shrimp,10
+R30023,Shrimp and Farro Bowl,Farro,0.75
+R30023,Shrimp and Farro Bowl,Shallot,2
+R30023,Shrimp and Farro Bowl,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R30023,Shrimp and Farro Bowl,Green Beans,6
+R30023,Shrimp and Farro Bowl,Lemon,1
+R30023,Shrimp and Farro Bowl,"Garlic, Peeled",2
+R30023,Shrimp and Farro Bowl,"Mint, Fresh",0.25
+R30023,Shrimp and Farro Bowl,"Lettuce, Arugula",2
+R60488A,Veggie Lovers Flatbread with Spinach Salad,"Bread, Flatbread",2
+R60488A,Veggie Lovers Flatbread with Spinach Salad,"Spinach, Baby",5
+R60488A,Veggie Lovers Flatbread with Spinach Salad,"Onion, Red",1
+R60488A,Veggie Lovers Flatbread with Spinach Salad,"Mushrooms, Button",4
+R60488A,Veggie Lovers Flatbread with Spinach Salad,"Cheese, Fresh Mozzarella - 4 Ounce (oz)",4
+R60488A,Veggie Lovers Flatbread with Spinach Salad,"Tomato, Roma",1
+R60488A,Veggie Lovers Flatbread with Spinach Salad,"Pepper, Thai Bird's Eye Chili",1
+R60488A,Veggie Lovers Flatbread with Spinach Salad,"Garlic, Peeled",2
+R60488A,Veggie Lovers Flatbread with Spinach Salad,Lemon,1
+R60488A,Veggie Lovers Flatbread with Spinach Salad,"Cheese, Cream",1
+R60447,Spicy Shakshuka with Chickpeas,Eggs,2
+R60447,Spicy Shakshuka with Chickpeas,"Beans, Chickpeas",13.4
+R60447,Spicy Shakshuka with Chickpeas,"Tomato, Crushed",13.76
+R60447,Spicy Shakshuka with Chickpeas,Shakshuka Spice Blend 1Tbsp,1
+R60447,Spicy Shakshuka with Chickpeas,Chili Flakes,1
+R60447,Spicy Shakshuka with Chickpeas,Parsley,0.25
+R60447,Spicy Shakshuka with Chickpeas,"Garlic, Peeled",2
+R60447,Spicy Shakshuka with Chickpeas,"Cheese, Feta",2
+R60447,Spicy Shakshuka with Chickpeas,"Bread, Demi Baguette",1
+R60447,Spicy Shakshuka with Chickpeas,"Onion, Yellow",1
+R40021,Pork Tenderloin with Potatoes and Tarragon Cream Sauce,"Pork, Tenderloin",12
+R40021,Pork Tenderloin with Potatoes and Tarragon Cream Sauce,Brussels Sprouts,8
+R40021,Pork Tenderloin with Potatoes and Tarragon Cream Sauce,"Potato, Yukon B",12
+R40021,Pork Tenderloin with Potatoes and Tarragon Cream Sauce,Tarragon,0.25
+R40021,Pork Tenderloin with Potatoes and Tarragon Cream Sauce,"Stock Concentrate, Chicken",9.6
+R45053,Brown Sugar Pork,"Pork, Boneless Chops (2)",12
+R45053,Brown Sugar Pork,"Cranberries, Dried",1
+R45053,Brown Sugar Pork,"Apple, Granny Smith",1
+R45053,Brown Sugar Pork,"Spice, Blackening Spice - ""Southern Sizzle""",1
+R45053,Brown Sugar Pork,Lemon,1
+R45053,Brown Sugar Pork,Brussels Sprouts,8
+R15040,Jerk Chicken Skewers with Peach and Curried Rice,"Chicken, Breasts",12
+R15040,Jerk Chicken Skewers with Peach and Curried Rice,Jerk Seasoning,1
+R15040,Jerk Chicken Skewers with Peach and Curried Rice,Peach,1
+R15040,Jerk Chicken Skewers with Peach and Curried Rice,"Onion, Red",1
+R15040,Jerk Chicken Skewers with Peach and Curried Rice,Sugar Snap Peas,4
+R15040,Jerk Chicken Skewers with Peach and Curried Rice,"Rice, Basmati",0.5
+R15040,Jerk Chicken Skewers with Peach and Curried Rice,"Curry, Powder",1
+R15040,Jerk Chicken Skewers with Peach and Curried Rice,Lemon,1
+R15040,Jerk Chicken Skewers with Peach and Curried Rice,"Stock Concentrate, Chicken",9.6
+R25127A,White BBQ Meatloaf,"Potato, Yukon B",16
+R25127A,White BBQ Meatloaf,Scallions,2
+R25127A,White BBQ Meatloaf,Mayonnaise,1
+R25127A,White BBQ Meatloaf,"Vinegar, White Wine",25
+R25127A,White BBQ Meatloaf,"Beef, Ground",10
+R25127A,White BBQ Meatloaf,"Breadcrumbs, Panko",0.5
+R25127A,White BBQ Meatloaf,Sweet and Smoky BBQ Seasoning,1
+R25127A,White BBQ Meatloaf,"Stock Concentrate, Beef",12
+R25127A,White BBQ Meatloaf,"Cabbage, Shredded Red",4
+R90001A,"Chorizo, Avocado, and Egg sandwich with Potato Hash",Eggs,2
+R90001A,"Chorizo, Avocado, and Egg sandwich with Potato Hash","Bread, Brioche Buns",2
+R90001A,"Chorizo, Avocado, and Egg sandwich with Potato Hash","Avocado, Hass - 60ct - 1 Piece (pc)",1
+R90001A,"Chorizo, Avocado, and Egg sandwich with Potato Hash","Chorizo, Dried",3
+R90001A,"Chorizo, Avocado, and Egg sandwich with Potato Hash","Potato, Yukon B",12
+R90001A,"Chorizo, Avocado, and Egg sandwich with Potato Hash","Onion, Red",1
+R60513A,Pasta with Roasted Veggies and Goat Cheese,"Pasta, Penne",6
+R60513A,Pasta with Roasted Veggies and Goat Cheese,"Garlic, Peeled",2
+R60513A,Pasta with Roasted Veggies and Goat Cheese,"Squash, Zucchini",8
+R60513A,Pasta with Roasted Veggies and Goat Cheese,"Herb, Basil",0.5
+R60513A,Pasta with Roasted Veggies and Goat Cheese,"Cheese, Goat - Disc",1
+R60513A,Pasta with Roasted Veggies and Goat Cheese,Chili Flakes,1
+R60513A,Pasta with Roasted Veggies and Goat Cheese,Scallions,2
+R60513A,Pasta with Roasted Veggies and Goat Cheese,"Cheese, Shredded Parmesan",1
+R60513A,Pasta with Roasted Veggies and Goat Cheese,"Beans, Chickpeas",13.4
+R60513A,Pasta with Roasted Veggies and Goat Cheese,"Spice, Italian Seasoning - ""So Delizioso""",1
+R35054,Parmesan Crusted Tilapia,Tilapia,11
+R35054,Parmesan Crusted Tilapia,"Potato, White C",12
+R35054,Parmesan Crusted Tilapia,Lemon,1
+R35054,Parmesan Crusted Tilapia,"Garlic, Peeled",2
+R35054,Parmesan Crusted Tilapia,Parsley,0.25
+R35054,Parmesan Crusted Tilapia,"Oregano, Dried",1
+R35054,Parmesan Crusted Tilapia,"Breadcrumbs, Panko",0.5
+R35054,Parmesan Crusted Tilapia,"Cheese, Shredded Parmesan",1
+R35176A,"Hoisin-Sriracha Grilled Salmon with Jasmine Rice, Grilled Baby Bok Choy, and Sriracha Butter","Salmon, Skin-On",10
+R35176A,"Hoisin-Sriracha Grilled Salmon with Jasmine Rice, Grilled Baby Bok Choy, and Sriracha Butter","Sauce, Hoisin",1
+R35176A,"Hoisin-Sriracha Grilled Salmon with Jasmine Rice, Grilled Baby Bok Choy, and Sriracha Butter",Sriracha Sauce,1
+R35176A,"Hoisin-Sriracha Grilled Salmon with Jasmine Rice, Grilled Baby Bok Choy, and Sriracha Butter",Lime,1
+R35176A,"Hoisin-Sriracha Grilled Salmon with Jasmine Rice, Grilled Baby Bok Choy, and Sriracha Butter",Scallions,2
+R35176A,"Hoisin-Sriracha Grilled Salmon with Jasmine Rice, Grilled Baby Bok Choy, and Sriracha Butter","Rice, Jasmine",0.5
+R80048A,Maple Glazed Duck with Blood Orange Salad,"Potato, Fingerling 12oz",12
+R80048A,Maple Glazed Duck with Blood Orange Salad,Duck Breast,12
+R80048A,Maple Glazed Duck with Blood Orange Salad,Rosemary,0.25
+R80048A,Maple Glazed Duck with Blood Orange Salad,"Garlic, Peeled",2
+R80048A,Maple Glazed Duck with Blood Orange Salad,Blood Orange,1
+R80048A,Maple Glazed Duck with Blood Orange Salad,Maple Syrup,1
+R80048A,Maple Glazed Duck with Blood Orange Salad,"Mustard, Whole Grain",1
+R80048A,Maple Glazed Duck with Blood Orange Salad,"Lettuce, Arugula",2
+R10123B,"Smoky Chicken Fajitas with Charred Pepper and Onion, Garlic-Lime Crema","Chicken, Stir Fry",10
+R10123B,"Smoky Chicken Fajitas with Charred Pepper and Onion, Garlic-Lime Crema","Onion, Red",1
+R10123B,"Smoky Chicken Fajitas with Charred Pepper and Onion, Garlic-Lime Crema","Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R10123B,"Smoky Chicken Fajitas with Charred Pepper and Onion, Garlic-Lime Crema",Lime,1
+R10123B,"Smoky Chicken Fajitas with Charred Pepper and Onion, Garlic-Lime Crema",Sour Cream,1
+R10123B,"Smoky Chicken Fajitas with Charred Pepper and Onion, Garlic-Lime Crema","Tortillas, 6-inch Flour",6
+R10123B,"Smoky Chicken Fajitas with Charred Pepper and Onion, Garlic-Lime Crema","Pepper, Jalapeno",1
+R10123B,"Smoky Chicken Fajitas with Charred Pepper and Onion, Garlic-Lime Crema","Cheese, Shredded Cheddar",2
+R10123B,"Smoky Chicken Fajitas with Charred Pepper and Onion, Garlic-Lime Crema","Spice, Southwest Spice - ""Warm n' Smoky""",1
+R35101,UK Herby Sea Bass with Salsa Verde,Sole,12
+R35101,UK Herby Sea Bass with Salsa Verde,"Potato, Yukon B",12
+R35101,UK Herby Sea Bass with Salsa Verde,"Garlic, Peeled",2
+R35101,UK Herby Sea Bass with Salsa Verde,"Olives, Green",1
+R35101,UK Herby Sea Bass with Salsa Verde,Parsley,0.25
+R35101,UK Herby Sea Bass with Salsa Verde,Lemon,1
+R35101,UK Herby Sea Bass with Salsa Verde,Green Beans,6
+R35101,UK Herby Sea Bass with Salsa Verde,"Paprika, Smoked",1
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,"Chicken, Breasts",12
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,"Potato, Yukon B",12
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,"Onion, Red",1
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,Parsley,0.25
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,Green Beans,6
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,"Mustard, Whole Grain",1
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,"Vinegar, Red Wine",25
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,Sour Cream,1
+R45162A,BBQ Pulled Pork Flatbread,"Tomato, Roma",1
+R45162A,BBQ Pulled Pork Flatbread,Scallions,2
+R45162A,BBQ Pulled Pork Flatbread,Sweet and Smoky BBQ Seasoning,1
+R45162A,BBQ Pulled Pork Flatbread,"Pork, Pulled",10
+R45162A,BBQ Pulled Pork Flatbread,"Bread, Flatbread",2
+R45162A,BBQ Pulled Pork Flatbread,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R45162A,BBQ Pulled Pork Flatbread,Classic BBQ Sauce,2
+R60271A,Portobello & Orecchiette Primavera,"Mushrooms, Portobello Caps",2
+R60271A,Portobello & Orecchiette Primavera,Asparagus,6
+R60271A,Portobello & Orecchiette Primavera,"Onion, Yellow",1
+R60271A,Portobello & Orecchiette Primavera,"Garlic, Peeled",2
+R60271A,Portobello & Orecchiette Primavera,"Pasta, Orecchiette",6
+R60271A,Portobello & Orecchiette Primavera,Chives,0.25
+R60271A,Portobello & Orecchiette Primavera,"Cheese, Shredded Parmesan",1
+R60271A,Portobello & Orecchiette Primavera,"Bell Pepper, Red",1
+R60271A,Portobello & Orecchiette Primavera,Chili Flakes,1
+R60498A,Southwest Black Bean Burgers,"Beans, Black",13.4
+R60498A,Southwest Black Bean Burgers,"Corn on the Cob, 8-inch",1
+R60498A,Southwest Black Bean Burgers,Eggs,2
+R60498A,Southwest Black Bean Burgers,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R60498A,Southwest Black Bean Burgers,Shallot,2
+R60498A,Southwest Black Bean Burgers,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R60498A,Southwest Black Bean Burgers,"Bread, Brioche Buns",2
+R60498A,Southwest Black Bean Burgers,"Tomato, Roma",1
+R60498A,Southwest Black Bean Burgers,"Pepper, Jalapeno",1
+R60498A,Southwest Black Bean Burgers,Lime,1
+R35174A,Southwest Salmon Bowl,"Stock Concentrate, Chicken",9.6
+R35174A,Southwest Salmon Bowl,"Couscous, Israeli",0.5
+R35174A,Southwest Salmon Bowl,"Salmon, Skin-On",10
+R35174A,Southwest Salmon Bowl,"Spice, Italian Seasoning - ""So Delizioso""",1
+R35174A,Southwest Salmon Bowl,Scallions,2
+R35174A,Southwest Salmon Bowl,"Tomato, Roma",1
+R35174A,Southwest Salmon Bowl,"Squash, Zucchini",8
+R35174A,Southwest Salmon Bowl,Sour Cream,1
+R35174A,Southwest Salmon Bowl,Lemon,1
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Chicken, Breasts",12
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Potato, Yukon B",12
+R10158,Grilled Chicken with Potato and Summer Squash Hash,Sour Cream,1
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Squash, Zucchini",8
+R10158,Grilled Chicken with Potato and Summer Squash Hash,Dill,0.25
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Mustard, Dijon, Mini Glass Bottles",1.4
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Stock Concentrate, Chicken",9.6
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Squash, Yellow",8
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Chicken, Tenders 12oz (8-11 pieces/pack)",12
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Cheese, Shredded Parmesan",1
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Rosemary, Dried",1
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Potato, Yukon B",12
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,Green Beans,6
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,Eggs,2
+R80031A,Lobster Ravioli with Maitake Mushrooms,"Pork, Sliced Bacon",4
+R80031A,Lobster Ravioli with Maitake Mushrooms,Shallot,2
+R80031A,Lobster Ravioli with Maitake Mushrooms,"Lettuce, Arugula",2
+R80031A,Lobster Ravioli with Maitake Mushrooms,"Mushrooms, Maitake",4
+R80031A,Lobster Ravioli with Maitake Mushrooms,Chives,0.25
+R80031A,Lobster Ravioli with Maitake Mushrooms,Lemon,1
+R80031A,Lobster Ravioli with Maitake Mushrooms,"Pasta, Lobster Ravioli",9
+R80104A,"Steakhouse Classic Ny Strip With Truffle Mushroom Sauce, Roasted Carrots, And Stuffed Potato","Steak, NY Strip - Upper 2/3 Choice",12
+R80104A,"Steakhouse Classic Ny Strip With Truffle Mushroom Sauce, Roasted Carrots, And Stuffed Potato","Butter, Black Truffle",1
+R80104A,"Steakhouse Classic Ny Strip With Truffle Mushroom Sauce, Roasted Carrots, And Stuffed Potato","Mushrooms, Cremini",4
+R80104A,"Steakhouse Classic Ny Strip With Truffle Mushroom Sauce, Roasted Carrots, And Stuffed Potato","Carrots, Baby Stemmed",8
+R80104A,"Steakhouse Classic Ny Strip With Truffle Mushroom Sauce, Roasted Carrots, And Stuffed Potato","Cheese, Cream",1
+R80104A,"Steakhouse Classic Ny Strip With Truffle Mushroom Sauce, Roasted Carrots, And Stuffed Potato","Potato, Russet",12
+R80104A,"Steakhouse Classic Ny Strip With Truffle Mushroom Sauce, Roasted Carrots, And Stuffed Potato","Stock Concentrate, Beef",12
+R80104A,"Steakhouse Classic Ny Strip With Truffle Mushroom Sauce, Roasted Carrots, And Stuffed Potato",Scallions,2
+R80007A,Lobster Ravioli with Shrimp and Heirloom Tomatoes,"Pasta, Lobster Ravioli",9
+R80007A,Lobster Ravioli with Shrimp and Heirloom Tomatoes,"Tomato, Heirloom Grape 10oz",10
+R80007A,Lobster Ravioli with Shrimp and Heirloom Tomatoes,Shrimp,10
+R80007A,Lobster Ravioli with Shrimp and Heirloom Tomatoes,Tarragon,0.25
+R80007A,Lobster Ravioli with Shrimp and Heirloom Tomatoes,"Garlic, Peeled",2
+R60319,Summer Ratatouille,"Eggplant, Italian - 24-30 ct",1
+R60319,Summer Ratatouille,Shallot,2
+R60319,Summer Ratatouille,"Pasta, Tri-Color Tortelloni - Fresh",9
+R60319,Summer Ratatouille,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R60319,Summer Ratatouille,"Herb, Basil",0.5
+R60319,Summer Ratatouille,"Tomato, Roma",1
+R60319,Summer Ratatouille,"Squash, Yellow",8
+R60319,Summer Ratatouille,"Cheese, Shredded Parmesan",1
+R60319,Summer Ratatouille,"Garlic, Peeled",2
+R40084A,lemongrass pork tenderloin,"Pork, Tenderloin",12
+R40084A,lemongrass pork tenderloin,"Lemongrass Stalk, 7in",1
+R40084A,lemongrass pork tenderloin,"Garlic, Peeled",2
+R40084A,lemongrass pork tenderloin,Lime,1
+R40084A,lemongrass pork tenderloin,Soy Sauce,1
+R40084A,lemongrass pork tenderloin,"Stock Concentrate, Veggie",9.6
+R40084A,lemongrass pork tenderloin,"Rice, Jasmine",0.75
+R40084A,lemongrass pork tenderloin,Snow Peas,4
+R40084A,lemongrass pork tenderloin,"Sesame Seeds, White",1
+R40066,Pork Chops with Arugula-Peach Salad and Couscous,"Pork, Boneless Chops (2)",12
+R40066,Pork Chops with Arugula-Peach Salad and Couscous,Peach,1
+R40066,Pork Chops with Arugula-Peach Salad and Couscous,"Lettuce, Arugula",2
+R40066,Pork Chops with Arugula-Peach Salad and Couscous,"Thyme, Fresh",0.25
+R40066,Pork Chops with Arugula-Peach Salad and Couscous,"Stock Concentrate, Veggie",9.6
+R40066,Pork Chops with Arugula-Peach Salad and Couscous,Shallot,2
+R40066,Pork Chops with Arugula-Peach Salad and Couscous,"Couscous, French",0.5
+R40066,Pork Chops with Arugula-Peach Salad and Couscous,"Vinegar, Balsamic",25
+R40066,Pork Chops with Arugula-Peach Salad and Couscous,Honey .5oz,0.5
+R60526A,Super Cheesy Corn and Poblano Quesadillas,"Pepper, Poblano",1
+R60526A,Super Cheesy Corn and Poblano Quesadillas,"Corn on the Cob, 8-inch",1
+R60526A,Super Cheesy Corn and Poblano Quesadillas,Scallions,2
+R60526A,Super Cheesy Corn and Poblano Quesadillas,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R60526A,Super Cheesy Corn and Poblano Quesadillas,"Tomato, Roma",1
+R60526A,Super Cheesy Corn and Poblano Quesadillas,Lime,1
+R60526A,Super Cheesy Corn and Poblano Quesadillas,"Pepper, Thai Bird's Eye Chili",1
+R60526A,Super Cheesy Corn and Poblano Quesadillas,"Tortillas, 10-inch Flour",2
+R60524A,Vegetarian Italian Subs,"Veggie Crumbles, Italian",8
+R60524A,Vegetarian Italian Subs,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R60524A,Vegetarian Italian Subs,"Bell Pepper, Green",1
+R60524A,Vegetarian Italian Subs,"Onion, Red",1
+R60524A,Vegetarian Italian Subs,Tomato Paste,6
+R60524A,Vegetarian Italian Subs,"Pepper, Thai Bird's Eye Chili",1
+R60524A,Vegetarian Italian Subs,"Cheese, Shredded Parmesan",1
+R10211A,Sauteed Chicken Breasts with Dijon Herb Sauce,"Chicken, Breasts",12
+R10211A,Sauteed Chicken Breasts with Dijon Herb Sauce,Shallot,2
+R10211A,Sauteed Chicken Breasts with Dijon Herb Sauce,"Stock Concentrate, Chicken",9.6
+R10211A,Sauteed Chicken Breasts with Dijon Herb Sauce,Lemon,1
+R10211A,Sauteed Chicken Breasts with Dijon Herb Sauce,Dijon Mustard Packet,10
+R10211A,Sauteed Chicken Breasts with Dijon Herb Sauce,Tarragon,0.25
+R10211A,Sauteed Chicken Breasts with Dijon Herb Sauce,Parsley,0.25
+R10211A,Sauteed Chicken Breasts with Dijon Herb Sauce,"Squash, Zucchini",8
+R10211A,Sauteed Chicken Breasts with Dijon Herb Sauce,"Garlic, Peeled",2
+R10211A,Sauteed Chicken Breasts with Dijon Herb Sauce,"Potato, Red C",10
+R10211A,Sauteed Chicken Breasts with Dijon Herb Sauce,"Pepper, White",1
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Chicken, Thighs, Boneless/Skinless",12
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Sauce, Green Salsa - Private Label",7.06
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Tortillas, 6-inch Flour",6
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Pepper, Poblano",1
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,Sour Cream,1
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,Lime,1
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Cheese, Shredded Monterey Jack",1
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Tomato, Roma",1
+R45116A,Bangers and Mash with Thyme Gravy,"Sausage, Raw Lean Sweet Italian Pork",9
+R45116A,Bangers and Mash with Thyme Gravy,"Potato, White C",12
+R45116A,Bangers and Mash with Thyme Gravy,"Squash, Zucchini",8
+R45116A,Bangers and Mash with Thyme Gravy,"Tomato, Grape",4
+R45116A,Bangers and Mash with Thyme Gravy,Scallions,2
+R45116A,Bangers and Mash with Thyme Gravy,"Thyme, Fresh",0.25
+R45116A,Bangers and Mash with Thyme Gravy,"Demi Glace, Chicken",1
+R10181B,Seared Chicken with Fig-Balsamic,"Chicken, Breasts",12
+R10181B,Seared Chicken with Fig-Balsamic,Shallot,2
+R10181B,Seared Chicken with Fig-Balsamic,"Vinegar, Balsamic",25
+R10181B,Seared Chicken with Fig-Balsamic,"Stock Concentrate, Chicken",9.6
+R10181B,Seared Chicken with Fig-Balsamic,"Jam, Fig",1
+R10181B,Seared Chicken with Fig-Balsamic,Rosemary,0.25
+R10181B,Seared Chicken with Fig-Balsamic,"Lettuce, Spring Mix",2
+R10181B,Seared Chicken with Fig-Balsamic,Lemon,1
+R35124A,One sheet fish tacos,Tilapia,11
+R35124A,One sheet fish tacos,"Tortillas, 6-inch Flour",6
+R35124A,One sheet fish tacos,"Cabbage, Shredded Red",4
+R35124A,One sheet fish tacos,Cilantro,0.25
+R35124A,One sheet fish tacos,Mayonnaise,1
+R35124A,One sheet fish tacos,Sour Cream,1
+R35124A,One sheet fish tacos,Lime,1
+R35124A,One sheet fish tacos,"Garlic, Peeled",2
+R35124A,One sheet fish tacos,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R35124A,One sheet fish tacos,Shallot,2
+R25128A,Cheesy Meatball Skillet,"Beef, Ground",10
+R25128A,Cheesy Meatball Skillet,Meatloaf Mix Blend,1
+R25128A,Cheesy Meatball Skillet,"Breadcrumbs, Panko",0.5
+R25128A,Cheesy Meatball Skillet,Tuscan Heat Spice,1
+R25128A,Cheesy Meatball Skillet,"Tomato, Crushed",13.76
+R25128A,Cheesy Meatball Skillet,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R25128A,Cheesy Meatball Skillet,"Garlic, Peeled",2
+R25128A,Cheesy Meatball Skillet,"Pasta, Penne",6
+R25128A,Cheesy Meatball Skillet,"Spinach, Baby",5
+R25128A,Cheesy Meatball Skillet,"Herb, Basil",0.5
+R25128A,Cheesy Meatball Skillet,"Cheese, Shredded Parmesan",1
+R60326,Freekeh & Brussels Sprouts Salad,Brussels Sprouts,8
+R60326,Freekeh & Brussels Sprouts Salad,"Apple, Fuji",1
+R60326,Freekeh & Brussels Sprouts Salad,"Squash, Butternut",8
+R60326,Freekeh & Brussels Sprouts Salad,Lemon,1
+R60326,Freekeh & Brussels Sprouts Salad,Shallot,2
+R60326,Freekeh & Brussels Sprouts Salad,Freekeh,0.75
+R60326,Freekeh & Brussels Sprouts Salad,Walnuts,1
+R66674A,,,
+R20037B,Steak Tagliata (Family Friendly),"Vinegar, Balsamic",25
+R20037B,Steak Tagliata (Family Friendly),"Steak, Ranch",10
+R20037B,Steak Tagliata (Family Friendly),Green Beans,6
+R20037B,Steak Tagliata (Family Friendly),"Garlic, Peeled",2
+R20037B,Steak Tagliata (Family Friendly),"Tomato, Grape",4
+R20037B,Steak Tagliata (Family Friendly),Rosemary,0.25
+R20037B,Steak Tagliata (Family Friendly),"Stock Concentrate, Beef",12
+R45109C,Pork carnitas (non-romaine),"Pork, Ground",10
+R45109C,Pork carnitas (non-romaine),"Tortillas, 6-inch Flour",6
+R45109C,Pork carnitas (non-romaine),"Onion, Red",1
+R45109C,Pork carnitas (non-romaine),"Pepper, Poblano",1
+R45109C,Pork carnitas (non-romaine),Lime,1
+R45109C,Pork carnitas (non-romaine),"Vinegar, White Wine",25
+R45109C,Pork carnitas (non-romaine),Cilantro,0.25
+R45109C,Pork carnitas (non-romaine),Fajita Spice Blend,1
+R45109C,Pork carnitas (non-romaine),Tomato Paste,6
+R45109C,Pork carnitas (non-romaine),"Stock Concentrate, Chicken",9.6
+R45109C,Pork carnitas (non-romaine),"Tomato, Roma",1
+R45109C,Pork carnitas (non-romaine),Sour Cream,1
+R45109C,Pork carnitas (non-romaine),"Cheese, Shredded Monterey Jack",1
+R60392B,"Veggie Lo Mein with Mushrooms, Green Beans, and Sweet Ginger-Soy Sauce","Mushrooms, Button",4
+R60392B,"Veggie Lo Mein with Mushrooms, Green Beans, and Sweet Ginger-Soy Sauce",Green Beans,6
+R60392B,"Veggie Lo Mein with Mushrooms, Green Beans, and Sweet Ginger-Soy Sauce","Noodles, Fresh Udon",8
+R60392B,"Veggie Lo Mein with Mushrooms, Green Beans, and Sweet Ginger-Soy Sauce",Ginger,1
+R60392B,"Veggie Lo Mein with Mushrooms, Green Beans, and Sweet Ginger-Soy Sauce","Garlic, Peeled",2
+R60392B,"Veggie Lo Mein with Mushrooms, Green Beans, and Sweet Ginger-Soy Sauce","Stock Concentrate, Veggie",9.6
+R60392B,"Veggie Lo Mein with Mushrooms, Green Beans, and Sweet Ginger-Soy Sauce",Scallions,2
+R60392B,"Veggie Lo Mein with Mushrooms, Green Beans, and Sweet Ginger-Soy Sauce","Sauce, Hoisin",1
+R60392B,"Veggie Lo Mein with Mushrooms, Green Beans, and Sweet Ginger-Soy Sauce",Soy Sauce,1
+R60392B,"Veggie Lo Mein with Mushrooms, Green Beans, and Sweet Ginger-Soy Sauce",Honey .5oz,0.5
+R60392B,"Veggie Lo Mein with Mushrooms, Green Beans, and Sweet Ginger-Soy Sauce",Sesame Oil,1
+R45110A,"Spaghetti with Fresh Tomatoes, Chorizo, Hot Chilies, and Basil","Garlic, Peeled",2
+R45110A,"Spaghetti with Fresh Tomatoes, Chorizo, Hot Chilies, and Basil","Herb, Basil",0.5
+R45110A,"Spaghetti with Fresh Tomatoes, Chorizo, Hot Chilies, and Basil","Pepper, Jalapeno",1
+R45110A,"Spaghetti with Fresh Tomatoes, Chorizo, Hot Chilies, and Basil","Pasta, Spaghetti",6
+R45110A,"Spaghetti with Fresh Tomatoes, Chorizo, Hot Chilies, and Basil","Chorizo, Fresh Ground",6
+R45110A,"Spaghetti with Fresh Tomatoes, Chorizo, Hot Chilies, and Basil","Cheese, Shredded Parmesan",1
+R60421B,Fatoush Salad with Crispy Chickpeas and Chips,"Bread, Flatbread",2
+R60421B,Fatoush Salad with Crispy Chickpeas and Chips,"Beans, Chickpeas",13.4
+R60421B,Fatoush Salad with Crispy Chickpeas and Chips,"Cheese, Feta",2
+R60421B,Fatoush Salad with Crispy Chickpeas and Chips,"Olives, Black",1
+R60421B,Fatoush Salad with Crispy Chickpeas and Chips,"Tomato, Grape",4
+R60421B,Fatoush Salad with Crispy Chickpeas and Chips,Shallot,2
+R60421B,Fatoush Salad with Crispy Chickpeas and Chips,"Cumin, Ground",1
+R60421B,Fatoush Salad with Crispy Chickpeas and Chips,"Vinegar, White Wine",25
+R60421B,Fatoush Salad with Crispy Chickpeas and Chips,"Garlic, Peeled",2
+R60421B,Fatoush Salad with Crispy Chickpeas and Chips,Parsley,0.25
+R66680A,,,
+R45096A,Hawaiian Pork Burgers with Salad,"Garlic, Peeled",2
+R45096A,Hawaiian Pork Burgers with Salad,Cilantro,0.25
+R45096A,Hawaiian Pork Burgers with Salad,"Onion, Red",1
+R45096A,Hawaiian Pork Burgers with Salad,"Pineapple, In-Juice",4
+R45096A,Hawaiian Pork Burgers with Salad,"Pork, Ground",10
+R45096A,Hawaiian Pork Burgers with Salad,Soy Sauce,1
+R45096A,Hawaiian Pork Burgers with Salad,Honey .5oz,0.5
+R45096A,Hawaiian Pork Burgers with Salad,"Cucumber, Persian",1
+R45096A,Hawaiian Pork Burgers with Salad,"Bread, Brioche Buns",2
+R45096A,Hawaiian Pork Burgers with Salad,"Lettuce, Spring Mix",2
+R45096A,Hawaiian Pork Burgers with Salad,"Vinegar, White Wine",25
+R45096A,Hawaiian Pork Burgers with Salad,Mayonnaise,1
+R25073C,Hoisin-Glazed Meatballs with Green Beans and Rice,"Beef, Ground",10
+R25073C,Hoisin-Glazed Meatballs with Green Beans and Rice,"Breadcrumbs, Panko",0.5
+R25073C,Hoisin-Glazed Meatballs with Green Beans and Rice,Ginger,1
+R25073C,Hoisin-Glazed Meatballs with Green Beans and Rice,Scallions,2
+R25073C,Hoisin-Glazed Meatballs with Green Beans and Rice,"Sauce, Hoisin",1
+R25073C,Hoisin-Glazed Meatballs with Green Beans and Rice,Green Beans,6
+R25073C,Hoisin-Glazed Meatballs with Green Beans and Rice,"Sesame Seeds, White",1
+R25073C,Hoisin-Glazed Meatballs with Green Beans and Rice,Lime,1
+R25073C,Hoisin-Glazed Meatballs with Green Beans and Rice,"Rice, Jasmine",0.5
+R25073C,Hoisin-Glazed Meatballs with Green Beans and Rice,Eggs,2
+R25073C,Hoisin-Glazed Meatballs with Green Beans and Rice,Garlic Powder,1
+R10181,Seared Chicken with Fig-Balsamic,"Chicken, Breasts",12
+R10181,Seared Chicken with Fig-Balsamic,Shallot,2
+R10181,Seared Chicken with Fig-Balsamic,"Vinegar, Balsamic",25
+R10181,Seared Chicken with Fig-Balsamic,"Stock Concentrate, Chicken",9.6
+R10181,Seared Chicken with Fig-Balsamic,"Jam, Fig",1
+R10181,Seared Chicken with Fig-Balsamic,Rosemary,0.25
+R10181,Seared Chicken with Fig-Balsamic,"Lettuce, Spring Mix",2
+R10181,Seared Chicken with Fig-Balsamic,Lemon,1
+R60155,Wild Mushroom Lo Mein,"Mushrooms, Mixed Wild",4
+R60155,Wild Mushroom Lo Mein,Green Beans,6
+R60155,Wild Mushroom Lo Mein,"Noodles, Fresh Udon",8
+R60155,Wild Mushroom Lo Mein,Ginger,1
+R60155,Wild Mushroom Lo Mein,"Garlic, Peeled",2
+R60155,Wild Mushroom Lo Mein,"Stock Concentrate, Veggie",9.6
+R60155,Wild Mushroom Lo Mein,Scallions,2
+R60155,Wild Mushroom Lo Mein,"Sauce, Hoisin",1
+R60155,Wild Mushroom Lo Mein,Soy Sauce,1
+R60155,Wild Mushroom Lo Mein,Honey .5oz,0.5
+R60155,Wild Mushroom Lo Mein,Cashews Pieces,1
+R60155,Wild Mushroom Lo Mein,Sesame Oil,1
+R35054,Parmesan Crusted Tilapia,Tilapia,11
+R35054,Parmesan Crusted Tilapia,"Potato, White C",12
+R35054,Parmesan Crusted Tilapia,Lemon,1
+R35054,Parmesan Crusted Tilapia,"Garlic, Peeled",2
+R35054,Parmesan Crusted Tilapia,Parsley,0.25
+R35054,Parmesan Crusted Tilapia,"Oregano, Dried",1
+R35054,Parmesan Crusted Tilapia,"Breadcrumbs, Panko",0.5
+R35054,Parmesan Crusted Tilapia,"Cheese, Shredded Parmesan",1
+R60288,Roasted Vegetable Quesadillas,"Tortillas, 6-inch Flour",6
+R60288,Roasted Vegetable Quesadillas,"Squash, Zucchini",8
+R60288,Roasted Vegetable Quesadillas,Lime,1
+R60288,Roasted Vegetable Quesadillas,"Lettuce, Arugula",2
+R60288,Roasted Vegetable Quesadillas,Mayonnaise,1
+R60288,Roasted Vegetable Quesadillas,"Oregano, Dried",1
+R60288,Roasted Vegetable Quesadillas,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R60288,Roasted Vegetable Quesadillas,"Tomato, Roma",1
+R60288,Roasted Vegetable Quesadillas,Cilantro,0.25
+R60288,Roasted Vegetable Quesadillas,"Onion, Red",1
+R60288,Roasted Vegetable Quesadillas,Chipotle Powder,1
+R45084,UK Herbed Pork with Sicilian Caponata,"Eggplant, Italian - 24-30 ct",1
+R45084,UK Herbed Pork with Sicilian Caponata,"Onion, Red",1
+R45084,UK Herbed Pork with Sicilian Caponata,"Garlic, Peeled",2
+R45084,UK Herbed Pork with Sicilian Caponata,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R45084,UK Herbed Pork with Sicilian Caponata,"Pork, Ground",10
+R45084,UK Herbed Pork with Sicilian Caponata,"Spice, Italian Seasoning - ""So Delizioso""",1
+R45084,UK Herbed Pork with Sicilian Caponata,"Tomato, Diced",14
+R45084,UK Herbed Pork with Sicilian Caponata,"Olives, Green",1
+R45084,UK Herbed Pork with Sicilian Caponata,"Vinegar, White Wine",25
+R45084,UK Herbed Pork with Sicilian Caponata,"Bread, Ciabatta",1
+R10255A,,,
+R80087A,Ribeye with Maitre D' Butter Roasted Baby Carrots over Truffle Mashed Potatoes,"Potato, Yukon B",12
+R80087A,Ribeye with Maitre D' Butter Roasted Baby Carrots over Truffle Mashed Potatoes,"Carrots, Baby Stemmed",8
+R80087A,Ribeye with Maitre D' Butter Roasted Baby Carrots over Truffle Mashed Potatoes,"Garlic, Peeled",2
+R80087A,Ribeye with Maitre D' Butter Roasted Baby Carrots over Truffle Mashed Potatoes,Hazelnuts,1
+R80087A,Ribeye with Maitre D' Butter Roasted Baby Carrots over Truffle Mashed Potatoes,Parsley,0.25
+R80087A,Ribeye with Maitre D' Butter Roasted Baby Carrots over Truffle Mashed Potatoes,Paprika,1
+R80087A,Ribeye with Maitre D' Butter Roasted Baby Carrots over Truffle Mashed Potatoes,"Steak, Ribeye",12
+R80087A,Ribeye with Maitre D' Butter Roasted Baby Carrots over Truffle Mashed Potatoes,"Spice, Bold & Savory Montreal Steak Spice",1
+R80087A,Ribeye with Maitre D' Butter Roasted Baby Carrots over Truffle Mashed Potatoes,Sour Cream,1
+R80087A,Ribeye with Maitre D' Butter Roasted Baby Carrots over Truffle Mashed Potatoes,"Cheese, Shredded Gruyere",2
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Salmon, Skin-On",10
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Stock Concentrate, Veggie",9.6
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Couscous, French",0.75
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Spice, Turkish Spice Blend - ""All Spice Grand Bazaar""",1
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,Lemon,1
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Sugar, Brown",1
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,Dijon Mustard Packet,10
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,Sour Cream,1
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,Orange,1
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Lettuce, Arugula",2
+R99999B,,,
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,"Chicken, Breasts",12
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,"Spice, Dukkah - ""Nutty Sesame Crunch""",1
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,Lime,1
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,Sugar Snap Peas,6
+R25114A,Cheesy meatball bake,"Beef, Ground",10
+R25114A,Cheesy meatball bake,"Cheese, Ricotta",4
+R25114A,Cheesy meatball bake,"Breadcrumbs, Panko",0.5
+R25114A,Cheesy meatball bake,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R25114A,Cheesy meatball bake,Meatloaf Mix Blend,1
+R25114A,Cheesy meatball bake,"Pasta, Spaghetti",6
+R25114A,Cheesy meatball bake,"Onion, Yellow",1
+R25114A,Cheesy meatball bake,"Tomato, Crushed",13.76
+R25114A,Cheesy meatball bake,Lemon,1
+R25114A,Cheesy meatball bake,"Lettuce, Spring Mix",4
+R25114A,Cheesy meatball bake,"Spice, Italian Seasoning - ""So Delizioso""",1
+R60431,BE Pearl Barley Salad,"Squash, Zucchini",8
+R60431,BE Pearl Barley Salad,"Tomato, Heirloom Grape",4
+R60431,BE Pearl Barley Salad,"Thyme, Fresh",0.25
+R60431,BE Pearl Barley Salad,Scallions,2
+R60431,BE Pearl Barley Salad,"Couscous, Israeli",0.75
+R60431,BE Pearl Barley Salad,"Paprika, Smoked",1
+R60431,BE Pearl Barley Salad,"Beans, Chickpeas",13.4
+R60431,BE Pearl Barley Salad,"Cheese, Feta",2
+R60431,BE Pearl Barley Salad,"Stock Concentrate, Veggie",9.6
+R60431,BE Pearl Barley Salad,Lemon,1
+R60431,BE Pearl Barley Salad,"Garlic, Peeled",2
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Mint, Fresh",0.25
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Garlic, Peeled",2
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Pasta, Penne",6
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Stock Concentrate, Veggie",9.6
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,Pine Nuts,1
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Pork, Pancetta",4
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Peas, Fresh and Frozen - 4 Ounce (oz)",4
+R45060,UK Super Quick Creamy Pasta with Peas and Pancetta,"Cheese, Shredded Parmesan",1
+R20153B,Steak Caprese with Garlic-Roasted Potatoes (Classic),"Steak, Minute",10
+R20153B,Steak Caprese with Garlic-Roasted Potatoes (Classic),"Herb, Basil",0.5
+R20153B,Steak Caprese with Garlic-Roasted Potatoes (Classic),"Cheese, Fresh Mozzarella - 4 Ounce (oz)",4
+R20153B,Steak Caprese with Garlic-Roasted Potatoes (Classic),"Potato, Yukon B",12
+R20153B,Steak Caprese with Garlic-Roasted Potatoes (Classic),Balsamic Glaze,25
+R20153B,Steak Caprese with Garlic-Roasted Potatoes (Classic),"Spice, Italian Seasoning - ""So Delizioso""",1
+R20153B,Steak Caprese with Garlic-Roasted Potatoes (Classic),"Tomato, Grape",4
+R25133A,,,
+R15182A,Chicken Mozzarella Flatbread With Sriracha-Honey Buffalo Sauce And Ranch Sauce,"Pepper, Cubanelle/Anaheim",1
+R15182A,Chicken Mozzarella Flatbread With Sriracha-Honey Buffalo Sauce And Ranch Sauce,"Tomato, Roma",1
+R15182A,Chicken Mozzarella Flatbread With Sriracha-Honey Buffalo Sauce And Ranch Sauce,"Chicken, Stir Fry",10
+R15182A,Chicken Mozzarella Flatbread With Sriracha-Honey Buffalo Sauce And Ranch Sauce,"Spice, Ranch Spice - ""Garden Ranch""",1
+R15182A,Chicken Mozzarella Flatbread With Sriracha-Honey Buffalo Sauce And Ranch Sauce,Celery Salt,1
+R15182A,Chicken Mozzarella Flatbread With Sriracha-Honey Buffalo Sauce And Ranch Sauce,"Bread, Flatbread",2
+R15182A,Chicken Mozzarella Flatbread With Sriracha-Honey Buffalo Sauce And Ranch Sauce,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R15182A,Chicken Mozzarella Flatbread With Sriracha-Honey Buffalo Sauce And Ranch Sauce,Honey .5oz,0.5
+R15182A,Chicken Mozzarella Flatbread With Sriracha-Honey Buffalo Sauce And Ranch Sauce,Sriracha Sauce,1
+R60530A,"Veggie ""Carnitas""","Beans, Chickpeas",13.4
+R60530A,"Veggie ""Carnitas""","Tortillas, 6-inch Flour",6
+R60530A,"Veggie ""Carnitas""","Pepper, Poblano",1
+R60530A,"Veggie ""Carnitas""",Tomato Paste,6
+R60530A,"Veggie ""Carnitas""",Lime,1
+R60530A,"Veggie ""Carnitas""","Tomato, Roma",1
+R60530A,"Veggie ""Carnitas""","Vinegar, White Wine",25
+R60530A,"Veggie ""Carnitas""",Shallot,2
+R60530A,"Veggie ""Carnitas""","Pepper, Jalapeno",1
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,"Chicken, Breasts",12
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,"Spice, Dukkah - ""Nutty Sesame Crunch""",1
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,Lime,1
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,Sugar Snap Peas,6
+R20059,Seared Steak and Creamy Chipotle Pan-Sauce,"Steak, Sirloin",12
+R20059,Seared Steak and Creamy Chipotle Pan-Sauce,Corn Kernels,13.4
+R20059,Seared Steak and Creamy Chipotle Pan-Sauce,"Pepper, Poblano",1
+R20059,Seared Steak and Creamy Chipotle Pan-Sauce,"Potato, Russet",12
+R20059,Seared Steak and Creamy Chipotle Pan-Sauce,"Stock Concentrate, Beef",12
+R20059,Seared Steak and Creamy Chipotle Pan-Sauce,"Onion, Yellow",1
+R20059,Seared Steak and Creamy Chipotle Pan-Sauce,Sour Cream,1
+R20059,Seared Steak and Creamy Chipotle Pan-Sauce,Adobo Sauce,1
+R20059,Seared Steak and Creamy Chipotle Pan-Sauce,Lime,1
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Beef, Ground",10
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Tomato, Roma",1
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Onion, Red",1
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Squash, Zucchini",8
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,Parsley,0.25
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,Bulgur Wheat,0.5
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,Sumac - 1tsp,1
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,Sugar Snap Peas ,8
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Stock Concentrate, Chicken",9.6
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,Sour Cream,1
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Breadcrumbs, Panko",0.25
+R45079,Sweet Italian Sausage and Broccolini Pasta,"Sausage, Raw Lean Sweet Italian Pork",9
+R45079,Sweet Italian Sausage and Broccolini Pasta,"Pasta, Gemeli",6
+R45079,Sweet Italian Sausage and Broccolini Pasta,"Broccoli, Baby",6
+R45079,Sweet Italian Sausage and Broccolini Pasta,"Cheese, Shredded Parmesan",1
+R45079,Sweet Italian Sausage and Broccolini Pasta,"Garlic, Peeled",2
+R45079,Sweet Italian Sausage and Broccolini Pasta,"Almonds, Sliced",1
+R45079,Sweet Italian Sausage and Broccolini Pasta,"Oregano, Fresh",0.25
+R45079,Sweet Italian Sausage and Broccolini Pasta,Lemon,1
+R45063A,UK Orecchiette with Herbed Pork (f),"Sausage, Raw Lean Sweet Italian Pork",9
+R45063A,UK Orecchiette with Herbed Pork (f),"Pasta, Orecchiette",6
+R45063A,UK Orecchiette with Herbed Pork (f),"Broccoli, Baby",6
+R45063A,UK Orecchiette with Herbed Pork (f),"Pesto, Fresh 2oz",2
+R45063A,UK Orecchiette with Herbed Pork (f),Chili Flakes,1
+R45063A,UK Orecchiette with Herbed Pork (f),"Cheese, Shredded Parmesan",1
+R99999,,,
+R20037B,Steak Tagliata (Family Friendly),"Vinegar, Balsamic",25
+R20037B,Steak Tagliata (Family Friendly),"Steak, Ranch",10
+R20037B,Steak Tagliata (Family Friendly),Green Beans,6
+R20037B,Steak Tagliata (Family Friendly),"Garlic, Peeled",2
+R20037B,Steak Tagliata (Family Friendly),"Tomato, Grape",4
+R20037B,Steak Tagliata (Family Friendly),Rosemary,0.25
+R20037B,Steak Tagliata (Family Friendly),"Stock Concentrate, Beef",12
+R40098A,,,
+R10169C,Honey-Ginger Glazed Chicken,"Chicken, Breasts",12
+R10169C,Honey-Ginger Glazed Chicken,Ginger,1
+R10169C,Honey-Ginger Glazed Chicken,"Garlic, Peeled",2
+R10169C,Honey-Ginger Glazed Chicken,Soy Sauce,1
+R10169C,Honey-Ginger Glazed Chicken,"Stock Concentrate, Chicken",9.6
+R10169C,Honey-Ginger Glazed Chicken,"Vinegar, White Wine",25
+R10169C,Honey-Ginger Glazed Chicken,Green Beans,6
+R10169C,Honey-Ginger Glazed Chicken,Lime,1
+R10169C,Honey-Ginger Glazed Chicken,"Rice, Jasmine",0.5
+R30131A,Crispy Chipotle Shrimp Tacos,Shrimp,10
+R30131A,Crispy Chipotle Shrimp Tacos,Radishes,3
+R30131A,Crispy Chipotle Shrimp Tacos,Chipotle Powder,1
+R30131A,Crispy Chipotle Shrimp Tacos,"Tortillas, 6-inch Corn",6
+R30131A,Crispy Chipotle Shrimp Tacos,"Cabbage, Shredded Red",4
+R30131A,Crispy Chipotle Shrimp Tacos,Lime,1
+R30131A,Crispy Chipotle Shrimp Tacos,Scallions,2
+R35170A,Salmon over Tomato Couscous with Lemon Crema,"Tomato, Roma",1
+R35170A,Salmon over Tomato Couscous with Lemon Crema,Lemon,1
+R35170A,Salmon over Tomato Couscous with Lemon Crema,Scallions,2
+R35170A,Salmon over Tomato Couscous with Lemon Crema,"Garlic, Peeled",2
+R35170A,Salmon over Tomato Couscous with Lemon Crema,"Couscous, Israeli",0.5
+R35170A,Salmon over Tomato Couscous with Lemon Crema,"Salmon, Skin-On",10
+R35170A,Salmon over Tomato Couscous with Lemon Crema,Fry Seasoning Blend,1
+R60408,Polenta Cakes with Asparagus and Mushrooms,"Polenta, Precooked",1
+R60408,Polenta Cakes with Asparagus and Mushrooms,Ginger,1
+R60408,Polenta Cakes with Asparagus and Mushrooms,"Garlic, Peeled",2
+R60408,Polenta Cakes with Asparagus and Mushrooms,Sour Cream,1
+R60408,Polenta Cakes with Asparagus and Mushrooms,Scallions,2
+R60408,Polenta Cakes with Asparagus and Mushrooms,"Cheese, Ricotta",4
+R60408,Polenta Cakes with Asparagus and Mushrooms,"Mushrooms, Button",8
+R60408,Polenta Cakes with Asparagus and Mushrooms,"Breadcrumbs, Panko",0.25
+R60408,Polenta Cakes with Asparagus and Mushrooms,Asparagus,6
+R10082,Rosemary-Walnut Crusted Chicken,"Chicken, Breasts",12
+R10082,Rosemary-Walnut Crusted Chicken,"Potato, Russet",12
+R10082,Rosemary-Walnut Crusted Chicken,"Lettuce, Spring Mix",2
+R10082,Rosemary-Walnut Crusted Chicken,"Breadcrumbs, Panko",0.25
+R10082,Rosemary-Walnut Crusted Chicken,Rosemary,0.25
+R10082,Rosemary-Walnut Crusted Chicken,Walnuts,1
+R10082,Rosemary-Walnut Crusted Chicken,"Vinegar, Balsamic",25
+R10082,Rosemary-Walnut Crusted Chicken,Dijon Mustard Packet,10
+R40100A,"Sweet and Smoky Pork Tenderloin with Cherry Sauce, Apple-Carrot Slaw and Mashed Potatoes","Pork, Tenderloin",12
+R40100A,"Sweet and Smoky Pork Tenderloin with Cherry Sauce, Apple-Carrot Slaw and Mashed Potatoes","Apple, Gala",1
+R40100A,"Sweet and Smoky Pork Tenderloin with Cherry Sauce, Apple-Carrot Slaw and Mashed Potatoes","Spice, Smoky Cinnamon Paprika Spice",1
+R40100A,"Sweet and Smoky Pork Tenderloin with Cherry Sauce, Apple-Carrot Slaw and Mashed Potatoes",Mayonnaise,1
+R40100A,"Sweet and Smoky Pork Tenderloin with Cherry Sauce, Apple-Carrot Slaw and Mashed Potatoes","Potato, Yukon B",12
+R40100A,"Sweet and Smoky Pork Tenderloin with Cherry Sauce, Apple-Carrot Slaw and Mashed Potatoes","Vinegar, White Wine",25
+R40100A,"Sweet and Smoky Pork Tenderloin with Cherry Sauce, Apple-Carrot Slaw and Mashed Potatoes",Scallions,2
+R40100A,"Sweet and Smoky Pork Tenderloin with Cherry Sauce, Apple-Carrot Slaw and Mashed Potatoes","Carrots, Shredded",4
+R40100A,"Sweet and Smoky Pork Tenderloin with Cherry Sauce, Apple-Carrot Slaw and Mashed Potatoes",Sour Cream,1
+R60271A,Portobello & Orecchiette Primavera,"Mushrooms, Portobello Caps",2
+R60271A,Portobello & Orecchiette Primavera,Asparagus,6
+R60271A,Portobello & Orecchiette Primavera,"Onion, Yellow",1
+R60271A,Portobello & Orecchiette Primavera,"Garlic, Peeled",2
+R60271A,Portobello & Orecchiette Primavera,"Pasta, Orecchiette",6
+R60271A,Portobello & Orecchiette Primavera,Chives,0.25
+R60271A,Portobello & Orecchiette Primavera,"Cheese, Shredded Parmesan",1
+R60271A,Portobello & Orecchiette Primavera,"Bell Pepper, Red",1
+R60271A,Portobello & Orecchiette Primavera,Chili Flakes,1
+R70044A,Seitan Tacos al Pastor with Poblano,"Veggie Crumbles, Chipotle",8
+R70044A,Seitan Tacos al Pastor with Poblano,"Pepper, Poblano",1
+R70044A,Seitan Tacos al Pastor with Poblano,"Onion, White",1
+R70044A,Seitan Tacos al Pastor with Poblano,"Pineapple, In-Juice",4
+R70044A,Seitan Tacos al Pastor with Poblano,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R70044A,Seitan Tacos al Pastor with Poblano,Chipotle Powder,1
+R70044A,Seitan Tacos al Pastor with Poblano,Lime,1
+R70044A,Seitan Tacos al Pastor with Poblano,"Tortillas, 6-inch Flour",6
+R70044A,Seitan Tacos al Pastor with Poblano,Cilantro,0.25
+R60308,Stuffed Summer Squash Boats NOT FOR FAM,"Quinoa, White",0.5
+R60308,Stuffed Summer Squash Boats NOT FOR FAM,"Mushrooms, Button",4
+R60308,Stuffed Summer Squash Boats NOT FOR FAM,Shallot,2
+R60308,Stuffed Summer Squash Boats NOT FOR FAM,"Cheese, Shredded Parmesan",1
+R60308,Stuffed Summer Squash Boats NOT FOR FAM,"Garlic, Peeled",2
+R60308,Stuffed Summer Squash Boats NOT FOR FAM,"Thyme, Fresh",0.25
+R60308,Stuffed Summer Squash Boats NOT FOR FAM,"Stock Concentrate, Veggie",9.6
+R60308,Stuffed Summer Squash Boats NOT FOR FAM,Parsley,0.25
+R15147A,Spinach Ricotta Ravioli with Chicken Sausage,Scallions,2
+R15147A,Spinach Ricotta Ravioli with Chicken Sausage,"Tomato, Roma",1
+R15147A,Spinach Ricotta Ravioli with Chicken Sausage,Lemon,1
+R15147A,Spinach Ricotta Ravioli with Chicken Sausage,"Sausage Mix, Raw Sweet Italian Chicken",9
+R15147A,Spinach Ricotta Ravioli with Chicken Sausage,"Spice, Italian Seasoning - ""So Delizioso""",1
+R15147A,Spinach Ricotta Ravioli with Chicken Sausage,"Pasta, Spinach and Ricotta Ravioli",9
+R15147A,Spinach Ricotta Ravioli with Chicken Sausage,"Stock Concentrate, Chicken",9.6
+R15150A,,,
+R99999C,,,
+R40116A,,,
+R25117B,Dinner and Lunch Chili and Burrito,"Beef, Ground",10
+R25117B,Dinner and Lunch Chili and Burrito,"Chorizo, Dried",3
+R25117B,Dinner and Lunch Chili and Burrito,"Onion, Yellow",1
+R25117B,Dinner and Lunch Chili and Burrito,"Beans, Kidney",13.4
+R25117B,Dinner and Lunch Chili and Burrito,"Pepper, Poblano",1
+R25117B,Dinner and Lunch Chili and Burrito,"Tomato, Crushed",13.76
+R25117B,Dinner and Lunch Chili and Burrito,"Pepper, Jalapeno",1
+R25117B,Dinner and Lunch Chili and Burrito,"Stock Concentrate, Beef",12
+R25117B,Dinner and Lunch Chili and Burrito,Enchilada Spice Blend,1
+R25117B,Dinner and Lunch Chili and Burrito,"Tortillas, 10-inch Flour",2
+R25117B,Dinner and Lunch Chili and Burrito,"Rice, Jasmine",0.75
+R25117B,Dinner and Lunch Chili and Burrito,"Tomato, Roma",1
+R25117B,Dinner and Lunch Chili and Burrito,Cilantro,0.25
+R25117B,Dinner and Lunch Chili and Burrito,Scallions,2
+R35173A,Crispy Spiced Tilapia Sandwich with Red Cabbage and Cucumber Slaw,"Cucumber, Persian",1
+R35173A,Crispy Spiced Tilapia Sandwich with Red Cabbage and Cucumber Slaw,Scallions,2
+R35173A,Crispy Spiced Tilapia Sandwich with Red Cabbage and Cucumber Slaw,"Bread, Brioche Buns",2
+R35173A,Crispy Spiced Tilapia Sandwich with Red Cabbage and Cucumber Slaw,"Cabbage, Shredded Red",4
+R35173A,Crispy Spiced Tilapia Sandwich with Red Cabbage and Cucumber Slaw,"Vinegar, White Wine",25
+R35173A,Crispy Spiced Tilapia Sandwich with Red Cabbage and Cucumber Slaw,Tilapia,11
+R35173A,Crispy Spiced Tilapia Sandwich with Red Cabbage and Cucumber Slaw,"Breadcrumbs, Panko",0.5
+R35173A,Crispy Spiced Tilapia Sandwich with Red Cabbage and Cucumber Slaw,Fry Seasoning Blend,1
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Chicken, Breasts",12
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Potato, Yukon B",12
+R10158,Grilled Chicken with Potato and Summer Squash Hash,Sour Cream,1
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Squash, Zucchini",8
+R10158,Grilled Chicken with Potato and Summer Squash Hash,Dill,0.25
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Mustard, Dijon, Mini Glass Bottles",1.4
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Stock Concentrate, Chicken",9.6
+R10158,Grilled Chicken with Potato and Summer Squash Hash,"Squash, Yellow",8
+R66670A,,,
+R60350,Mushroom Ragu with Crispy Polenta Cakes and Tangy Arugula Salad,"Mushrooms, Button",8
+R60350,Mushroom Ragu with Crispy Polenta Cakes and Tangy Arugula Salad,"Garlic, Peeled",2
+R60350,Mushroom Ragu with Crispy Polenta Cakes and Tangy Arugula Salad,Shallot,2
+R60350,Mushroom Ragu with Crispy Polenta Cakes and Tangy Arugula Salad,"Thyme, Fresh",0.25
+R60350,Mushroom Ragu with Crispy Polenta Cakes and Tangy Arugula Salad,Parsley,0.25
+R60350,Mushroom Ragu with Crispy Polenta Cakes and Tangy Arugula Salad,"Stock Concentrate, Veggie",9.6
+R60350,Mushroom Ragu with Crispy Polenta Cakes and Tangy Arugula Salad,"Cheese, Shredded Parmesan",1
+R60350,Mushroom Ragu with Crispy Polenta Cakes and Tangy Arugula Salad,"Lettuce, Arugula",2
+R60350,Mushroom Ragu with Crispy Polenta Cakes and Tangy Arugula Salad,"Vinegar, Balsamic",25
+R60350,Mushroom Ragu with Crispy Polenta Cakes and Tangy Arugula Salad,Pine Nuts,1
+R60350,Mushroom Ragu with Crispy Polenta Cakes and Tangy Arugula Salad,"Polenta, Precooked",1
+R60253,Chard & Wild Mushroom Penne,"Pasta, Penne",6
+R60253,Chard & Wild Mushroom Penne,Swiss Chard,8
+R60253,Chard & Wild Mushroom Penne,"Mushrooms, Mixed Wild",4
+R60253,Chard & Wild Mushroom Penne,"Garlic, Peeled",2
+R60253,Chard & Wild Mushroom Penne,"Onion, Yellow",1
+R60253,Chard & Wild Mushroom Penne,"Cheese, Shredded Parmesan",1
+R60253,Chard & Wild Mushroom Penne,Chili Flakes,1
+R60253,Chard & Wild Mushroom Penne,Paprika,1
+R25093A,Cumin Beef Stir Fry,"Beef, Ground",10
+R25093A,Cumin Beef Stir Fry,Ginger,1
+R25093A,Cumin Beef Stir Fry,"Garlic, Peeled",2
+R25093A,Cumin Beef Stir Fry,Soy Sauce,1
+R25093A,Cumin Beef Stir Fry,Sesame Oil,1
+R25093A,Cumin Beef Stir Fry,"Cumin, Whole",1
+R25093A,Cumin Beef Stir Fry,Chili Flakes,1
+R25093A,Cumin Beef Stir Fry,Cilantro,0.25
+R25093A,Cumin Beef Stir Fry,"Onion, Yellow",1
+R25093A,Cumin Beef Stir Fry,"Sesame Seeds, White",1
+R25093A,Cumin Beef Stir Fry,"Rice, Jasmine",0.75
+R40047,Pork al Mojo,"Pork, Boneless Chops (2)",12
+R40047,Pork al Mojo,"Beans, Black",13.4
+R40047,Pork al Mojo,Orange,1
+R40047,Pork al Mojo,"Onion, Red",1
+R40047,Pork al Mojo,"Rice, Basmati",0.5
+R40047,Pork al Mojo,"Garlic, Peeled",2
+R40047,Pork al Mojo,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R40047,Pork al Mojo,"Oregano, Fresh",0.25
+R40047,Pork al Mojo,"Jam, Orange",1
+R40047,Pork al Mojo,"Stock Concentrate, Chicken",9.6
+R40047,Pork al Mojo,Scallions,2
+R40047,Pork al Mojo,Lime,1
+R80091A,"Duck Breast with Nectarine-Balsamic Sauce, Lemony Rice, and Watercress Salad",Duck Breast,12
+R80091A,"Duck Breast with Nectarine-Balsamic Sauce, Lemony Rice, and Watercress Salad",Nectarine,1
+R80091A,"Duck Breast with Nectarine-Balsamic Sauce, Lemony Rice, and Watercress Salad",Shallot,2
+R80091A,"Duck Breast with Nectarine-Balsamic Sauce, Lemony Rice, and Watercress Salad",Scallions,2
+R80091A,"Duck Breast with Nectarine-Balsamic Sauce, Lemony Rice, and Watercress Salad","Mint, Fresh",0.25
+R80091A,"Duck Breast with Nectarine-Balsamic Sauce, Lemony Rice, and Watercress Salad",Lemon,1
+R80091A,"Duck Breast with Nectarine-Balsamic Sauce, Lemony Rice, and Watercress Salad","Almonds, Sliced",1
+R80091A,"Duck Breast with Nectarine-Balsamic Sauce, Lemony Rice, and Watercress Salad","Rice, Jasmine",0.5
+R80091A,"Duck Breast with Nectarine-Balsamic Sauce, Lemony Rice, and Watercress Salad",Balsamic Glaze,25
+R80091A,"Duck Breast with Nectarine-Balsamic Sauce, Lemony Rice, and Watercress Salad","Stock Concentrate, Chicken",9.6
+R80091A,"Duck Breast with Nectarine-Balsamic Sauce, Lemony Rice, and Watercress Salad","Lettuce, Watercress",2
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,"Tomato, Heirloom Grape",4
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,Shallot,2
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,"Garlic, Peeled",2
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,Parsley,0.25
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,Lemon,1
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,Orange,1
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,Saffron,0.03
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,Hazelnuts,1
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,"Breadcrumbs, Panko",0.25
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,"Pasta, Lobster Ravioli",9
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,Dijon Mustard Packet,10
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,"Lettuce, Watercress",2
+R80093A,Lobster Ravioli and Zucchini in Creamy Tomato Sauce,"Cheese, Shredded Parmesan",1
+R15164A,Chicken Paillard,Lemon,1
+R15164A,Chicken Paillard,"Chicken, Cutlets",10
+R15164A,Chicken Paillard,"Spice, Italian Seasoning - ""So Delizioso""",1
+R15164A,Chicken Paillard,"Potato, Yukon B",16
+R15164A,Chicken Paillard,Scallions,2
+R15164A,Chicken Paillard,"Squash, Zucchini",8
+R15164A,Chicken Paillard,"Tomato, Grape",4
+R15164A,Chicken Paillard,Shallot,2
+R15164A,Chicken Paillard,"Cheese, Shredded Italian Blend",2
+R15164A,Chicken Paillard,"Stock Concentrate, Chicken",9.6
+R35166A,Blackened Fish Sandwiches,"Bread, Brioche Buns",2
+R35166A,Blackened Fish Sandwiches,Tilapia,11
+R35166A,Blackened Fish Sandwiches,"Garlic, Peeled",2
+R35166A,Blackened Fish Sandwiches,"Pickle, Dill",1
+R35166A,Blackened Fish Sandwiches,"Spice, Blackening Spice - ""Southern Sizzle""",1
+R35166A,Blackened Fish Sandwiches,"Cabbage, Shredded Red",4
+R35166A,Blackened Fish Sandwiches,Cilantro,0.25
+R35166A,Blackened Fish Sandwiches,Lime,1
+R35166A,Blackened Fish Sandwiches,Sour Cream,1
+R35166A,Blackened Fish Sandwiches,"Cabbage, Shredded Green",4
+R25041B,Tomato Garlic Ragu (family version),"Beef, Ground",10
+R25041B,Tomato Garlic Ragu (family version),"Pasta, Spaghetti",6
+R25041B,Tomato Garlic Ragu (family version),"Onion, Yellow",1
+R25041B,Tomato Garlic Ragu (family version),"Garlic, Peeled",2
+R25041B,Tomato Garlic Ragu (family version),"Spice, Italian Seasoning - ""So Delizioso""",1
+R25041B,Tomato Garlic Ragu (family version),"Thyme, Fresh",0.25
+R25041B,Tomato Garlic Ragu (family version),"Squash, Zucchini",8
+R25041B,Tomato Garlic Ragu (family version),"Tomato, Crushed",13.76
+R25041B,Tomato Garlic Ragu (family version),Soy Sauce,1
+R25041B,Tomato Garlic Ragu (family version),"Cheese, Shredded Parmesan",1
+R25041B,Tomato Garlic Ragu (family version),Chili Flakes,1
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,"Chicken, Tenders 12oz (8-11 pieces/pack)",12
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,"Sesame Seeds, White",1
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,Dijon Mustard Packet,10
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,Fry Seasoning Blend,1
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,"Potato, Fingerling 12oz",12
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,Sour Cream,1
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,Green Beans,6
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,Pecans,1
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,"Jam, Apricot",1
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,"Thyme, Fresh",0.25
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,"Vinegar, White Wine",25
+R15152A,Sesame Pecan Chicken Tenders with Honey Mustard,Scallions,2
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,"Sugar, Brown",1
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,"Paprika, Smoked",1
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,"Salmon, Skin-On",10
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,Sunflower Seeds,1
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,Lemon,1
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,Dijon Mustard Packet,5
+R35168A,Smoky Brown Sugar Salmon with Sweet Potatoes and Sunflower Seed Salad,"Lettuce, Spring Mix",2
+R45076,Gnocchi with Chorizo Bolognese,"Pasta, Gnocchi - Fresh",9
+R45076,Gnocchi with Chorizo Bolognese,"Onion, Yellow",1
+R45076,Gnocchi with Chorizo Bolognese,"Garlic, Peeled",2
+R45076,Gnocchi with Chorizo Bolognese,Tomato Paste,6
+R45076,Gnocchi with Chorizo Bolognese,"Oregano, Fresh",0.25
+R45076,Gnocchi with Chorizo Bolognese,"Stock Concentrate, Chicken",9.6
+R45076,Gnocchi with Chorizo Bolognese,"Cheese, Shredded Parmesan",1
+R20074,Pan-Seared Steak with Spring Veggie Succotash,"Steak, Sirloin",12
+R20074,Pan-Seared Steak with Spring Veggie Succotash,"Squash, Zucchini",8
+R20074,Pan-Seared Steak with Spring Veggie Succotash,"Onion, Red",1
+R20074,Pan-Seared Steak with Spring Veggie Succotash,Asparagus,6
+R20074,Pan-Seared Steak with Spring Veggie Succotash,"Peas, Fresh and Frozen - 4 Ounce (oz)",4
+R20074,Pan-Seared Steak with Spring Veggie Succotash,"Mint, Fresh",0.25
+R20074,Pan-Seared Steak with Spring Veggie Succotash,Chives,0.25
+R20074,Pan-Seared Steak with Spring Veggie Succotash,Lemon,1
+R45109B,Pork carnitas (Classic version),"Pork, Ground",10
+R45109B,Pork carnitas (Classic version),"Tortillas, 6-inch Flour",6
+R45109B,Pork carnitas (Classic version),"Onion, Red",1
+R45109B,Pork carnitas (Classic version),"Pepper, Poblano",1
+R45109B,Pork carnitas (Classic version),Lime,1
+R45109B,Pork carnitas (Classic version),"Vinegar, White Wine",25
+R45109B,Pork carnitas (Classic version),Cilantro,0.25
+R45109B,Pork carnitas (Classic version),Fajita Spice Blend,1
+R45109B,Pork carnitas (Classic version),Tomato Paste,6
+R45109B,Pork carnitas (Classic version),"Stock Concentrate, Chicken",9.6
+R45109B,Pork carnitas (Classic version),"Lettuce, Romaine Heart",1
+R45109B,Pork carnitas (Classic version),Sour Cream,1
+R45109B,Pork carnitas (Classic version),"Cheese, Shredded Monterey Jack",1
+R45109B,Pork carnitas (Classic version),Chipotle Powder,1
+R30043,Brioche Shrimp Rolls,Shrimp,10
+R30043,Brioche Shrimp Rolls,Lemon,1
+R30043,Brioche Shrimp Rolls,Scallions,2
+R30043,Brioche Shrimp Rolls,"Bread, Brioche Buns",2
+R30043,Brioche Shrimp Rolls,Sour Cream,1
+R30043,Brioche Shrimp Rolls,Radishes,3
+R30043,Brioche Shrimp Rolls,Mayonnaise,1
+R30043,Brioche Shrimp Rolls,Tarragon,0.25
+R30043,Brioche Shrimp Rolls,"Lettuce, Arugula",2
+R45179A,,,
+R60351,"Autumn Risotto with Butternut Squash, Sage, and Pepitas","Squash, Butternut",8
+R60351,"Autumn Risotto with Butternut Squash, Sage, and Pepitas","Cheese, Shredded Parmesan",1
+R60351,"Autumn Risotto with Butternut Squash, Sage, and Pepitas",Shallot,2
+R60351,"Autumn Risotto with Butternut Squash, Sage, and Pepitas","Garlic, Peeled",2
+R60351,"Autumn Risotto with Butternut Squash, Sage, and Pepitas",Sage,0.25
+R60351,"Autumn Risotto with Butternut Squash, Sage, and Pepitas","Rice, Arborio",0.75
+R60351,"Autumn Risotto with Butternut Squash, Sage, and Pepitas",Pepitas,1
+R80048A,Maple Glazed Duck with Blood Orange Salad,"Potato, Fingerling 12oz",12
+R80048A,Maple Glazed Duck with Blood Orange Salad,Duck Breast,12
+R80048A,Maple Glazed Duck with Blood Orange Salad,Rosemary,0.25
+R80048A,Maple Glazed Duck with Blood Orange Salad,"Garlic, Peeled",2
+R80048A,Maple Glazed Duck with Blood Orange Salad,Blood Orange,1
+R80048A,Maple Glazed Duck with Blood Orange Salad,Maple Syrup,1
+R80048A,Maple Glazed Duck with Blood Orange Salad,"Mustard, Whole Grain",1
+R80048A,Maple Glazed Duck with Blood Orange Salad,"Lettuce, Arugula",2
+R30023,Shrimp and Farro Bowl,Shrimp,10
+R30023,Shrimp and Farro Bowl,Farro,0.75
+R30023,Shrimp and Farro Bowl,Shallot,2
+R30023,Shrimp and Farro Bowl,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R30023,Shrimp and Farro Bowl,Green Beans,6
+R30023,Shrimp and Farro Bowl,Lemon,1
+R30023,Shrimp and Farro Bowl,"Garlic, Peeled",2
+R30023,Shrimp and Farro Bowl,"Mint, Fresh",0.25
+R30023,Shrimp and Farro Bowl,"Lettuce, Arugula",2
+R15144A,Spiced Cashew Orange Chicken Stir Fry,"Rice, Jasmine",0.75
+R15144A,Spiced Cashew Orange Chicken Stir Fry,Ginger,1
+R15144A,Spiced Cashew Orange Chicken Stir Fry,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R15144A,Spiced Cashew Orange Chicken Stir Fry,Scallions,2
+R15144A,Spiced Cashew Orange Chicken Stir Fry,Orange,1
+R15144A,Spiced Cashew Orange Chicken Stir Fry,"Chicken, Cutlets",10
+R15144A,Spiced Cashew Orange Chicken Stir Fry,Cornstarch,1
+R15144A,Spiced Cashew Orange Chicken Stir Fry,Cashews Pieces,1
+R15144A,Spiced Cashew Orange Chicken Stir Fry,Korean Chili Flakes,1
+R15144A,Spiced Cashew Orange Chicken Stir Fry,Soy Sauce,1
+R35048,Roasted Salmon with French Lentil Salad,"Salmon, Skin-On",10
+R35048,Roasted Salmon with French Lentil Salad,Shallot,2
+R35048,Roasted Salmon with French Lentil Salad,"Lentils, French",0.5
+R35048,Roasted Salmon with French Lentil Salad,Brussels Sprouts,8
+R35048,Roasted Salmon with French Lentil Salad,"Thyme, Fresh",0.25
+R35048,Roasted Salmon with French Lentil Salad,Lemon,1
+R35048,Roasted Salmon with French Lentil Salad,"Mustard, Dijon, Mini Glass Bottles",1.4
+R35048,Roasted Salmon with French Lentil Salad,"Stock Concentrate, Veggie",9.6
+R10182,RAPID: Maple-Balsamic Chicken with Sweet Potato and Brussels,"Broccoli, Florets",8
+R10182,RAPID: Maple-Balsamic Chicken with Sweet Potato and Brussels,Sweet and Smoky Spice - 1tsp,1
+R10182,RAPID: Maple-Balsamic Chicken with Sweet Potato and Brussels,"Chicken, Breasts",12
+R10182,RAPID: Maple-Balsamic Chicken with Sweet Potato and Brussels,"Vinegar, Balsamic",25
+R10182,RAPID: Maple-Balsamic Chicken with Sweet Potato and Brussels,Honey .5oz,0.5
+R45088A,BBQ Pork Meatloaf with Cabbage and Sweet Potato,"Onion, Red",1
+R45088A,BBQ Pork Meatloaf with Cabbage and Sweet Potato,Chives,0.25
+R45088A,BBQ Pork Meatloaf with Cabbage and Sweet Potato,"Pork, Ground",10
+R45088A,BBQ Pork Meatloaf with Cabbage and Sweet Potato,Eggs,2
+R45088A,BBQ Pork Meatloaf with Cabbage and Sweet Potato,Sweet and Smoky BBQ Seasoning,1
+R45088A,BBQ Pork Meatloaf with Cabbage and Sweet Potato,Classic BBQ Sauce,2
+R45088A,BBQ Pork Meatloaf with Cabbage and Sweet Potato,"Cabbage, Shredded Red",4
+R45088A,BBQ Pork Meatloaf with Cabbage and Sweet Potato,"Vinegar, Red Wine",25
+R45088A,BBQ Pork Meatloaf with Cabbage and Sweet Potato,"Breadcrumbs, Panko",0.5
+R45162A,BBQ Pulled Pork Flatbread,"Tomato, Roma",1
+R45162A,BBQ Pulled Pork Flatbread,Scallions,2
+R45162A,BBQ Pulled Pork Flatbread,Sweet and Smoky BBQ Seasoning,1
+R45162A,BBQ Pulled Pork Flatbread,"Pork, Pulled",10
+R45162A,BBQ Pulled Pork Flatbread,"Bread, Flatbread",2
+R45162A,BBQ Pulled Pork Flatbread,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R45162A,BBQ Pulled Pork Flatbread,Classic BBQ Sauce,2
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Chicken, Thighs, Boneless/Skinless",12
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Sauce, Green Salsa - Private Label",7.06
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Tortillas, 6-inch Flour",6
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Pepper, Poblano",1
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,Sour Cream,1
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,Lime,1
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Cheese, Shredded Monterey Jack",1
+R15154A,Chicken & Poblano Tacos with Tomatillo Salsa and Lime Crema,"Tomato, Roma",1
+R45042,Cauliflower Pancetta Mac & Cheese,"Pork, Pancetta",4
+R45042,Cauliflower Pancetta Mac & Cheese,"Cauliflower, Florets 10oz",10
+R45042,Cauliflower Pancetta Mac & Cheese,Scallions,2
+R45042,Cauliflower Pancetta Mac & Cheese,Flour,1
+R45042,Cauliflower Pancetta Mac & Cheese,"Pasta, Cavatappi 6oz",6
+R45042,Cauliflower Pancetta Mac & Cheese,"Stock Concentrate, Chicken",9.6
+R45042,Cauliflower Pancetta Mac & Cheese,"Cheese, Shredded Italian Blend",2
+R20102A,,,
+R40070,UK Peachy Pork Tacos,"Pork, Boneless Chops (2)",12
+R40070,UK Peachy Pork Tacos,Peach,1
+R40070,UK Peachy Pork Tacos,"Garlic, Peeled",2
+R40070,UK Peachy Pork Tacos,"Vinegar, White Wine",25
+R40070,UK Peachy Pork Tacos,"Tortillas, 6-inch Flour",6
+R40070,UK Peachy Pork Tacos,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R40070,UK Peachy Pork Tacos,Parsley,0.25
+R40070,UK Peachy Pork Tacos,"Cabbage, Shredded Red",4
+R40070,UK Peachy Pork Tacos,Lime,1
+R40070,UK Peachy Pork Tacos,Shallot,2
+R40070,UK Peachy Pork Tacos,"Tomato, Roma",1
+R25048,Homestyle Meatloaf,"Beef, Ground",10
+R25048,Homestyle Meatloaf,"Potato, Russet",12
+R25048,Homestyle Meatloaf,"Garlic, Peeled",2
+R25048,Homestyle Meatloaf,"Breadcrumbs, Panko",0.5
+R25048,Homestyle Meatloaf,Shallot,2
+R25048,Homestyle Meatloaf,"Stock Concentrate, Beef",12
+R25048,Homestyle Meatloaf,"Thyme, Fresh",0.25
+R25048,Homestyle Meatloaf,"Carrots, Baby Stemmed",8
+R25048,Homestyle Meatloaf,Ketchup,1
+R25048,Homestyle Meatloaf,Flour,1
+R80037A,Prosciutto Wrapped Chicken over Truffle Mushroom Risotto,"Chicken, Breasts",12
+R80037A,Prosciutto Wrapped Chicken over Truffle Mushroom Risotto,Prosciutto,2
+R80037A,Prosciutto Wrapped Chicken over Truffle Mushroom Risotto,Shallot,2
+R80037A,Prosciutto Wrapped Chicken over Truffle Mushroom Risotto,"Garlic, Peeled",2
+R80037A,Prosciutto Wrapped Chicken over Truffle Mushroom Risotto,"Rice, Arborio",0.75
+R80037A,Prosciutto Wrapped Chicken over Truffle Mushroom Risotto,"Cheese, Shredded Parmesan",1
+R80037A,Prosciutto Wrapped Chicken over Truffle Mushroom Risotto,"Mushrooms, Cremini",4
+R80037A,Prosciutto Wrapped Chicken over Truffle Mushroom Risotto,Chives,0.25
+R80037A,Prosciutto Wrapped Chicken over Truffle Mushroom Risotto,Lemon,1
+R80037A,Prosciutto Wrapped Chicken over Truffle Mushroom Risotto,Truffle Oil,25
+R80037A,Prosciutto Wrapped Chicken over Truffle Mushroom Risotto,"Butter, Roasted Garlic Herb",1
+R15037,Char-Broiled BBQ Chicken with Summery Potato & Green Bean Salad,"Chicken, Thighs, Boneless/Skinless",12
+R15037,Char-Broiled BBQ Chicken with Summery Potato & Green Bean Salad,Green Beans,6
+R15037,Char-Broiled BBQ Chicken with Summery Potato & Green Bean Salad,"Potato, Yukon B",12
+R15037,Char-Broiled BBQ Chicken with Summery Potato & Green Bean Salad,Scallions,2
+R15037,Char-Broiled BBQ Chicken with Summery Potato & Green Bean Salad,"Vinegar, White Wine",25
+R15037,Char-Broiled BBQ Chicken with Summery Potato & Green Bean Salad,Mayonnaise,1
+R15037,Char-Broiled BBQ Chicken with Summery Potato & Green Bean Salad,Classic BBQ Sauce,2
+R45064B,Penne With a Kick - summer,"Onion, Red",1
+R45064B,Penne With a Kick - summer,"Garlic, Peeled",2
+R45064B,Penne With a Kick - summer,"Tomato, Roma",1
+R45064B,Penne With a Kick - summer,"Pepper, Thai Bird's Eye Chili",1
+R45064B,Penne With a Kick - summer,"Pork, Pancetta",4
+R45064B,Penne With a Kick - summer,"Pasta, Penne",6
+R45064B,Penne With a Kick - summer,"Tomato, Diced",14
+R45064B,Penne With a Kick - summer,"Peas, Fresh and Frozen - 4 Ounce (oz)",4
+R45064B,Penne With a Kick - summer,"Cheese, Shredded Parmesan",1
+R15046,UK Shredded Barbecue Chicken with Black Bean Salad,"Potato, Red C",12
+R15046,UK Shredded Barbecue Chicken with Black Bean Salad,Scallions,2
+R15046,UK Shredded Barbecue Chicken with Black Bean Salad,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R15046,UK Shredded Barbecue Chicken with Black Bean Salad,"Chicken, Thighs, Boneless/Skinless",12
+R15046,UK Shredded Barbecue Chicken with Black Bean Salad,Classic BBQ Sauce,2
+R15046,UK Shredded Barbecue Chicken with Black Bean Salad,"Beans, Black",13.4
+R15046,UK Shredded Barbecue Chicken with Black Bean Salad,"Corn on the Cob, 8-inch",1
+R15046,UK Shredded Barbecue Chicken with Black Bean Salad,Lime,1
+R15046,UK Shredded Barbecue Chicken with Black Bean Salad,Sour Cream,1
+R90035A,Mexican Breakfast Pizza,"Bread, Flatbread",2
+R90035A,Mexican Breakfast Pizza,Mexican Spice Blend,1
+R90035A,Mexican Breakfast Pizza,"Chorizo, Dried",3
+R90035A,Mexican Breakfast Pizza,"Avocado, Hass - 60ct - 1 Piece (pc)",1
+R90035A,Mexican Breakfast Pizza,Cilantro,0.25
+R90035A,Mexican Breakfast Pizza,Lime,1
+R90035A,Mexican Breakfast Pizza,"Tomato, Roma",1
+R90035A,Mexican Breakfast Pizza,Shallot,2
+R40110A,Herb-Crusted Pork Tenderloin,"Pork, Tenderloin",12
+R40110A,Herb-Crusted Pork Tenderloin,"Breadcrumbs, Panko",0.5
+R40110A,Herb-Crusted Pork Tenderloin,"Cheese, Shredded Parmesan",1
+R40110A,Herb-Crusted Pork Tenderloin,Rosemary,0.25
+R40110A,Herb-Crusted Pork Tenderloin,Garlic Powder,1
+R40110A,Herb-Crusted Pork Tenderloin,Lemon,1
+R40110A,Herb-Crusted Pork Tenderloin,"Potato, Yukon B",12
+R40110A,Herb-Crusted Pork Tenderloin,"Lettuce, Spring Mix",4
+R40110A,Herb-Crusted Pork Tenderloin,"Apple, Gala",1
+R40110A,Herb-Crusted Pork Tenderloin,"Cranberries, Dried",1
+R40110A,Herb-Crusted Pork Tenderloin,Walnuts,1
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,"Steak, Sirloin",12
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,Soy Sauce,1
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,"Potato, Yukon B",12
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,Snow Peas 8oz,8
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,"Sauce, Hoisin",1
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,Scallions,2
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,"Sesame Seeds, White",1
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,Sesame Oil,1
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,Sour Cream,1
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,"Butter, Roasted Garlic Herb",1
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,Sriracha Sauce,1
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,"Demi Glace, Beef",1
+R80099A,Soy Steak with Scalllion Mashed Potatoes and Sesame Snow Peas and Edamame,"Edamame, Shelled ",4
+R35129B,Salmon With Creamy Lemon Dill Sauce (with stock),"Salmon, Skin-On",10
+R35129B,Salmon With Creamy Lemon Dill Sauce (with stock),"Green Beans, Microwavable",6
+R35129B,Salmon With Creamy Lemon Dill Sauce (with stock),"Couscous, French",0.5
+R35129B,Salmon With Creamy Lemon Dill Sauce (with stock),Dill,0.25
+R35129B,Salmon With Creamy Lemon Dill Sauce (with stock),Lemon,1
+R35129B,Salmon With Creamy Lemon Dill Sauce (with stock),"Spice, Za'atar - ""Sesame Symphony""",1
+R35129B,Salmon With Creamy Lemon Dill Sauce (with stock),"Stock Concentrate, Veggie",9.6
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,"Chicken, Breasts",12
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,"Potato, Yukon B",12
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,"Onion, Red",1
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,Parsley,0.25
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,Green Beans,6
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,"Mustard, Whole Grain",1
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,"Vinegar, Red Wine",25
+R10118,UK Chicken with Mustard Sauce NOT FOR FAMILY,Sour Cream,1
+R10128,UK Hearty Roasted Chicken with Dijon Mushroom Sauce,"Chicken, Breasts",12
+R10128,UK Hearty Roasted Chicken with Dijon Mushroom Sauce,"Rice, Brown",0.75
+R10128,UK Hearty Roasted Chicken with Dijon Mushroom Sauce,"Mushrooms, Button",4
+R10128,UK Hearty Roasted Chicken with Dijon Mushroom Sauce,"Stock Concentrate, Chicken",9.6
+R10128,UK Hearty Roasted Chicken with Dijon Mushroom Sauce,"Garlic, Peeled",2
+R10128,UK Hearty Roasted Chicken with Dijon Mushroom Sauce,"Thyme, Fresh",0.25
+R10128,UK Hearty Roasted Chicken with Dijon Mushroom Sauce,"Mustard, Dijon, Mini Glass Bottles",1.4
+R60319,Summer Ratatouille,"Eggplant, Italian - 24-30 ct",1
+R60319,Summer Ratatouille,Shallot,2
+R60319,Summer Ratatouille,"Pasta, Tri-Color Tortelloni - Fresh",9
+R60319,Summer Ratatouille,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R60319,Summer Ratatouille,"Herb, Basil",0.5
+R60319,Summer Ratatouille,"Tomato, Roma",1
+R60319,Summer Ratatouille,"Squash, Yellow",8
+R60319,Summer Ratatouille,"Cheese, Shredded Parmesan",1
+R60319,Summer Ratatouille,"Garlic, Peeled",2
+R45058,Sausage and Tomato Risotto,"Sausage, Raw Lean Sweet Italian Pork",9
+R45058,Sausage and Tomato Risotto,"Stock Concentrate, Chicken",9.6
+R45058,Sausage and Tomato Risotto,"Tomato, Diced",14
+R45058,Sausage and Tomato Risotto,"Garlic, Peeled",2
+R45058,Sausage and Tomato Risotto,"Onion, Yellow",1
+R45058,Sausage and Tomato Risotto,Parsley,0.25
+R45058,Sausage and Tomato Risotto,"Rice, Arborio",0.75
+R45058,Sausage and Tomato Risotto,"Cheese, Shredded Parmesan",1
+R40045,Mustard Pork Chops with Roasted Green Beans and Latkes,"Pork, Boneless Chops (2)",12
+R40045,Mustard Pork Chops with Roasted Green Beans and Latkes,Dijon Mustard Packet,10
+R40045,Mustard Pork Chops with Roasted Green Beans and Latkes,"Thyme, Fresh",0.25
+R40045,Mustard Pork Chops with Roasted Green Beans and Latkes,Green Beans,6
+R40045,Mustard Pork Chops with Roasted Green Beans and Latkes,Shallot,2
+R40045,Mustard Pork Chops with Roasted Green Beans and Latkes,"Potato, Yukon B",12
+R40045,Mustard Pork Chops with Roasted Green Beans and Latkes,"Stock Concentrate, Chicken",9.6
+R35064,Tempura Fish Tacos,Sole,12
+R35064,Tempura Fish Tacos,Flour,1
+R35064,Tempura Fish Tacos,"Spice, Blackening Spice - ""Southern Sizzle""",1
+R35064,Tempura Fish Tacos,Radishes,3
+R35064,Tempura Fish Tacos,"Avocado, Hass - 48 ct",1
+R35064,Tempura Fish Tacos,Lime,1
+R35064,Tempura Fish Tacos,"Cabbage, Shredded Red",4
+R35064,Tempura Fish Tacos,"Tortillas, 6-inch Flour",6
+R60253,Chard & Wild Mushroom Penne,"Pasta, Penne",6
+R60253,Chard & Wild Mushroom Penne,Swiss Chard,8
+R60253,Chard & Wild Mushroom Penne,"Mushrooms, Mixed Wild",4
+R60253,Chard & Wild Mushroom Penne,"Garlic, Peeled",2
+R60253,Chard & Wild Mushroom Penne,"Onion, Yellow",1
+R60253,Chard & Wild Mushroom Penne,"Cheese, Shredded Parmesan",1
+R60253,Chard & Wild Mushroom Penne,Chili Flakes,1
+R60253,Chard & Wild Mushroom Penne,Paprika,1
+R90089A,Pho Soup To Noodle Stir Fry,Ginger,1
+R90089A,Pho Soup To Noodle Stir Fry,"Onion, Red",1
+R90089A,Pho Soup To Noodle Stir Fry,Cilantro,0.25
+R90089A,Pho Soup To Noodle Stir Fry,"Stock Concentrate, Chicken",9.6
+R90089A,Pho Soup To Noodle Stir Fry,Thai Seasoning,1
+R90089A,Pho Soup To Noodle Stir Fry,Soy Sauce,1
+R90089A,Pho Soup To Noodle Stir Fry,"Bok Choy, Baby",1
+R90089A,Pho Soup To Noodle Stir Fry,Scallions,2
+R90089A,Pho Soup To Noodle Stir Fry,Lime,1
+R90089A,Pho Soup To Noodle Stir Fry,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R25058D,Spicy Poblano Chili - Family,"Beef, Ground",10
+R25058D,Spicy Poblano Chili - Family,"Pepper, Poblano",1
+R25058D,Spicy Poblano Chili - Family,"Garlic, Peeled",2
+R25058D,Spicy Poblano Chili - Family,Mexican Spice Blend,1
+R25058D,Spicy Poblano Chili - Family,"Stock Concentrate, Veggie",9.6
+R25058D,Spicy Poblano Chili - Family,"Tomato, Crushed",13.76
+R25058D,Spicy Poblano Chili - Family,"Beans, Borlotti",13.4
+R25058D,Spicy Poblano Chili - Family,"Cheese, Shredded Cheddar",2
+R25058D,Spicy Poblano Chili - Family,Scallions,2
+R80098A,,,
+R20162A,Southwest Lime Marinated Steak Fajitas with Spiced Crema,Lime,1
+R20162A,Southwest Lime Marinated Steak Fajitas with Spiced Crema,"Steak, Sirloin",12
+R20162A,Southwest Lime Marinated Steak Fajitas with Spiced Crema,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R20162A,Southwest Lime Marinated Steak Fajitas with Spiced Crema,"Bell Pepper, Green",1
+R20162A,Southwest Lime Marinated Steak Fajitas with Spiced Crema,"Onion, Red",1
+R20162A,Southwest Lime Marinated Steak Fajitas with Spiced Crema,"Pepper, Jalapeno",1
+R20162A,Southwest Lime Marinated Steak Fajitas with Spiced Crema,"Tortillas, 6-inch Flour",6
+R40069,Cuban Pork with Warm Confetti Salad NOT IN FAMILY,"Pork, Boneless Chops (2)",12
+R40069,Cuban Pork with Warm Confetti Salad NOT IN FAMILY,Lime,1
+R40069,Cuban Pork with Warm Confetti Salad NOT IN FAMILY,"Garlic, Peeled",2
+R40069,Cuban Pork with Warm Confetti Salad NOT IN FAMILY,"Spice, Cajun Spice - ""Brass Kickin' """,1
+R40069,Cuban Pork with Warm Confetti Salad NOT IN FAMILY,"Corn on the Cob, 8-inch",1
+R40069,Cuban Pork with Warm Confetti Salad NOT IN FAMILY,"Onion, Red",1
+R40069,Cuban Pork with Warm Confetti Salad NOT IN FAMILY,"Beans, Kidney",13.4
+R40069,Cuban Pork with Warm Confetti Salad NOT IN FAMILY,"Tomato, Roma",1
+R40069,Cuban Pork with Warm Confetti Salad NOT IN FAMILY,Parsley,0.25
+R40069,Cuban Pork with Warm Confetti Salad NOT IN FAMILY,Honey .5oz,0.5
+R60080B,Creamy Tagliatelle with Mushrooms and Tarragon,"Pasta, Tagliatelle",6
+R60080B,Creamy Tagliatelle with Mushrooms and Tarragon,"Mushrooms, Button",4
+R60080B,Creamy Tagliatelle with Mushrooms and Tarragon,Lemon,1
+R60080B,Creamy Tagliatelle with Mushrooms and Tarragon,"Garlic, Peeled",2
+R60080B,Creamy Tagliatelle with Mushrooms and Tarragon,"Onion, Red",1
+R60080B,Creamy Tagliatelle with Mushrooms and Tarragon,Tarragon,0.25
+R60080B,Creamy Tagliatelle with Mushrooms and Tarragon,Sour Cream,1
+R60080B,Creamy Tagliatelle with Mushrooms and Tarragon,"Cheese, Shredded Parmesan",1
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,"Chicken, Breasts",12
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,"Spice, Dukkah - ""Nutty Sesame Crunch""",1
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,Lime,1
+R10125,Do the Dukkah Chicken with Sweet Potatoes and Snap Peas,Sugar Snap Peas,6
+R25181A,Beef And Pepper Tostadas,"Beef, Ground",10
+R25181A,Beef And Pepper Tostadas,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R25181A,Beef And Pepper Tostadas,"Pepper, Cubanelle/Anaheim",1
+R25181A,Beef And Pepper Tostadas,"Onion, Yellow",1
+R25181A,Beef And Pepper Tostadas,"Stock Concentrate, Beef",12
+R25181A,Beef And Pepper Tostadas,"Tomato, Roma",1
+R25181A,Beef And Pepper Tostadas,Cilantro,0.25
+R25181A,Beef And Pepper Tostadas,Lime,1
+R25181A,Beef And Pepper Tostadas,"Tortillas, 6-inch Flour",6
+R25181A,Beef And Pepper Tostadas,"Cheese, Shredded Mexican Cheese Blend",2
+R25181A,Beef And Pepper Tostadas,Hot Sauce,1
+R66677A,,,
+R40062,UK Homemade Pork Schnitzel,"Pork, Boneless Chops (2)",12
+R40062,UK Homemade Pork Schnitzel,"Breadcrumbs, Panko",0.5
+R40062,UK Homemade Pork Schnitzel,Sour Cream,1
+R40062,UK Homemade Pork Schnitzel,"Potato, Yukon B",12
+R40062,UK Homemade Pork Schnitzel,Lemon,1
+R40062,UK Homemade Pork Schnitzel,"Mustard, Dijon, Mini Glass Bottles",1.4
+R40062,UK Homemade Pork Schnitzel,"Vinegar, Balsamic",25
+R40062,UK Homemade Pork Schnitzel,Parsley,0.25
+R40062,UK Homemade Pork Schnitzel,"Tomato, Grape",4
+R40062,UK Homemade Pork Schnitzel,"Squash, Yellow",8
+R80044A,Soy Shiitake Demi Glazed Steak over Wasabi Potatoes with Roasted Asparagus,"Steak, Skirt",12
+R80044A,Soy Shiitake Demi Glazed Steak over Wasabi Potatoes with Roasted Asparagus,"Potato, Yukon B",16
+R80044A,Soy Shiitake Demi Glazed Steak over Wasabi Potatoes with Roasted Asparagus,Wasabi Paste,1
+R80044A,Soy Shiitake Demi Glazed Steak over Wasabi Potatoes with Roasted Asparagus,"Mushrooms, Shiitake",4
+R80044A,Soy Shiitake Demi Glazed Steak over Wasabi Potatoes with Roasted Asparagus,Asparagus,6
+R80044A,Soy Shiitake Demi Glazed Steak over Wasabi Potatoes with Roasted Asparagus,"Demi Glace, Beef",1
+R80044A,Soy Shiitake Demi Glazed Steak over Wasabi Potatoes with Roasted Asparagus,Soy Sauce,1
+R80044A,Soy Shiitake Demi Glazed Steak over Wasabi Potatoes with Roasted Asparagus,Shallot,2
+R80044A,Soy Shiitake Demi Glazed Steak over Wasabi Potatoes with Roasted Asparagus,Scallions,2
+R35127A,Crispy southwest tilapia,Tilapia,11
+R35127A,Crispy southwest tilapia,"Couscous, French",0.5
+R35127A,Crispy southwest tilapia,Lime,1
+R35127A,Crispy southwest tilapia,Chipotle Powder,1
+R35127A,Crispy southwest tilapia,"Breadcrumbs, Panko",0.5
+R35127A,Crispy southwest tilapia,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R35127A,Crispy southwest tilapia,"Green Beans, Microwavable",6
+R35127A,Crispy southwest tilapia,Cilantro,0.25
+R35127A,Crispy southwest tilapia,"Stock Concentrate, Veggie",9.6
+R45106A,,,
+R25064,Fussiloni al Forno,"Pasta, Fussiloni",6
+R25064,Fussiloni al Forno,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R25064,Fussiloni al Forno,"Cheese, Ricotta",4
+R25064,Fussiloni al Forno,"Tomato, Crushed",13.76
+R25064,Fussiloni al Forno,"Spinach, Savoy",8
+R25064,Fussiloni al Forno,"Garlic, Peeled",2
+R25064,Fussiloni al Forno,"Spice, Italian Seasoning - ""So Delizioso""",1
+R25064,Fussiloni al Forno,"Onion, Yellow",1
+R25064,Fussiloni al Forno,"Beef, Ground",10
+R25064,Fussiloni al Forno,"Nutmeg, Ground",1
+R60301,Summer Succotash-Stuffed Peppers,"Peas, Fresh and Frozen - 4 Ounce (oz)",4
+R60301,Summer Succotash-Stuffed Peppers,"Tomato, Roma",1
+R60301,Summer Succotash-Stuffed Peppers,Scallions,2
+R60301,Summer Succotash-Stuffed Peppers,Parsley,0.25
+R60301,Summer Succotash-Stuffed Peppers,"Quinoa, White",0.5
+R60301,Summer Succotash-Stuffed Peppers,"Corn on the Cob, 8-inch",1
+R60301,Summer Succotash-Stuffed Peppers,"Stock Concentrate, Veggie",9.6
+R60301,Summer Succotash-Stuffed Peppers,"Cheese, Feta",2
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,Lemon,1
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,Rosemary,0.25
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Garlic, Peeled",2
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Tomato, Beefsteak 6x6",1
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Onion, Red",1
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Corn on the Cob, 8-inch",1
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Beef, Ground",10
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Cheese, Shredded Parmesan",1
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Bread, Brioche Buns",2
+R40047B,Pork al Mojo,"Pork, Boneless Chops (2)",12
+R40047B,Pork al Mojo,"Rice, Basmati",0.5
+R40047B,Pork al Mojo,Lime,1
+R40047B,Pork al Mojo,"Garlic, Peeled",2
+R40047B,Pork al Mojo,"Oregano, Fresh",0.25
+R40047B,Pork al Mojo,Orange,1
+R40047B,Pork al Mojo,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R40047B,Pork al Mojo,"Jam, Apricot",1
+R40047B,Pork al Mojo,Cilantro,0.25
+R40047B,Pork al Mojo,Scallions,2
+R40047B,Pork al Mojo,"Onion, Red",1
+R40047B,Pork al Mojo,"Beans, Black",13.4
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Chicken, Tenders 12oz (8-11 pieces/pack)",12
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Cheese, Shredded Parmesan",1
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Rosemary, Dried",1
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Potato, Yukon B",12
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,Green Beans,6
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,Eggs,2
+R40079B,Seared Pork Chops with Brussels Sprouts,Sour Cream,1
+R40079B,Seared Pork Chops with Brussels Sprouts,"Pork, Boneless Chops (2)",12
+R40079B,Seared Pork Chops with Brussels Sprouts,Brussels Sprouts,8
+R40079B,Seared Pork Chops with Brussels Sprouts,"Potato, White C",12
+R40079B,Seared Pork Chops with Brussels Sprouts,"Mushrooms, Button",4
+R40079B,Seared Pork Chops with Brussels Sprouts,Shallot,2
+R40079B,Seared Pork Chops with Brussels Sprouts,"Stock Concentrate, Veggie",9.6
+R40079B,Seared Pork Chops with Brussels Sprouts,Parsley,0.25
+R60132,Roasted Carrot and Avocado Salad with Israeli Couscous,"Thyme, Fresh",0.25
+R60132,Roasted Carrot and Avocado Salad with Israeli Couscous,Lemon,1
+R60132,Roasted Carrot and Avocado Salad with Israeli Couscous,"Garlic, Peeled",2
+R60132,Roasted Carrot and Avocado Salad with Israeli Couscous,"Cumin, Ground",1
+R60132,Roasted Carrot and Avocado Salad with Israeli Couscous,Chili Flakes,1
+R60132,Roasted Carrot and Avocado Salad with Israeli Couscous,"Couscous, Israeli",0.75
+R60132,Roasted Carrot and Avocado Salad with Israeli Couscous,"Stock Concentrate, Veggie",9.6
+R60132,Roasted Carrot and Avocado Salad with Israeli Couscous,"Avocado, Hass - 60ct - 1 Piece (pc)",1
+R60132,Roasted Carrot and Avocado Salad with Israeli Couscous,"Lettuce, Arugula",2
+R60132,Roasted Carrot and Avocado Salad with Israeli Couscous,Sour Cream,1
+R60132,Roasted Carrot and Avocado Salad with Israeli Couscous,Pepitas,1
+R40064,Southern Pork Chops with Potato-Collard Hash,"Pork, Boneless Chops (2)",12
+R40064,Southern Pork Chops with Potato-Collard Hash,Collard Greens,8
+R40064,Southern Pork Chops with Potato-Collard Hash,"Potato, Yukon B",12
+R40064,Southern Pork Chops with Potato-Collard Hash,Sour Cream,1
+R40064,Southern Pork Chops with Potato-Collard Hash,"Stock Concentrate, Chicken",9.6
+R40064,Southern Pork Chops with Potato-Collard Hash,"Onion, Yellow",1
+R40064,Southern Pork Chops with Potato-Collard Hash,Flour,0.5
+R40064,Southern Pork Chops with Potato-Collard Hash,"Spice, Cajun Spice - ""Brass Kickin' """,1
+R80036A,"Skirt Steak with Mushroom Sauce and Arugula, Pear, Ricotta Salata Salad","Steak, Skirt",12
+R80036A,"Skirt Steak with Mushroom Sauce and Arugula, Pear, Ricotta Salata Salad","Mushrooms, Button",4
+R80036A,"Skirt Steak with Mushroom Sauce and Arugula, Pear, Ricotta Salata Salad","Butter, Roasted Garlic Herb",1
+R80036A,"Skirt Steak with Mushroom Sauce and Arugula, Pear, Ricotta Salata Salad","Demi Glace, Chicken",1
+R80036A,"Skirt Steak with Mushroom Sauce and Arugula, Pear, Ricotta Salata Salad","Lettuce, Arugula",2
+R80036A,"Skirt Steak with Mushroom Sauce and Arugula, Pear, Ricotta Salata Salad","Pear, Bartlett",1
+R80036A,"Skirt Steak with Mushroom Sauce and Arugula, Pear, Ricotta Salata Salad","Vinegar, Balsamic",25
+R80036A,"Skirt Steak with Mushroom Sauce and Arugula, Pear, Ricotta Salata Salad","Cheese, Ricotta Salata",2
+R25118A,Meatloaf Burger,"Beef, Ground",10
+R25118A,Meatloaf Burger,"Breadcrumbs, Panko",0.25
+R25118A,Meatloaf Burger,"Cheese, Shredded Parmesan",1
+R25118A,Meatloaf Burger,Meatloaf Mix Blend,1
+R25118A,Meatloaf Burger,Ketchup,1
+R25118A,Meatloaf Burger,"Bread, Brioche Buns",2
+R25118A,Meatloaf Burger,Lemon,1
+R25118A,Meatloaf Burger,"Onion, Red",1
+R25118A,Meatloaf Burger,"Lettuce, Spring Mix",2
+R25118A,Meatloaf Burger,Classic BBQ Sauce,2
+R25118A,Meatloaf Burger,Pepitas,1
+R40068B,Cherry-Balsamic Glazed Pork Tenderloin with Fingerlings and Broccoli,"Pork, Tenderloin",12
+R40068B,Cherry-Balsamic Glazed Pork Tenderloin with Fingerlings and Broccoli,"Vinegar, Balsamic",25
+R40068B,Cherry-Balsamic Glazed Pork Tenderloin with Fingerlings and Broccoli,"Jam, Cherry Preserves",1
+R40068B,Cherry-Balsamic Glazed Pork Tenderloin with Fingerlings and Broccoli,Shallot,2
+R40068B,Cherry-Balsamic Glazed Pork Tenderloin with Fingerlings and Broccoli,"Thyme, Dry",1
+R40068B,Cherry-Balsamic Glazed Pork Tenderloin with Fingerlings and Broccoli,"Potato, Fingerling 12oz",12
+R40068B,Cherry-Balsamic Glazed Pork Tenderloin with Fingerlings and Broccoli,"Broccoli, Florets",8
+R45030,Tuscan Pork Linguine (FAMILY ONLY),"Sausage, Raw Lean Sweet Italian Pork",9
+R45030,Tuscan Pork Linguine (FAMILY ONLY),"Pasta, Linguine",6
+R45030,Tuscan Pork Linguine (FAMILY ONLY),"Garlic, Peeled",2
+R45030,Tuscan Pork Linguine (FAMILY ONLY),"Onion, Red",1
+R45030,Tuscan Pork Linguine (FAMILY ONLY),Lemon,1
+R45030,Tuscan Pork Linguine (FAMILY ONLY),"Squash, Zucchini",8
+R45030,Tuscan Pork Linguine (FAMILY ONLY),Chili Flakes,1
+R45030,Tuscan Pork Linguine (FAMILY ONLY),"Cheese, Shredded Parmesan",1
+R45030,Tuscan Pork Linguine (FAMILY ONLY),"Thyme, Dry",1
+R45030,Tuscan Pork Linguine (FAMILY ONLY),"Tomato, Diced",14
+R30060,Sesame Shrimp with Jasmine Rice and Green Beans,Shrimp,10
+R30060,Sesame Shrimp with Jasmine Rice and Green Beans,"Rice, Jasmine",0.75
+R30060,Sesame Shrimp with Jasmine Rice and Green Beans,Ginger,1
+R30060,Sesame Shrimp with Jasmine Rice and Green Beans,Scallions,2
+R30060,Sesame Shrimp with Jasmine Rice and Green Beans,"Garlic, Peeled",2
+R30060,Sesame Shrimp with Jasmine Rice and Green Beans,"Sauce, Hoisin",1
+R30060,Sesame Shrimp with Jasmine Rice and Green Beans,"Sesame Seeds, White",1
+R30060,Sesame Shrimp with Jasmine Rice and Green Beans,Lime,1
+R30060,Sesame Shrimp with Jasmine Rice and Green Beans,Green Beans,6
+R20082,Beef Fajitas with Kiwi Salsa,Beef Stir Fry,10
+R20082,Beef Fajitas with Kiwi Salsa,Kiwi,1
+R20082,Beef Fajitas with Kiwi Salsa,"Tomato, Roma",1
+R20082,Beef Fajitas with Kiwi Salsa,"Onion, Red",1
+R20082,Beef Fajitas with Kiwi Salsa,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R20082,Beef Fajitas with Kiwi Salsa,"Tortillas, 6-inch Flour",6
+R20082,Beef Fajitas with Kiwi Salsa,Scallions,2
+R20082,Beef Fajitas with Kiwi Salsa,Lime,1
+R20082,Beef Fajitas with Kiwi Salsa,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R20082,Beef Fajitas with Kiwi Salsa,"Beans, Kidney",13.4
+R60501A,"Cuban Rice with Halloumi, Poblano, and Salsa Verde","Onion, Red",1
+R60501A,"Cuban Rice with Halloumi, Poblano, and Salsa Verde","Garlic, Peeled",2
+R60501A,"Cuban Rice with Halloumi, Poblano, and Salsa Verde","Cheese, Halloumi Style Grilling",8
+R60501A,"Cuban Rice with Halloumi, Poblano, and Salsa Verde","Rice, Basmati",0.75
+R60501A,"Cuban Rice with Halloumi, Poblano, and Salsa Verde",Lemon,1
+R60501A,"Cuban Rice with Halloumi, Poblano, and Salsa Verde","Spice, Cuban Spice Blend",1
+R30906A,Spicy Korean Style Shrimp With Sesame Cucumber Salad Over Rice,"Sesame Seeds, White",1
+R30906A,Spicy Korean Style Shrimp With Sesame Cucumber Salad Over Rice,"Rice, Jasmine",0.5
+R30906A,Spicy Korean Style Shrimp With Sesame Cucumber Salad Over Rice,Shrimp,10
+R30906A,Spicy Korean Style Shrimp With Sesame Cucumber Salad Over Rice,Soy Sauce,1
+R30906A,Spicy Korean Style Shrimp With Sesame Cucumber Salad Over Rice,Sesame Oil,1
+R30906A,Spicy Korean Style Shrimp With Sesame Cucumber Salad Over Rice,Cornstarch,1
+R30906A,Spicy Korean Style Shrimp With Sesame Cucumber Salad Over Rice,Sriracha Sauce,1
+R30906A,Spicy Korean Style Shrimp With Sesame Cucumber Salad Over Rice,Cucumber Select,1
+R30906A,Spicy Korean Style Shrimp With Sesame Cucumber Salad Over Rice,Scallions,2
+R30906A,Spicy Korean Style Shrimp With Sesame Cucumber Salad Over Rice,"Vinegar, White Wine",25
+R20037B,Steak Tagliata (Family Friendly),"Vinegar, Balsamic",25
+R20037B,Steak Tagliata (Family Friendly),"Steak, Ranch",10
+R20037B,Steak Tagliata (Family Friendly),Green Beans,6
+R20037B,Steak Tagliata (Family Friendly),"Garlic, Peeled",2
+R20037B,Steak Tagliata (Family Friendly),"Tomato, Grape",4
+R20037B,Steak Tagliata (Family Friendly),Rosemary,0.25
+R20037B,Steak Tagliata (Family Friendly),"Stock Concentrate, Beef",12
+R45063B,UK Orecchiette with Herbed Pork (f),"Sausage, Raw Lean Sweet Italian Pork",9
+R45063B,UK Orecchiette with Herbed Pork (f),"Pasta, Orecchiette",6
+R45063B,UK Orecchiette with Herbed Pork (f),"Pesto, Fresh 2oz",2
+R45063B,UK Orecchiette with Herbed Pork (f),Chili Flakes,1
+R45063B,UK Orecchiette with Herbed Pork (f),"Cheese, Shredded Parmesan",1
+R45063B,UK Orecchiette with Herbed Pork (f),"Broccoli, Florets",8
+R60326B,Freekeh & Brussels Sprouts Salad,Brussels Sprouts,8
+R60326B,Freekeh & Brussels Sprouts Salad,"Apple, Gala",1
+R60326B,Freekeh & Brussels Sprouts Salad,"Squash, Butternut",8
+R60326B,Freekeh & Brussels Sprouts Salad,Lemon,1
+R60326B,Freekeh & Brussels Sprouts Salad,Shallot,2
+R60326B,Freekeh & Brussels Sprouts Salad,Freekeh,0.75
+R60326B,Freekeh & Brussels Sprouts Salad,Walnuts,1
+R20039,Soy Glazed Steak,"Steak, Tri-Tip",12
+R20039,Soy Glazed Steak,"Potato, Russet",12
+R20039,Soy Glazed Steak,Wasabi Paste,1
+R20039,Soy Glazed Steak,Scallions,2
+R20039,Soy Glazed Steak,Sour Cream,1
+R20039,Soy Glazed Steak,Soy Sauce,1
+R20039,Soy Glazed Steak,"Vinegar, White Wine",25
+R20039,Soy Glazed Steak,"Garlic, Peeled",2
+R20039,Soy Glazed Steak,Ginger,1
+R20039,Soy Glazed Steak,Green Beans,6
+R20039,Soy Glazed Steak,"Sesame Seeds, White",1
+R20039,Soy Glazed Steak,"Stock Concentrate, Beef",12
+R35053,Roasted Salmon with Grape Tomatoes and Green Beans,"Salmon, Skin-On",10
+R35053,Roasted Salmon with Grape Tomatoes and Green Beans,"Potato, Yukon B",12
+R35053,Roasted Salmon with Grape Tomatoes and Green Beans,Green Beans,6
+R35053,Roasted Salmon with Grape Tomatoes and Green Beans,"Garlic, Peeled",2
+R35053,Roasted Salmon with Grape Tomatoes and Green Beans,"Tomato, Heirloom Grape",4
+R35053,Roasted Salmon with Grape Tomatoes and Green Beans,Dill,0.25
+R70044B,Seitan Tacos al Pastor with Poblano,"Veggie Crumbles, Chorizo",8
+R70044B,Seitan Tacos al Pastor with Poblano,"Pepper, Poblano",1
+R70044B,Seitan Tacos al Pastor with Poblano,"Onion, White",1
+R70044B,Seitan Tacos al Pastor with Poblano,"Pineapple, In-Juice",4
+R70044B,Seitan Tacos al Pastor with Poblano,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R70044B,Seitan Tacos al Pastor with Poblano,Chipotle Powder,1
+R70044B,Seitan Tacos al Pastor with Poblano,Lime,1
+R70044B,Seitan Tacos al Pastor with Poblano,"Tortillas, 6-inch Flour",6
+R70044B,Seitan Tacos al Pastor with Poblano,Cilantro,0.25
+R15166A,,,
+R35100,UK Spiced Buttery Mahi Mahi,"Potato, Yukon B",12
+R35100,UK Spiced Buttery Mahi Mahi,"Curry, Powder",1
+R35100,UK Spiced Buttery Mahi Mahi,Leeks,1
+R35100,UK Spiced Buttery Mahi Mahi,"Garlic, Peeled",2
+R35100,UK Spiced Buttery Mahi Mahi,"Tomato, Grape",4
+R35100,UK Spiced Buttery Mahi Mahi,Tandoori Spice,1
+R35100,UK Spiced Buttery Mahi Mahi,Mahi Mahi,12
+R45089,One-Pot Sausage and Tortellini Soup,"Onion, Yellow",1
+R45089,One-Pot Sausage and Tortellini Soup,Parsley,0.25
+R45089,One-Pot Sausage and Tortellini Soup,Garlic Powder,1
+R45089,One-Pot Sausage and Tortellini Soup,"Oregano, Dried",1
+R45089,One-Pot Sausage and Tortellini Soup,"Sausage, Raw Lean Sweet Italian Pork",9
+R45089,One-Pot Sausage and Tortellini Soup,"Tomato, Crushed",13.76
+R45089,One-Pot Sausage and Tortellini Soup,"Stock Concentrate, Chicken",9.6
+R45089,One-Pot Sausage and Tortellini Soup,"Pasta, Tortelloni - Fresh",9
+R45089,One-Pot Sausage and Tortellini Soup,"Spinach, Baby",5
+R45089,One-Pot Sausage and Tortellini Soup,"Cheese, Shredded Parmesan",1
+R45089,One-Pot Sausage and Tortellini Soup,Chili Flakes,1
+R25091,Thai Beef with Carrot Noodles,"Beef, Ground",10
+R25091,Thai Beef with Carrot Noodles,Green Beans,6
+R25091,Thai Beef with Carrot Noodles,Scallions,2
+R25091,Thai Beef with Carrot Noodles,Cilantro,0.25
+R25091,Thai Beef with Carrot Noodles,"Garlic, Peeled",2
+R25091,Thai Beef with Carrot Noodles,Peanut Butter,1.15
+R25091,Thai Beef with Carrot Noodles,Sriracha Sauce,1
+R25091,Thai Beef with Carrot Noodles,Soy Sauce,1
+R25091,Thai Beef with Carrot Noodles,"Stock Concentrate, Beef",12
+R25091,Thai Beef with Carrot Noodles,"Coriander, Ground",1
+R10138,"Pan-Seared Chicken with Yukon Potatoes, Green Beans, and Creamy Dill Sauce","Chicken, Breasts",12
+R10138,"Pan-Seared Chicken with Yukon Potatoes, Green Beans, and Creamy Dill Sauce","Potato, Yukon B",12
+R10138,"Pan-Seared Chicken with Yukon Potatoes, Green Beans, and Creamy Dill Sauce",Sour Cream,1
+R10138,"Pan-Seared Chicken with Yukon Potatoes, Green Beans, and Creamy Dill Sauce",Green Beans,6
+R10138,"Pan-Seared Chicken with Yukon Potatoes, Green Beans, and Creamy Dill Sauce",Dill,0.25
+R10138,"Pan-Seared Chicken with Yukon Potatoes, Green Beans, and Creamy Dill Sauce",Dijon Mustard Packet,10
+R10138,"Pan-Seared Chicken with Yukon Potatoes, Green Beans, and Creamy Dill Sauce","Stock Concentrate, Chicken",9.6
+R30131A,Crispy Chipotle Shrimp Tacos,Shrimp,10
+R30131A,Crispy Chipotle Shrimp Tacos,Radishes,3
+R30131A,Crispy Chipotle Shrimp Tacos,Chipotle Powder,1
+R30131A,Crispy Chipotle Shrimp Tacos,"Tortillas, 6-inch Corn",6
+R30131A,Crispy Chipotle Shrimp Tacos,"Cabbage, Shredded Red",4
+R30131A,Crispy Chipotle Shrimp Tacos,Lime,1
+R30131A,Crispy Chipotle Shrimp Tacos,Scallions,2
+R20081,Rosemary Beef Skewers with Garlic Bread and Blistered Green Beans,Beef Stir Fry,10
+R20081,Rosemary Beef Skewers with Garlic Bread and Blistered Green Beans,"Bread, Ciabatta",1
+R20081,Rosemary Beef Skewers with Garlic Bread and Blistered Green Beans,"Garlic, Peeled",2
+R20081,Rosemary Beef Skewers with Garlic Bread and Blistered Green Beans,Rosemary,0.25
+R20081,Rosemary Beef Skewers with Garlic Bread and Blistered Green Beans,Lemon,1
+R20081,Rosemary Beef Skewers with Garlic Bread and Blistered Green Beans,Green Beans,6
+R20081,Rosemary Beef Skewers with Garlic Bread and Blistered Green Beans,"Tomato, Heirloom Grape",4
+R15159B,Pulled Pork Rice Bowl,"Rice, Jasmine",0.5
+R15159B,Pulled Pork Rice Bowl,"Onion, Red",1
+R15159B,Pulled Pork Rice Bowl,"Bell Pepper, Green",1
+R15159B,Pulled Pork Rice Bowl,"Tomato, Roma",1
+R15159B,Pulled Pork Rice Bowl,Cilantro,0.25
+R15159B,Pulled Pork Rice Bowl,Lime,1
+R15159B,Pulled Pork Rice Bowl,"Chicken, Pulled",8
+R15159B,Pulled Pork Rice Bowl,Fajita Spice Blend,1
+R15159B,Pulled Pork Rice Bowl,"Stock Concentrate, Chicken",9.6
+R15159B,Pulled Pork Rice Bowl,"Cheese, Shredded Monterey Jack",1
+R70043A,Halloumi Jumble with Chimichurri,"Onion, Red",1
+R70043A,Halloumi Jumble with Chimichurri,"Tomato, Grape",4
+R70043A,Halloumi Jumble with Chimichurri,Cilantro,0.25
+R70043A,Halloumi Jumble with Chimichurri,"Garlic, Peeled",2
+R70043A,Halloumi Jumble with Chimichurri,Lemon,1
+R70043A,Halloumi Jumble with Chimichurri,"Avocado, Hass - 60ct - 1 Piece (pc)",1
+R70043A,Halloumi Jumble with Chimichurri,"Pepper, Thai Bird's Eye Chili",1
+R70043A,Halloumi Jumble with Chimichurri,"Cumin, Ground",1
+R70043A,Halloumi Jumble with Chimichurri,"Cheese, Halloumi Style Grilling",8
+R20091,,,
+R25088,Tortellini Gratin with Tomato-Basil Bolognese and Spinach,"Pasta, Tortelloni - Fresh",9
+R25088,Tortellini Gratin with Tomato-Basil Bolognese and Spinach,"Beef, Ground",10
+R25088,Tortellini Gratin with Tomato-Basil Bolognese and Spinach,"Tomato, Crushed",13.76
+R25088,Tortellini Gratin with Tomato-Basil Bolognese and Spinach,"Onion, Yellow",1
+R25088,Tortellini Gratin with Tomato-Basil Bolognese and Spinach,"Garlic, Peeled",2
+R25088,Tortellini Gratin with Tomato-Basil Bolognese and Spinach,"Herb, Basil",0.5
+R25088,Tortellini Gratin with Tomato-Basil Bolognese and Spinach,Sour Cream,1
+R25088,Tortellini Gratin with Tomato-Basil Bolognese and Spinach,"Breadcrumbs, Panko",0.5
+R25088,Tortellini Gratin with Tomato-Basil Bolognese and Spinach,"Spinach, Baby",5
+R25088,Tortellini Gratin with Tomato-Basil Bolognese and Spinach,"Cheese, Shredded Parmesan",1
+R25089,Cheddar Frico Burger,"Beef, Ground",10
+R25089,Cheddar Frico Burger,"Cheese, Shredded Cheddar",2
+R25089,Cheddar Frico Burger,"Onion, Red",1
+R25089,Cheddar Frico Burger,"Tomato, Roma",1
+R25089,Cheddar Frico Burger,"Vinegar, Sherry",25
+R25089,Cheddar Frico Burger,"Bread, Brioche Buns",2
+R25089,Cheddar Frico Burger,"Broccoli, Florets",8
+R25089,Cheddar Frico Burger,Ketchup,1
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,"Salmon, Skin-On",10
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,Ginger,1
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,Scallions,2
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,"Rice, Jasmine",0.75
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,"Sesame Seeds, White",1
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,Lime,1
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,Sugar Snap Peas,6
+R35126A,Teriyaki Salmon with Ginger Scallion Rice and Snap Peas,Teriyaki Sauce HF Private Label,4
+R40062,UK Homemade Pork Schnitzel,"Pork, Boneless Chops (2)",12
+R40062,UK Homemade Pork Schnitzel,"Breadcrumbs, Panko",0.5
+R40062,UK Homemade Pork Schnitzel,Sour Cream,1
+R40062,UK Homemade Pork Schnitzel,"Potato, Yukon B",12
+R40062,UK Homemade Pork Schnitzel,Lemon,1
+R40062,UK Homemade Pork Schnitzel,"Mustard, Dijon, Mini Glass Bottles",1.4
+R40062,UK Homemade Pork Schnitzel,"Vinegar, Balsamic",25
+R40062,UK Homemade Pork Schnitzel,Parsley,0.25
+R40062,UK Homemade Pork Schnitzel,"Tomato, Grape",4
+R40062,UK Homemade Pork Schnitzel,"Squash, Yellow",8
+R20153A,,,
+R25117B,Dinner and Lunch Chili and Burrito,"Beef, Ground",10
+R25117B,Dinner and Lunch Chili and Burrito,"Chorizo, Dried",3
+R25117B,Dinner and Lunch Chili and Burrito,"Onion, Yellow",1
+R25117B,Dinner and Lunch Chili and Burrito,"Beans, Kidney",13.4
+R25117B,Dinner and Lunch Chili and Burrito,"Pepper, Poblano",1
+R25117B,Dinner and Lunch Chili and Burrito,"Tomato, Crushed",13.76
+R25117B,Dinner and Lunch Chili and Burrito,"Pepper, Jalapeno",1
+R25117B,Dinner and Lunch Chili and Burrito,"Stock Concentrate, Beef",12
+R25117B,Dinner and Lunch Chili and Burrito,Enchilada Spice Blend,1
+R25117B,Dinner and Lunch Chili and Burrito,"Tortillas, 10-inch Flour",2
+R25117B,Dinner and Lunch Chili and Burrito,"Rice, Jasmine",0.75
+R25117B,Dinner and Lunch Chili and Burrito,"Tomato, Roma",1
+R25117B,Dinner and Lunch Chili and Burrito,Cilantro,0.25
+R25117B,Dinner and Lunch Chili and Burrito,Scallions,2
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,Lemon,1
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,Rosemary,0.25
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Garlic, Peeled",2
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Tomato, Beefsteak 6x6",1
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Onion, Red",1
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Corn on the Cob, 8-inch",1
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Beef, Ground",10
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Cheese, Shredded Parmesan",1
+R25139A,Burger With Garlic-Rosemary Mayo And Lemon Butter Corn,"Bread, Brioche Buns",2
+R70041,Seitan Chili,"Veggie Crumbles, Chipotle",8
+R70041,Seitan Chili,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R70041,Seitan Chili,"Rice, Jasmine",0.5
+R70041,Seitan Chili,"Onion, Red",1
+R70041,Seitan Chili,"Beans, Black",13.4
+R70041,Seitan Chili,"Tomato, Roma",1
+R70041,Seitan Chili,Scallions,2
+R70041,Seitan Chili,"Garlic, Peeled",2
+R70041,Seitan Chili,"Stock Concentrate, Veggie",9.6
+R70041,Seitan Chili,"Cheese, Shredded Cheddar",2
+R15033,"Turkey Patty Melt with Mushrooms, Gruyere and Arugula","Turkey, Ground",10
+R15033,"Turkey Patty Melt with Mushrooms, Gruyere and Arugula","Mushrooms, Button",4
+R15033,"Turkey Patty Melt with Mushrooms, Gruyere and Arugula",Mayonnaise,1
+R15033,"Turkey Patty Melt with Mushrooms, Gruyere and Arugula","Cheese, Shredded Gruyere",2
+R15033,"Turkey Patty Melt with Mushrooms, Gruyere and Arugula","Garlic, Peeled",2
+R15033,"Turkey Patty Melt with Mushrooms, Gruyere and Arugula",Shallot,2
+R15033,"Turkey Patty Melt with Mushrooms, Gruyere and Arugula","Lettuce, Arugula",2
+R15033,"Turkey Patty Melt with Mushrooms, Gruyere and Arugula","Vinegar, Balsamic",25
+R15033,"Turkey Patty Melt with Mushrooms, Gruyere and Arugula",Tuscan Heat Spice,1
+R30048,Shrimp and Chorizo Paella,Shrimp,10
+R30048,Shrimp and Chorizo Paella,Saffron,0.03
+R30048,Shrimp and Chorizo Paella,"Paprika, Smoked",1
+R30048,Shrimp and Chorizo Paella,"Chorizo, Dried",3
+R30048,Shrimp and Chorizo Paella,"Rice, Arborio",0.75
+R30048,Shrimp and Chorizo Paella,"Peas, Fresh and Frozen - 4 Ounce (oz)",4
+R30048,Shrimp and Chorizo Paella,"Stock Concentrate, Chicken",9.6
+R30048,Shrimp and Chorizo Paella,"Tomato, Roma",1
+R30048,Shrimp and Chorizo Paella,Parsley,0.25
+R30048,Shrimp and Chorizo Paella,"Onion, Yellow",1
+R30048,Shrimp and Chorizo Paella,"Garlic, Peeled",2
+R25107A,Shepherd's Pie,"Beef, Ground",10
+R25107A,Shepherd's Pie,"Onion, Yellow",1
+R25107A,Shepherd's Pie,"Demi Glace, Beef",1
+R25107A,Shepherd's Pie,"Potato, Yukon B",16
+R25107A,Shepherd's Pie,"Cheese, Shredded Cheddar",2
+R25107A,Shepherd's Pie,"Lettuce, Arugula",2
+R25107A,Shepherd's Pie,Lemon,1
+R25107A,Shepherd's Pie,Flour,1
+R60535A,One-Pot Tortelloni With Heirloom Tomato And Kale,"Cheese, Shredded Parmesan",1
+R60535A,One-Pot Tortelloni With Heirloom Tomato And Kale,"Tomato, Heirloom Grape",4
+R60535A,One-Pot Tortelloni With Heirloom Tomato And Kale,Lemon,1
+R60535A,One-Pot Tortelloni With Heirloom Tomato And Kale,"Pasta, Tortelloni - Fresh",9
+R60535A,One-Pot Tortelloni With Heirloom Tomato And Kale,"Kale, Curly Whole Leaf",4
+R60535A,One-Pot Tortelloni With Heirloom Tomato And Kale,"Garlic, Peeled",2
+R60535A,One-Pot Tortelloni With Heirloom Tomato And Kale,Chili Flakes,1
+R70044B,Seitan Tacos al Pastor with Poblano,"Veggie Crumbles, Chorizo",8
+R70044B,Seitan Tacos al Pastor with Poblano,"Pepper, Poblano",1
+R70044B,Seitan Tacos al Pastor with Poblano,"Onion, White",1
+R70044B,Seitan Tacos al Pastor with Poblano,"Pineapple, In-Juice",4
+R70044B,Seitan Tacos al Pastor with Poblano,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R70044B,Seitan Tacos al Pastor with Poblano,Chipotle Powder,1
+R70044B,Seitan Tacos al Pastor with Poblano,Lime,1
+R70044B,Seitan Tacos al Pastor with Poblano,"Tortillas, 6-inch Flour",6
+R70044B,Seitan Tacos al Pastor with Poblano,Cilantro,0.25
+R30078A,,,
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,"Pasta, Fusilli 6oz",6
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,"Cheese, Feta",2
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,"Broccoli, Florets",8
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,"Rice, Basmati",0.5
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,"Almonds, Sliced",1
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,Scallions,2
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,"Garlic, Peeled",2
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,Tunisian Spice Blend,1
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,"Squash, Zucchini",8
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,Orange,1
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,"Vinegar, White Wine",25
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,"Stock Concentrate, Chicken",9.6
+R90096A,Orange Chicken With Rice Pilaf And Buttery Broccoli To Garlic And Meditteranean Chicken Pasta,"Tomato, Roma",1
+R60306,Caramelized Veggie Skewers,Corn Kernels,13.4
+R60306,Caramelized Veggie Skewers,"Vinegar, White Wine",25
+R60306,Caramelized Veggie Skewers,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R60306,Caramelized Veggie Skewers,"Squash, Zucchini",8
+R60306,Caramelized Veggie Skewers,"Mushrooms, Button",4
+R60306,Caramelized Veggie Skewers,"Tomato, Roma",1
+R60306,Caramelized Veggie Skewers,"Garlic, Peeled",2
+R60306,Caramelized Veggie Skewers,"Cheese, Feta",2
+R60306,Caramelized Veggie Skewers,"Couscous, French",0.5
+R60306,Caramelized Veggie Skewers,Parsley,0.25
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Salmon, Skin-On",10
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Stock Concentrate, Veggie",9.6
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Couscous, French",0.75
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Spice, Turkish Spice Blend - ""All Spice Grand Bazaar""",1
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,Lemon,1
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Sugar, Brown",1
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,Dijon Mustard Packet,10
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,Sour Cream,1
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,Orange,1
+R35118B,Turkish Spiced Salmon With Orange Arugula Salad And Couscous,"Lettuce, Arugula",2
+R10213A,Maple glazed chicken,"Chicken, Breasts",12
+R10213A,Maple glazed chicken,Maple Syrup,1
+R10213A,Maple glazed chicken,"Garlic, Peeled",2
+R10213A,Maple glazed chicken,"Vinegar, Balsamic",25
+R10213A,Maple glazed chicken,Green Beans,6
+R10213A,Maple glazed chicken,"Cinnamon, Ground",1
+R10213A,Maple glazed chicken,Pecans,1
+R20094,,,
+R60435,Grilled Zucchini and Asparagus Farro Bowl,"Onion, Yellow",1
+R60435,Grilled Zucchini and Asparagus Farro Bowl,"Garlic, Peeled",2
+R60435,Grilled Zucchini and Asparagus Farro Bowl,Asparagus - 8 Ounce (oz),8
+R60435,Grilled Zucchini and Asparagus Farro Bowl,"Squash, Zucchini",8
+R60435,Grilled Zucchini and Asparagus Farro Bowl,Farro,0.75
+R60435,Grilled Zucchini and Asparagus Farro Bowl,Lemon,1
+R60435,Grilled Zucchini and Asparagus Farro Bowl,Walnuts,1
+R60435,Grilled Zucchini and Asparagus Farro Bowl,"Cheese, Shredded Parmesan",1
+R45072B,Macaroni a la Vodka,"Pasta, Macaroni",6
+R45072B,Macaroni a la Vodka,"Cheese, Shredded Parmesan",1
+R45072B,Macaroni a la Vodka,"Pork, Pancetta",4
+R45072B,Macaroni a la Vodka,Flour,1
+R45072B,Macaroni a la Vodka,"Garlic, Peeled",2
+R45072B,Macaroni a la Vodka,Parsley,0.25
+R45072B,Macaroni a la Vodka,"Tomato, Crushed",13.76
+R45072B,Macaroni a la Vodka,"Spinach, Baby",5
+R45072B,Macaroni a la Vodka,"Breadcrumbs, Panko",0.25
+R10134,Apricot-Chili Glazed Chicken with Roasted Potatoes and Carrots,"Chicken, Breasts",12
+R10134,Apricot-Chili Glazed Chicken with Roasted Potatoes and Carrots,"Potato, Yukon B",12
+R10134,Apricot-Chili Glazed Chicken with Roasted Potatoes and Carrots,"Jam, Apricot",1
+R10134,Apricot-Chili Glazed Chicken with Roasted Potatoes and Carrots,Chili Flakes,1
+R10134,Apricot-Chili Glazed Chicken with Roasted Potatoes and Carrots,"Thyme, Fresh",0.25
+R10134,Apricot-Chili Glazed Chicken with Roasted Potatoes and Carrots,"Stock Concentrate, Chicken",9.6
+R10134,Apricot-Chili Glazed Chicken with Roasted Potatoes and Carrots,Shallot,2
+R10134,Apricot-Chili Glazed Chicken with Roasted Potatoes and Carrots,Lemon,1
+R30031,Lemony Shrimp Linguine NOT FOR FAM,Shrimp,10
+R30031,Lemony Shrimp Linguine NOT FOR FAM,"Pasta, Linguine",6
+R30031,Lemony Shrimp Linguine NOT FOR FAM,"Garlic, Peeled",2
+R30031,Lemony Shrimp Linguine NOT FOR FAM,Lemon,1
+R30031,Lemony Shrimp Linguine NOT FOR FAM,Parsley,0.25
+R30031,Lemony Shrimp Linguine NOT FOR FAM,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R30031,Lemony Shrimp Linguine NOT FOR FAM,Shallot,2
+R30031,Lemony Shrimp Linguine NOT FOR FAM,Chili Flakes,1
+R45059,UK Cheesy Tomato Orzo Risotto,"Onion, Yellow",1
+R45059,UK Cheesy Tomato Orzo Risotto,"Garlic, Peeled",2
+R45059,UK Cheesy Tomato Orzo Risotto,"Tomato, Grape",4
+R45059,UK Cheesy Tomato Orzo Risotto,"Thyme, Fresh",0.25
+R45059,UK Cheesy Tomato Orzo Risotto,Tomato Paste,6
+R45059,UK Cheesy Tomato Orzo Risotto,"Chorizo, Fresh Ground",6
+R45059,UK Cheesy Tomato Orzo Risotto,"Pasta, Orzo",6
+R45059,UK Cheesy Tomato Orzo Risotto,"Stock Concentrate, Veggie",9.6
+R45059,UK Cheesy Tomato Orzo Risotto,"Cheese, Shredded Mozzarella - 2 Ounce (oz)",2
+R45059,UK Cheesy Tomato Orzo Risotto,"Cheese, Shredded Parmesan",1
+R45059,UK Cheesy Tomato Orzo Risotto,"Spinach, Baby",5
+R10174,Pan Roasted Chicken with Dijon Mustard Sauce,"Chicken, Breasts",12
+R10174,Pan Roasted Chicken with Dijon Mustard Sauce,"Couscous, Israeli",0.5
+R10174,Pan Roasted Chicken with Dijon Mustard Sauce,"Mushrooms, Button",4
+R10174,Pan Roasted Chicken with Dijon Mustard Sauce,"Stock Concentrate, Chicken",9.6
+R10174,Pan Roasted Chicken with Dijon Mustard Sauce,"Garlic, Peeled",2
+R10174,Pan Roasted Chicken with Dijon Mustard Sauce,"Thyme, Fresh",0.25
+R10174,Pan Roasted Chicken with Dijon Mustard Sauce,Dijon Mustard Packet,5
+R10174,Pan Roasted Chicken with Dijon Mustard Sauce,Lemon,1
+R10174,Pan Roasted Chicken with Dijon Mustard Sauce,"Lettuce, Arugula",2
+R30015B,Shrimp and Snap Pea Risotto - Summer,"Stock Concentrate, Veggie",9.6
+R30015B,Shrimp and Snap Pea Risotto - Summer,Sugar Snap Peas,6
+R30015B,Shrimp and Snap Pea Risotto - Summer,"Onion, Yellow",1
+R30015B,Shrimp and Snap Pea Risotto - Summer,"Garlic, Peeled",2
+R30015B,Shrimp and Snap Pea Risotto - Summer,"Lemon, Meyer",1
+R30015B,Shrimp and Snap Pea Risotto - Summer,"Rice, Arborio",0.75
+R30015B,Shrimp and Snap Pea Risotto - Summer,Shrimp,10
+R30015B,Shrimp and Snap Pea Risotto - Summer,"Cheese, Shredded Parmesan",1
+R10259A,Grilled Tuscan Chicken & Broccoli with Spicy Lemon Pasta,"Chicken, Breasts",12
+R10259A,Grilled Tuscan Chicken & Broccoli with Spicy Lemon Pasta,Lemon,1
+R10259A,Grilled Tuscan Chicken & Broccoli with Spicy Lemon Pasta,"Pasta, Gemeli",6
+R10259A,Grilled Tuscan Chicken & Broccoli with Spicy Lemon Pasta,"Broccoli, Florets",8
+R10259A,Grilled Tuscan Chicken & Broccoli with Spicy Lemon Pasta,"Cheese, Ricotta Salata",2
+R10259A,Grilled Tuscan Chicken & Broccoli with Spicy Lemon Pasta,"Garlic, Peeled",2
+R10259A,Grilled Tuscan Chicken & Broccoli with Spicy Lemon Pasta,Tuscan Heat Spice,1
+R10259A,Grilled Tuscan Chicken & Broccoli with Spicy Lemon Pasta,Chili Flakes,1
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Beef, Ground",10
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Tomato, Roma",1
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Onion, Red",1
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Squash, Zucchini",8
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,Parsley,0.25
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,Bulgur Wheat,0.5
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,Sumac - 1tsp,1
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,Sugar Snap Peas ,8
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Stock Concentrate, Chicken",9.6
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,Sour Cream,1
+R25090,Shawarma Beef Meatballs w Bulgur and broiled vegetables,"Breadcrumbs, Panko",0.25
+R25037,Caramelized Onion Shepherd's Pie,"Beef, Ground",10
+R25037,Caramelized Onion Shepherd's Pie,"Potato, Yukon B",12
+R25037,Caramelized Onion Shepherd's Pie,"Cheese, Shredded Parmesan",1
+R25037,Caramelized Onion Shepherd's Pie,"Onion, Yellow",1
+R25037,Caramelized Onion Shepherd's Pie,"Garlic, Peeled",2
+R25037,Caramelized Onion Shepherd's Pie,Flour,1
+R25037,Caramelized Onion Shepherd's Pie,"Stock Concentrate, Chicken",9.6
+R25037,Caramelized Onion Shepherd's Pie,"Carrots, Baby Stemmed",8
+R25037,Caramelized Onion Shepherd's Pie,"Peas, Fresh and Frozen - 4 Ounce (oz)",4
+R25037,Caramelized Onion Shepherd's Pie,"Thyme, Fresh",0.25
+R25037,Caramelized Onion Shepherd's Pie,Milk - Private Label,6.75
+R80080A,Hoisin Seared Ribeye with Scallion Sesame Pesto,"Potato, Yukon B",16
+R80080A,Hoisin Seared Ribeye with Scallion Sesame Pesto,"Garlic, Peeled",2
+R80080A,Hoisin Seared Ribeye with Scallion Sesame Pesto,Ginger,1
+R80080A,Hoisin Seared Ribeye with Scallion Sesame Pesto,Cilantro,0.25
+R80080A,Hoisin Seared Ribeye with Scallion Sesame Pesto,Lime,1
+R80080A,Hoisin Seared Ribeye with Scallion Sesame Pesto,"Sauce, Hoisin",1
+R80080A,Hoisin Seared Ribeye with Scallion Sesame Pesto,Soy Sauce,1
+R80080A,Hoisin Seared Ribeye with Scallion Sesame Pesto,"Steak, Ribeye",12
+R80080A,Hoisin Seared Ribeye with Scallion Sesame Pesto,Sesame Oil,1
+R80080A,Hoisin Seared Ribeye with Scallion Sesame Pesto,"Sesame Seeds, White",1
+R80080A,Hoisin Seared Ribeye with Scallion Sesame Pesto,Sriracha Sauce,1
+R40017B,Spice Rubbed Pork with Sweet Potato Fries and Pineapple-Avocado Salsa,"Pork, Tenderloin",12
+R40017B,Spice Rubbed Pork with Sweet Potato Fries and Pineapple-Avocado Salsa,"Pineapple, In-Juice",4
+R40017B,Spice Rubbed Pork with Sweet Potato Fries and Pineapple-Avocado Salsa,"Avocado, Hass - 60ct - 1 Piece (pc)",1
+R40017B,Spice Rubbed Pork with Sweet Potato Fries and Pineapple-Avocado Salsa,Scallions,2
+R40017B,Spice Rubbed Pork with Sweet Potato Fries and Pineapple-Avocado Salsa,Cilantro,0.25
+R40017B,Spice Rubbed Pork with Sweet Potato Fries and Pineapple-Avocado Salsa,Lime,1
+R40017B,Spice Rubbed Pork with Sweet Potato Fries and Pineapple-Avocado Salsa,"Curry, Powder",1
+R40119A,,,
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Chicken, Tenders 12oz (8-11 pieces/pack)",12
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Cheese, Shredded Parmesan",1
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Rosemary, Dried",1
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,"Potato, Yukon B",12
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,Green Beans,6
+R10167B,Baked Parmesan Chicken Nuggets with Green Beans and Oven Fries,Eggs,2
+R40097A,Balsamic glazed pork with couscous - Dinner to Lunch,"Pork, Boneless Chops (2)",12
+R40097A,Balsamic glazed pork with couscous - Dinner to Lunch,"Couscous, French",0.5
+R40097A,Balsamic glazed pork with couscous - Dinner to Lunch,"Apple, Gala",1
+R40097A,Balsamic glazed pork with couscous - Dinner to Lunch,"Cheese, Halloumi Style Grilling",8
+R40097A,Balsamic glazed pork with couscous - Dinner to Lunch,Lemon,1
+R40097A,Balsamic glazed pork with couscous - Dinner to Lunch,Shallot,2
+R40097A,Balsamic glazed pork with couscous - Dinner to Lunch,"Stock Concentrate, Chicken",9.6
+R60538A,"Pasta With Baby Broccoli, Basil, And Sun Dried Tomto Cream","Pasta, Fusilli 6oz",6
+R60538A,"Pasta With Baby Broccoli, Basil, And Sun Dried Tomto Cream","Broccoli, Florets",8
+R60538A,"Pasta With Baby Broccoli, Basil, And Sun Dried Tomto Cream","Garlic, Peeled",2
+R60538A,"Pasta With Baby Broccoli, Basil, And Sun Dried Tomto Cream","Tomato, Sun-Dried",1.5
+R60538A,"Pasta With Baby Broccoli, Basil, And Sun Dried Tomto Cream",Milk - Private Label,6.75
+R60538A,"Pasta With Baby Broccoli, Basil, And Sun Dried Tomto Cream",Chili Flakes,1
+R60538A,"Pasta With Baby Broccoli, Basil, And Sun Dried Tomto Cream","Almonds, Sliced",1
+R60538A,"Pasta With Baby Broccoli, Basil, And Sun Dried Tomto Cream","Cheese, Shredded Parmesan",1
+R60538A,"Pasta With Baby Broccoli, Basil, And Sun Dried Tomto Cream",Flour,1
+R60538A,"Pasta With Baby Broccoli, Basil, And Sun Dried Tomto Cream","Herb, Basil",0.5
+R30012,Chili Cashew Shrimp with Brown Rice,Shrimp,10
+R30012,Chili Cashew Shrimp with Brown Rice,"Rice, Jasmine",0.5
+R30012,Chili Cashew Shrimp with Brown Rice,"Noodles, Fresh Yakisoba",16
+R30012,Chili Cashew Shrimp with Brown Rice,"Pepper, Thai Bird's Eye Chili",1
+R30012,Chili Cashew Shrimp with Brown Rice,"Garlic, Peeled",2
+R30012,Chili Cashew Shrimp with Brown Rice,Ginger,1
+R30012,Chili Cashew Shrimp with Brown Rice,Sugar Snap Peas,6
+R30012,Chili Cashew Shrimp with Brown Rice,Scallions,2
+R30012,Chili Cashew Shrimp with Brown Rice,Cashews Pieces,1
+R30012,Chili Cashew Shrimp with Brown Rice,Soy Sauce,1
+R40113A,Sweet and Tangy Glazed Pork Chops,"Pork, Boneless Chops (2)",12
+R40113A,Sweet and Tangy Glazed Pork Chops,"Vinegar, Sherry",25
+R40113A,Sweet and Tangy Glazed Pork Chops,"Demi Glace, Chicken",1
+R40113A,Sweet and Tangy Glazed Pork Chops,Shallot,2
+R40113A,Sweet and Tangy Glazed Pork Chops,Parsley,0.25
+R40113A,Sweet and Tangy Glazed Pork Chops,Green Beans,6
+R40113A,Sweet and Tangy Glazed Pork Chops,Maple Syrup,1
+R40113A,Sweet and Tangy Glazed Pork Chops,"Butter, Cinnamon",1
+R40113A,Sweet and Tangy Glazed Pork Chops,"Almonds, Sliced",1
+R15065,Roast Chicken Dinner,"Chicken, Half",24
+R15065,Roast Chicken Dinner,"Potato, Yukon B",12
+R15065,Roast Chicken Dinner,"Onions, White Pearl",4
+R15065,Roast Chicken Dinner,"Carrots, Baby Stemmed",8
+R15065,Roast Chicken Dinner,Lemon,1
+R15065,Roast Chicken Dinner,"Thyme, Fresh",0.25
+R15065,Roast Chicken Dinner,Rosemary,0.25
+R80016B,Ribeye with Bearnaise Style Sauce,"Steak, Ribeye",12
+R80016B,Ribeye with Bearnaise Style Sauce,"Potato, Fingerling 12oz",12
+R80016B,Ribeye with Bearnaise Style Sauce,Asparagus - 8 Ounce (oz),8
+R80016B,Ribeye with Bearnaise Style Sauce,Shallot,2
+R80016B,Ribeye with Bearnaise Style Sauce,Tarragon,0.25
+R80016B,Ribeye with Bearnaise Style Sauce,"Vinegar, White Wine",25
+R80016B,Ribeye with Bearnaise Style Sauce,"Stock Concentrate, Beef",12
+R80016B,Ribeye with Bearnaise Style Sauce,Rosemary,0.25
+R60518A,Baked Veggie Pasta Parmesan,"Squash, Zucchini",8
+R60518A,Baked Veggie Pasta Parmesan,"Cheese, Fresh Mozzarella - 4 Ounce (oz)",4
+R60518A,Baked Veggie Pasta Parmesan,"Onion, Yellow",1
+R60518A,Baked Veggie Pasta Parmesan,"Garlic, Peeled",2
+R60518A,Baked Veggie Pasta Parmesan,"Herb, Basil",0.5
+R60518A,Baked Veggie Pasta Parmesan,"Pasta, Penne",6
+R60518A,Baked Veggie Pasta Parmesan,Tuscan Heat Spice,1
+R60518A,Baked Veggie Pasta Parmesan,Marinara Sauce - HF Private Label,14
+R60518A,Baked Veggie Pasta Parmesan,"Cheese, Shredded Parmesan",1
+R60518A,Baked Veggie Pasta Parmesan,"Breadcrumbs, Panko",0.25
+R10145C,Chicken and Pineapple Quesadillas,"Chicken, Stir Fry",10
+R10145C,Chicken and Pineapple Quesadillas,"Bell Pepper, Green",1
+R10145C,Chicken and Pineapple Quesadillas,"Onion, Red",1
+R10145C,Chicken and Pineapple Quesadillas,"Tomato, Roma",1
+R10145C,Chicken and Pineapple Quesadillas,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R10145C,Chicken and Pineapple Quesadillas,"Tortillas, 10-inch Flour",2
+R10145C,Chicken and Pineapple Quesadillas,Cilantro,0.25
+R10145C,Chicken and Pineapple Quesadillas,Lime,1
+R10145C,Chicken and Pineapple Quesadillas,Sour Cream,1
+R10145C,Chicken and Pineapple Quesadillas,"Pineapple, In-Juice",4
+R60286,Sweet Potato & Quinoa Bowl,"Quinoa, White",0.5
+R60286,Sweet Potato & Quinoa Bowl,"Avocado, Hass - 60ct - 1 Piece (pc)",1
+R60286,Sweet Potato & Quinoa Bowl,"Cheese, Feta",2
+R60286,Sweet Potato & Quinoa Bowl,Orange,1
+R60286,Sweet Potato & Quinoa Bowl,Lemon,1
+R60286,Sweet Potato & Quinoa Bowl,Dijon Mustard Packet,10
+R60286,Sweet Potato & Quinoa Bowl,"Lettuce, Arugula",2
+R60286,Sweet Potato & Quinoa Bowl,"Almonds, Sliced",1
+R35169A,Tilapia with Scallion Pesto over Ginger Jasmine Rice with Green Beans,Tilapia,11
+R35169A,Tilapia with Scallion Pesto over Ginger Jasmine Rice with Green Beans,"Sesame Seeds, White",1
+R35169A,Tilapia with Scallion Pesto over Ginger Jasmine Rice with Green Beans,"Rice, Jasmine",0.5
+R35169A,Tilapia with Scallion Pesto over Ginger Jasmine Rice with Green Beans,Sesame Oil,1
+R35169A,Tilapia with Scallion Pesto over Ginger Jasmine Rice with Green Beans,Lime,1
+R35169A,Tilapia with Scallion Pesto over Ginger Jasmine Rice with Green Beans,Ginger,1
+R35169A,Tilapia with Scallion Pesto over Ginger Jasmine Rice with Green Beans,Green Beans,6
+R35169A,Tilapia with Scallion Pesto over Ginger Jasmine Rice with Green Beans,Soy Sauce,1
+R35169A,Tilapia with Scallion Pesto over Ginger Jasmine Rice with Green Beans,Sriracha Sauce,1
+R45012,Seared Sausages with Warm Orzo Salad,"Sausage, Raw Lean Sweet Italian Pork",9
+R45012,Seared Sausages with Warm Orzo Salad,"Pasta, Orzo",6
+R45012,Seared Sausages with Warm Orzo Salad,"Squash, Zucchini",8
+R45012,Seared Sausages with Warm Orzo Salad,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R45012,Seared Sausages with Warm Orzo Salad,"Garlic, Peeled",2
+R45012,Seared Sausages with Warm Orzo Salad,"Onion, Red",1
+R45012,Seared Sausages with Warm Orzo Salad,"Tomato, Grape",4
+R45012,Seared Sausages with Warm Orzo Salad,Parsley,0.25
+R45012,Seared Sausages with Warm Orzo Salad,Lemon,1
+R25179A,,,
+R45182A,,,
+R20054,Quick-Marinated Steak,"Steak, Sirloin",12
+R20054,Quick-Marinated Steak,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R20054,Quick-Marinated Steak,"Squash, Zucchini",8
+R20054,Quick-Marinated Steak,"Garlic, Peeled",2
+R20054,Quick-Marinated Steak,"Vinegar, Balsamic",25
+R20054,Quick-Marinated Steak,Rosemary,0.25
+R20054,Quick-Marinated Steak,Orange,1
+R20054,Quick-Marinated Steak,"Potato, Yukon B",12
+R10254A,Cheesy Chicken Enchilada Casserole,"Chicken, Breasts",12
+R10254A,Cheesy Chicken Enchilada Casserole,"Sauce, Enchilada Sauce - Private Label ",7.06
+R10254A,Cheesy Chicken Enchilada Casserole,"Cheese, Shredded Monterey Jack",1
+R10254A,Cheesy Chicken Enchilada Casserole,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R10254A,Cheesy Chicken Enchilada Casserole,Sour Cream,1
+R10254A,Cheesy Chicken Enchilada Casserole,"Tortillas, 6-inch Flour",6
+R10254A,Cheesy Chicken Enchilada Casserole,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R10254A,Cheesy Chicken Enchilada Casserole,Scallions,2
+R10254A,Cheesy Chicken Enchilada Casserole,Lime,1
+R25132A,Taco Pizza,"Tomato, Roma",1
+R25132A,Taco Pizza,"Pepper, Poblano",1
+R25132A,Taco Pizza,Cilantro,0.25
+R25132A,Taco Pizza,"Pepper, Jalapeno",1
+R25132A,Taco Pizza,"Beef, Ground",10
+R25132A,Taco Pizza,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R25132A,Taco Pizza,"Bread, Flatbread",2
+R25132A,Taco Pizza,"Cheese, Shredded Mexican Cheese Blend",2
+R25132A,Taco Pizza,"Cheese, Shredded Monterey Jack",1
+R25132A,Taco Pizza,Hot Sauce,1
+R10130,HDP Chicken with Farro Caprese,"Chicken, Breasts",12
+R10130,HDP Chicken with Farro Caprese,Farro,0.5
+R10130,HDP Chicken with Farro Caprese,"Tomato, Grape",4
+R10130,HDP Chicken with Farro Caprese,"Spice, Herbes de Provence - ""Rosemary Lavender Riviera""",1
+R10130,HDP Chicken with Farro Caprese,"Vinegar, Balsamic",25
+R10130,HDP Chicken with Farro Caprese,Honey .5oz,0.5
+R10130,HDP Chicken with Farro Caprese,Shallot,2
+R10130,HDP Chicken with Farro Caprese,"Cheese, Fresh Mozzarella - 4 Ounce (oz)",4
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Bread, Flatbread",2
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Cheese, Fresh Mozzarella - 4 Ounce (oz)",4
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Sausage, Raw Lean Sweet Italian Pork",9
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Tomato, Crushed",13.76
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Lettuce, Spring Mix",2
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Vinegar, White Wine",25
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Pepper, Jalapeno",1
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad",Shallot,2
+R45113A,"Sausage Flatbreads with Pickled Jalapeno, Shallot, and Salad","Spice, Italian Seasoning - ""So Delizioso""",1
+R20091,,,
+R66672A,,,
+R60534A,Tomato Ricotta Flatbread,"Bread, Flatbread",2
+R60534A,Tomato Ricotta Flatbread,"Squash, Zucchini",8
+R60534A,Tomato Ricotta Flatbread,"Tomato, Grape",4
+R60534A,Tomato Ricotta Flatbread,"Garlic, Peeled",2
+R60534A,Tomato Ricotta Flatbread,Lemon,1
+R60534A,Tomato Ricotta Flatbread,"Cheese, Ricotta",4
+R60534A,Tomato Ricotta Flatbread,"Herb, Basil",0.5
+R60534A,Tomato Ricotta Flatbread,Chili Flakes,1
+R60534A,Tomato Ricotta Flatbread,Honey .5oz,0.5
+R60456B,Squash Flatbread with Fresh Mozzarella,"Squash, Yellow",8
+R60456B,Squash Flatbread with Fresh Mozzarella,Pine Nuts,1
+R60456B,Squash Flatbread with Fresh Mozzarella,"Cheese, Fresh Mozzarella - 4 Ounce (oz)",4
+R60456B,Squash Flatbread with Fresh Mozzarella,Scallions,2
+R60456B,Squash Flatbread with Fresh Mozzarella,"Bread, Flatbread",2
+R60456B,Squash Flatbread with Fresh Mozzarella,"Herb, Basil",0.5
+R60456B,Squash Flatbread with Fresh Mozzarella,"Lettuce, Spring Mix",2
+R60456B,Squash Flatbread with Fresh Mozzarella,Lemon,1
+R60456B,Squash Flatbread with Fresh Mozzarella,"Tomato, Grape",4
+R60456B,Squash Flatbread with Fresh Mozzarella,Honey .5oz,0.5
+R60456B,Squash Flatbread with Fresh Mozzarella,Chili Flakes,1
+R10183,Eastern Carolina Pulled Chicken,"Chicken, Breasts",12
+R10183,Eastern Carolina Pulled Chicken,"Cabbage, Shredded Red",4
+R10183,Eastern Carolina Pulled Chicken,Scallions,2
+R10183,Eastern Carolina Pulled Chicken,"Stock Concentrate, Chicken",9.6
+R10183,Eastern Carolina Pulled Chicken,"Spice, BBQ Seasoning - ""Sweet, Sweet Rub""",1
+R10183,Eastern Carolina Pulled Chicken,"Bread, Potato Hamburger",2
+R10183,Eastern Carolina Pulled Chicken,"Squash, Zucchini",8
+R10183,Eastern Carolina Pulled Chicken,Classic BBQ Sauce,2
+R15102A,Apple turkey burger,"Turkey, Ground",10
+R15102A,Apple turkey burger,"Bread, Brioche Buns",2
+R15102A,Apple turkey burger,"Apple, Fuji",1
+R15102A,Apple turkey burger,Sage,0.25
+R15102A,Apple turkey burger,"Breadcrumbs, Panko",0.5
+R15102A,Apple turkey burger,Walnuts,1
+R15102A,Apple turkey burger,"Garlic, Peeled",2
+R15102A,Apple turkey burger,Mayonnaise,1
+R15102A,Apple turkey burger,"Lettuce, Spring Mix",4
+R15102A,Apple turkey burger,"Cranberries, Dried",1
+R15102A,Apple turkey burger,Lemon,1
+R40023B,Flaming Pork Fajitas,"Tortillas, 6-inch Flour",6
+R40023B,Flaming Pork Fajitas,"Pork, Boneless Chops (2)",12
+R40023B,Flaming Pork Fajitas,"Avocado, Hass - 60ct - 1 Piece (pc)",1
+R40023B,Flaming Pork Fajitas,"Bell Pepper, Red/Orange/Yellow - Hot House Grown",1
+R40023B,Flaming Pork Fajitas,Cilantro,0.25
+R40023B,Flaming Pork Fajitas,"Onion, Red",1
+R40023B,Flaming Pork Fajitas,"Spice, Southwest Spice - ""Warm n' Smoky""",1
+R40023B,Flaming Pork Fajitas,Lemon,1

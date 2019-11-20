@@ -1,0 +1,5 @@
+best parameters set:
+	 gbr__learning_rate: 0.1
+	 gbr__max_depth: 3
+	 gbr__max_features: 'log2'
+	 gbr__n_estimators: 20
