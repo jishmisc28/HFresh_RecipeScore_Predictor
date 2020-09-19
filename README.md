@@ -1,13 +1,7 @@
-#HFresh_RecipeScore_Predictor
+HFresh_RecipeScore_Predictor
 
 
 ##Food Recipe Score Prediction Challenge
-
-**Refrences link(to_read) : https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
-**Refrences link : https://lib.ugent.be/fulltxt/RUG01/002/166/653/RUG01-002166653_2014_0001_AC.pdf
-**Refrences link : https://github.com/sinclam2/regression-analysis-with-python/blob/master/03-Multiple-Regression-in-Action.ipynb
-**Refrences link : https://github.com/abtpst/Kaggle-Whats-Cooking/blob/master/src/cook/cookTrain.py
-
 
 __Problem Statement__
 
@@ -64,3 +58,11 @@ Here is the flow of events
 1. Create `GridSearchCV` `Pipeline` comprising of custom feature transformer and `GradientBoostingRegressor` regressor. This time we use the best set set of parameters obtained from training.
 2.  Load test data and perform cleanup and feature transformation. 
 3.  Make predictions on the test data and store prediction output in out folder.
+
+
+
+**Refrences link : https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
+**Refrences link : https://lib.ugent.be/fulltxt/RUG01/002/166/653/RUG01-002166653_2014_0001_AC.pdf
+**Refrences link : https://github.com/sinclam2/regression-analysis-with-python/blob/master/03-Multiple-Regression-in-Action.ipynb
+**Refrences link : https://github.com/abtpst/Kaggle-Whats-Cooking/blob/master/src/cook/cookTrain.py
+
