@@ -1,4 +1,4 @@
-### HFresh_RecipeScore_Predictor
+### Hello Fresh RecipeScore Predictor
 
 
 ##Food Recipe Score Prediction Challenge
